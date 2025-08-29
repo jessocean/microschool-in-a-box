@@ -5,7 +5,13 @@
       "Bash(powershell.exe:*)",
       "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" --version)",
       "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" repo create microschool-in-a-box --public --description \"Microschool compliance research framework and educational resources\")",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "WebFetch(domain:www.acgov.org)",
+      "WebFetch(domain:www.cde.ca.gov)",
+      "WebFetch(domain:deh.acgov.org)"
     ],
     "deny": []
   }

@@ -1,0 +1,214 @@
+CALIFORNIA STATE REGULATIONS FOR ONE-ROOM SCHOOLHOUSE
+
+Parameters: One-Room-Schoolhouse (1 teacher, 12-20 students ages 5-14, no parents present, food served, residential dwelling)
+Date of Research: August 29, 2025
+Sources: California Education Code, California Revenue and Taxation Code, California Building Code 2022, California Fire Code 2022
+
+====================================================================
+
+1. SCHOOL LICENSING REQUIREMENTS
+
+PRIVATE SCHOOL AFFIDAVIT FILING
+Legal Requirement: California Education Code Section 33190
+- Must file Private School Affidavit (PSA) annually between October 1-15
+- Required for all private schools offering elementary/high school instruction to students ages 6-18
+- Filing must be completed online at California Department of Education website
+- Schools established after October 15 must file immediately upon establishment
+- Schools established in July must wait until August to file
+
+Compliance Criteria:
+- Annual filing between October 1-15 (mandatory window)
+- Must cover all students ages 6-18 in the facility
+- Online submission through CDE website required
+- No filing fee
+
+CURRICULUM REQUIREMENTS
+Legal Requirement: California Education Code Section 51210
+- Must offer "instruction in the several branches of study required to be taught in public schools"
+- No specific state curriculum mandated for private schools
+- Must provide full-time instruction for students ages 6-18
+
+Compliance Criteria:
+- Instruction must cover subjects comparable to public school requirements
+- Full-time educational program required
+- No state approval of curriculum required
+
+====================================================================
+
+2. EMPLOYMENT LAW REQUIREMENTS
+
+BACKGROUND CHECK AND FINGERPRINTING
+Legal Requirement: California Education Code Section 44237
+- All applicants for positions requiring contact with minor pupils must submit fingerprints
+- Two sets of fingerprints required for DOJ and FBI criminal record checks
+- Applies to all private school employees with student contact
+
+Compliance Criteria:
+- Two sets of fingerprints submitted to California Department of Justice
+- DOJ must provide criminal record summary within 15 working days (3 days with electronic system)
+- Information must be stored in locked file separate from other files
+- Information must be destroyed upon hiring determination
+- Background check must cover: sex offenses, controlled substance offenses, crimes of violence, serious/violent felonies
+
+Mandatory Fee: Fingerprinting and background check processing fees (varies by provider)
+
+WORKERS COMPENSATION INSURANCE
+Legal Requirement: California Labor Code Section 3700
+- Mandatory for all employers with one or more employees
+- Must maintain workers compensation insurance coverage
+
+Compliance Criteria:
+- Coverage required for all employees including part-time
+- Must obtain certificate of insurance
+- Coverage must be maintained continuously during employment periods
+
+====================================================================
+
+3. BUSINESS REGISTRATION REQUIREMENTS
+
+LLC FORMATION
+Legal Requirement: California Corporations Code Section 17701.04
+- Must register with California Secretary of State
+- Professional services restrictions may apply (California Corporations Code Section 17375)
+
+Compliance Criteria:
+- File Articles of Organization online at bizfileOnline.sos.ca.gov
+- Registration fee: $70
+- Additional taxes and fees: $820 (due within first 4 months)
+- Annual franchise tax: $800 minimum
+
+FEDERAL AND STATE TAX REGISTRATION
+Legal Requirement: Internal Revenue Code, California Revenue and Taxation Code
+- Federal Employer Identification Number (EIN) required
+- California tax registration required
+
+Compliance Criteria:
+- Obtain EIN from IRS (no fee)
+- Register with California Franchise Tax Board
+- Register with California Department of Tax and Fee Administration if applicable
+
+====================================================================
+
+4. TAX OBLIGATIONS
+
+PROPERTY TAX EXEMPTIONS
+Legal Requirement: California Revenue and Taxation Code Section 214 (Welfare Exemption)
+- Private schools may qualify for property tax exemption if meeting welfare exemption criteria
+- Requires nonprofit status and exclusive use for educational purposes
+
+Compliance Criteria for Exemption:
+- Property used exclusively for school purposes (less than collegiate grade)
+- Owned/operated by religious, hospital, or charitable entities
+- Must qualify as 501(c)(3) or 501(c)(4) with IRS or Franchise Tax Board
+- Property must be irrevocably dedicated to religious, charitable, scientific, or hospital purposes
+- No part of net earnings may benefit private individuals
+- Property cannot exceed amount reasonably necessary for exempt purpose
+
+FRANCHISE TAX
+Legal Requirement: California Revenue and Taxation Code Section 23153
+- Annual minimum franchise tax: $800 for LLCs
+- Due regardless of income level
+
+Compliance Criteria:
+- Annual payment required
+- Due date: 15th day of 4th month after beginning of tax year
+- Mandatory fee: $800 annually
+
+====================================================================
+
+5. BUILDING AND FIRE SAFETY REQUIREMENTS
+
+BUILDING CODE OCCUPANCY CLASSIFICATION
+Legal Requirement: California Building Code Chapter 3 (Occupancy Classification)
+- Educational use with 12-20 students classifies as Group E occupancy
+- Mixed occupancy requirements apply for residential dwelling use
+
+Compliance Criteria:
+- Group E classification for educational component
+- Group R classification for any residential components
+- Must comply with most restrictive requirements of applicable occupancy groups
+- Maximum occupancy load calculations required for student capacity
+
+FIRE SAFETY SYSTEMS
+Legal Requirement: California Fire Code Section 903.2
+- Mixed occupancy buildings with Group R components require automatic sprinkler systems
+- Fire safety and evacuation plans required per California Fire Code Sections 401.2 and 404
+
+Compliance Criteria:
+- Automatic sprinkler system installation required for mixed Group E/Group R occupancy
+- Sprinkler system must comply with NFPA 13 standards
+- Residential portion must have independent sprinkler system controls
+- Fire safety and evacuation plans must be developed and maintained
+
+====================================================================
+
+6. FOOD SERVICE REQUIREMENTS
+
+FOOD FACILITY PERMIT
+Legal Requirement: California Health and Safety Code Section 114381
+- All food facilities must obtain permits from local environmental health agency
+- Annual permit renewal required
+
+Compliance Criteria:
+- Food facility permit required from county environmental health department
+- Plan review process required for new facilities
+- Food safety certification required for food handlers
+- Routine inspections required
+- Annual permit fees required (amount varies by jurisdiction)
+
+====================================================================
+
+7. ACCREDITATION REQUIREMENTS
+
+LEGAL ACCREDITATION REQUIREMENTS
+Legal Status: Not required by California law
+- California does not mandate accreditation for private schools
+- WASC (Western Association of Schools and Colleges) accreditation available but voluntary
+
+Practical Considerations:
+- UC course approval requires WASC accreditation or candidate status
+- Accreditation improves student transfer opportunities
+- Some higher education institutions prefer accredited school transcripts
+
+Compliance Criteria (if pursued):
+- Must meet WASC eligibility requirements
+- Qualified teaching personnel required
+- Systematic school improvement process required
+- Student achievement focus aligned with academic standards
+- Application fees required (contact WASC for current amounts)
+
+====================================================================
+
+ENFORCEMENT AGENCIES AND CONTACTS
+
+California Department of Education
+- Private School Affidavit: www3.cde.ca.gov/psa
+- General inquiries: (916) 319-0800
+
+California Secretary of State
+- Business registration: bizfileOnline.sos.ca.gov
+- Phone: (916) 653-6814
+
+California Department of Justice
+- Fingerprinting services: (916) 227-3849
+
+California Franchise Tax Board
+- Business taxes: (800) 852-5711
+
+California Department of Tax and Fee Administration
+- Sales tax registration: (800) 400-7115
+
+WASC Accrediting Commission
+- Accreditation information: www.acswasc.org
+
+====================================================================
+
+STATUTORY CITATIONS
+
+California Education Code Sections: 33190, 44237, 51210
+California Revenue and Taxation Code Sections: 214, 23153
+California Corporations Code Sections: 17375, 17701.04
+California Health and Safety Code Section: 114381
+California Labor Code Section: 3700
+California Building Code: Chapter 3 (Occupancy Classification)
+California Fire Code: Sections 401.2, 404, 903.2
