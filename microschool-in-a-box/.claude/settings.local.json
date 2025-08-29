@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" --version)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" repo create microschool-in-a-box --public --description \"Microschool compliance research framework and educational resources\")",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
