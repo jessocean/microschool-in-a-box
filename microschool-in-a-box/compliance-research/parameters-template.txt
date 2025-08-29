@@ -1,0 +1,9 @@
+MICROSCHOOL PARAMETERS TEMPLATE
+
+Number of teachers: [NUMBER]
+Number of children: [NUMBER/RANGE]
+Age of youngest child: [AGE]
+Age of oldest child: [AGE]
+Parents present: [YES/NO]
+Food served: [YES/NO]
+Building type: [RESIDENTIAL DWELLING/OTHER]
