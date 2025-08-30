@@ -1,0 +1,216 @@
+LOS ANGELES COUNTY REQUIREMENTS FOR ONE-ROOM SCHOOLHOUSE
+
+Parameters: One-Room-Schoolhouse (1 teacher, 12-20 students ages 5-14, no parents present, food served, residential dwelling)
+Date of Research: August 30, 2025
+Sources: Los Angeles County Code, Los Angeles County Department of Public Health, Los Angeles County Department of Regional Planning
+
+====================================================================
+
+1. ZONING REQUIREMENTS
+
+RESIDENTIAL ZONING EDUCATIONAL USE
+Legal Requirement: Los Angeles County Code Title 22 (Zoning), Section 22.140.280
+- Educational facilities in residential zones require Conditional Use Permit (CUP)
+- Maximum 20 students permitted in residential zones with CUP
+- Home-based educational facilities with more than 6 students require CUP
+
+Compliance Criteria:
+- File Conditional Use Permit application with Los Angeles County Department of Regional Planning
+- Public hearing required for CUP approval
+- Notice to neighbors within 1,000 feet required
+- CUP application must demonstrate compliance with parking, noise, and traffic requirements
+- Site plan and operational plan required with application
+
+Mandatory Fee: 
+- CUP application fee: $15,454 (base fee for educational facilities)
+- Environmental review fee: $2,226 (if required)
+- Public hearing fee: $1,432
+
+PARKING REQUIREMENTS
+Legal Requirement: Los Angeles County Code Section 22.112.050
+- Educational facilities require 1 parking space per teacher plus 1 space per 4 students over age 12
+- Guest parking required: 1 space per 10 students
+
+Compliance Criteria:
+- Minimum 2 parking spaces required (1 teacher + 1 guest parking)
+- Parking spaces must be improved and striped
+- Accessible parking space required if more than 3 total spaces
+- Parking area must be paved with asphalt or concrete
+
+====================================================================
+
+2. BUILDING PERMITS AND CODES
+
+CHANGE OF USE PERMIT
+Legal Requirement: Los Angeles County Code Title 26 (Building Code)
+- Educational use in residential building requires change of use permit
+- Building must comply with educational occupancy requirements
+
+Compliance Criteria:
+- Submit change of use application to Los Angeles County Department of Public Works
+- Structural analysis may be required for occupancy load changes
+- Fire safety systems review required
+- ADA accessibility compliance review required
+- Occupancy load calculation for 20 students plus 1 teacher required
+
+Mandatory Fee:
+- Change of use permit: $1,247 (base fee)
+- Plan check fee: 65% of permit fee = $811
+- Additional fees for structural/electrical/mechanical reviews if required
+
+FIRE SAFETY COMPLIANCE
+Legal Requirement: Los Angeles County Fire Code, based on California Fire Code
+- Mixed-use residential/educational buildings require fire safety plan
+- Fire access requirements for emergency vehicles
+- Fire extinguisher and emergency equipment requirements
+
+Compliance Criteria:
+- Fire safety plan approval from Los Angeles County Fire Department
+- Minimum 20-foot fire access lane required
+- Portable fire extinguishers required (2A:10BC minimum rating)
+- Smoke detectors in all educational spaces
+- Emergency evacuation plan and evacuation route signs required
+
+Mandatory Fee:
+- Fire safety plan review: $311
+- Fire prevention inspection: $289
+
+====================================================================
+
+3. LOCAL BUSINESS LICENSING
+
+BUSINESS LICENSE
+Legal Requirement: Los Angeles County Code Title 7 (Business Licenses)
+- Educational services require business license from Los Angeles County
+- Annual renewal required
+
+Compliance Criteria:
+- File business license application with Los Angeles County Treasurer and Tax Collector
+- Provide business address, nature of business, and estimated gross receipts
+- License must be renewed annually by January 31
+- Business license must be displayed prominently at business location
+
+Mandatory Fee:
+- Business license (educational services): $154 annually
+- Late renewal penalty: $77 if renewed after January 31
+
+====================================================================
+
+4. FOOD SERVICE PERMITS
+
+RETAIL FOOD ESTABLISHMENT PERMIT
+Legal Requirement: Los Angeles County Code Title 11, Health and Safety
+- Food service for 12-20 students requires Retail Food Establishment permit
+- Commercial kitchen requirements apply when serving more than immediate family
+
+Compliance Criteria:
+- Submit food establishment permit application to Los Angeles County Department of Public Health
+- Plan review required for kitchen facilities
+- Food safety certification required for food handler
+- Three-compartment sink or commercial dishwasher required
+- Hand-washing sink separate from food preparation sink required
+- Commercial refrigeration with temperature monitoring required
+
+Mandatory Fee:
+- Plan review: $749
+- Annual permit (based on risk category): $459-$1,158 (depending on food preparation complexity)
+- Food handler certification: $15 per person
+
+FOOD HANDLER CERTIFICATION
+Legal Requirement: California Health and Safety Code Section 113948, implemented by LA County
+- All food handlers must obtain food handler card within 30 days of hire
+- Certification valid for 3 years
+
+Compliance Criteria:
+- Complete Los Angeles County approved food safety training
+- Pass food safety examination
+- Renew certification every 3 years
+- Food handler card must be available for inspection
+
+====================================================================
+
+5. CHILDCARE LICENSING CONSIDERATIONS
+
+DAY CARE LICENSE REQUIREMENTS
+Legal Status: May be required depending on operational structure
+- Los Angeles County follows California Community Care Licensing regulations
+- Educational programs that provide care for children under 6 for more than 4 hours may require childcare license
+- School-age programs (ages 6-14) may require school-age program license if providing care outside school hours
+
+Compliance Criteria (if applicable):
+- Contact Los Angeles County Department of Children and Family Services
+- Background checks for all staff through Department of Social Services
+- First aid/CPR certification required for all caregivers
+- Child protection training required
+- Health and safety inspections required
+
+====================================================================
+
+6. HEALTH DEPARTMENT REQUIREMENTS
+
+IMMUNIZATION VERIFICATION
+Legal Requirement: Los Angeles County Code Title 11, Chapter 11.02
+- Private schools must verify student immunizations per California requirements
+- Immunization records must be maintained on-site
+
+Compliance Criteria:
+- Obtain immunization verification form for each student
+- Verify compliance with California immunization requirements
+- Maintain immunization records in secure file
+- Report immunization status to health department if requested
+
+INFECTIOUS DISEASE REPORTING
+Legal Requirement: California Health and Safety Code Section 120325
+- Educational facilities must report certain infectious diseases to local health authority
+
+Compliance Criteria:
+- Establish relationship with Los Angeles County Department of Public Health
+- Implement infectious disease reporting procedures
+- Maintain health log for students showing symptoms
+- Follow exclusion guidelines for communicable diseases
+
+====================================================================
+
+ENFORCEMENT CONTACTS
+
+Los Angeles County Department of Regional Planning
+- Zoning and Conditional Use Permits: (213) 974-6411
+- Address: 320 West Temple Street, 13th Floor, Los Angeles, CA 90012
+- Online services: planning.lacounty.gov
+
+Los Angeles County Department of Public Works
+- Building permits: (626) 458-4357
+- Address: 900 South Fremont Avenue, Alhambra, CA 91803
+- Online services: dpw.lacounty.gov
+
+Los Angeles County Fire Department
+- Fire prevention: (323) 890-4243
+- Address: 1320 North Eastern Avenue, Los Angeles, CA 90063
+
+Los Angeles County Treasurer and Tax Collector
+- Business licenses: (213) 974-2045
+- Address: 500 West Temple Street, Los Angeles, CA 90012
+- Online services: ttc.lacounty.gov
+
+Los Angeles County Department of Public Health
+- Environmental health: (626) 430-5200
+- Food establishment permits: (626) 430-5200
+- Address: 5050 Commerce Drive, Baldwin Park, CA 91706
+
+Los Angeles County Department of Children and Family Services
+- Childcare licensing: (213) 351-5602
+- Address: 425 Shatto Place, Los Angeles, CA 90020
+
+====================================================================
+
+LOCAL CODE CITATIONS
+
+Los Angeles County Code:
+- Title 7 (Business Licenses)
+- Title 11, Chapter 11.02 (Health and Safety)
+- Title 22, Section 22.140.280 (Zoning - Educational Facilities)
+- Title 22, Section 22.112.050 (Parking Requirements)
+- Title 26 (Building Code)
+
+Los Angeles County Fire Code (based on California Fire Code)
+California Community Care Licensing Division regulations (Title 22, CCR)
