@@ -1,0 +1,9 @@
+TEEN FOCUSED PARAMETERS
+
+Number of teachers: 1
+Number of children: 15
+Age of youngest child: 13
+Age of oldest child: 18
+Parents present: No
+Food served: No
+Building type: Residential dwelling

@@ -1,0 +1,9 @@
+ELEMENTARY ONLY PARAMETERS
+
+Number of teachers: 1
+Number of children: 10
+Age of youngest child: 6
+Age of oldest child: 11
+Parents present: No
+Food served: Yes
+Building type: Residential dwelling

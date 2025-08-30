@@ -1,0 +1,9 @@
+HOMESCHOOL CO-OP PARAMETERS
+
+Number of teachers: 1 (parent)
+Number of children: 5
+Age of youngest child: 6
+Age of oldest child: 10
+Parents present: Yes (teaching parent)
+Food served: No
+Building type: Residential dwelling

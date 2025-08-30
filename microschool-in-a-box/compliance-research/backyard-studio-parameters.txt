@@ -1,0 +1,9 @@
+BACKYARD STUDIO PARAMETERS
+
+Number of teachers: 1
+Number of children: 12
+Age of youngest child: 6
+Age of oldest child: 14
+Parents present: No
+Food served: No
+Building type: Detached accessory structure

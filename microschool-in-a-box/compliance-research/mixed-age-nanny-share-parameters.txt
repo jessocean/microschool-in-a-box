@@ -1,0 +1,9 @@
+MIXED AGE NANNY SHARE PARAMETERS
+
+Number of teachers: 1 (nanny/tutor)
+Number of children: 6
+Age of youngest child: 4
+Age of oldest child: 12
+Parents present: Yes (occasionally present)
+Food served: Yes
+Building type: Residential dwelling

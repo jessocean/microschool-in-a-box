@@ -1,0 +1,9 @@
+MULTI-AGE FOREST SCHOOL PARAMETERS
+
+Number of teachers: 2
+Number of children: 18
+Age of youngest child: 4
+Age of oldest child: 16
+Parents present: Yes (seasonal volunteers)
+Food served: Yes
+Building type: Outdoor classroom with shelter

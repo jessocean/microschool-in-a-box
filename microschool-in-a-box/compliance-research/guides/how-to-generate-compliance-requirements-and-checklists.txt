@@ -1,0 +1,203 @@
+HOW TO GENERATE MICROSCHOOL COMPLIANCE REQUIREMENTS AND CHECKLISTS
+================================================================
+
+This guide explains how to create complete compliance requirements and actionable checklists for any microschool scenario (parameters + location).
+
+OVERVIEW
+========
+For each microschool scenario, you need to generate:
+1. State-level compliance requirements file
+2. County/local-level compliance requirements file  
+3. Ordered compliance checklist with dependencies and timelines
+
+STEP-BY-STEP PROCESS
+===================
+
+STEP 1: PREPARE PARAMETERS FILE
+-------------------------------
+Create or select a parameters file that defines the microschool model:
+
+Required parameters:
+- Number of teachers: [NUMBER]
+- Number of children: [NUMBER/RANGE]
+- Age of youngest child: [AGE]
+- Age of oldest child: [AGE]
+- Parents present: [YES/NO]
+- Food served: [YES/NO]
+- Building type: [RESIDENTIAL DWELLING/COMMERCIAL/RELIGIOUS/OTHER]
+
+Example parameter files are located in: compliance-research/
+Template file: compliance-research/parameters-template.txt
+
+STEP 2: CHECK FOR EXISTING STATE REQUIREMENTS
+---------------------------------------------
+Before researching, check if state requirements already exist:
+
+1. Navigate to: compliance-research/[STATE]/
+2. Look for: state-regulations.txt
+3. If file exists and covers your parameters, proceed to STEP 4
+4. If file doesn't exist OR doesn't cover your specific parameters, proceed to STEP 3
+
+STEP 3: GENERATE STATE REQUIREMENTS (IF NEEDED)
+-----------------------------------------------
+If no suitable state requirements file exists:
+
+1. Use the microschool compliance research guide as your framework:
+   File: compliance-research/guides/microschool-compliance-research-guide.md
+
+2. Research all 7 categories for your specific parameters:
+   - School licensing requirements
+   - Employment law requirements  
+   - Business registration requirements
+   - Tax obligations
+   - Building and fire safety requirements
+   - Food service requirements (if applicable)
+   - Accreditation requirements
+
+3. Create state-regulations.txt file with these sections:
+   - Parameters used (reference exact parameter file)
+   - Date of research
+   - Legal requirements by category
+   - Compliance criteria for each requirement
+   - Mandatory fees with specific amounts
+   - Enforcement agencies and contacts
+   - Statutory citations
+
+4. Store file at: compliance-research/[STATE]/state-regulations.txt
+
+STEP 4: GENERATE COUNTY/LOCAL REQUIREMENTS
+------------------------------------------
+Research county and local requirements:
+
+1. Create county folder if it doesn't exist:
+   compliance-research/[STATE]/[COUNTY]/
+
+2. Research local requirements focusing on:
+   - Zoning requirements and permits
+   - Building permits and codes
+   - Local business licenses
+   - Food service permits (if applicable)
+   - Local enforcement contacts
+
+3. Create county requirements file:
+   compliance-research/[STATE]/[COUNTY]/[county-name]-requirements.txt
+
+4. Include these sections:
+   - Parameters used
+   - Date of research  
+   - Zoning requirements
+   - Building permits
+   - Local business licensing
+   - Food service permits
+   - Enforcement contacts
+   - Local code citations
+
+STEP 5: GENERATE COMPLIANCE CHECKLIST
+-------------------------------------
+Create an ordered, actionable checklist:
+
+1. Combine all state and county requirements
+2. Order steps by dependencies (what must be completed first)
+3. Include processing times where known
+4. Note dependencies between steps
+5. Include all mandatory fees and contacts
+
+6. Create checklist file:
+   compliance-research/[STATE]/[COUNTY]/[county-name]-microschool-compliance-checklist.txt
+
+7. Checklist format:
+   - Numbered steps in dependency order
+   - Processing times for applications/approvals
+   - Dependencies noted for each step
+   - Contact information for agencies
+   - Estimated total timeline
+   - Mandatory fees summary
+
+FILE STORAGE LOCATIONS
+======================
+
+Parameters Files:
+- compliance-research/[descriptive-name]-parameters.txt
+
+State Requirements:
+- compliance-research/[STATE]/state-regulations.txt
+
+County Requirements:  
+- compliance-research/[STATE]/[COUNTY]/[county-name]-requirements.txt
+
+Compliance Checklists:
+- compliance-research/[STATE]/[COUNTY]/[county-name]-microschool-compliance-checklist.txt
+
+Research Guides:
+- compliance-research/guides/
+
+Example Files:
+- examples/ (copies of completed requirement files and checklists)
+
+QUALITY CHECKLIST
+=================
+
+Before completing, verify your files include:
+
+State Requirements File:
+☐ References specific parameters file used
+☐ Includes date of research
+☐ Covers all 7 compliance categories
+☐ Lists specific legal requirements (not recommendations)
+☐ Includes mandatory fees with amounts
+☐ Provides enforcement agency contacts
+☐ Cites relevant statutes and regulations
+
+County Requirements File:
+☐ References specific parameters file used  
+☐ Includes local zoning requirements
+☐ Covers building permit requirements
+☐ Lists local business license requirements
+☐ Includes food service permits if applicable
+☐ Provides local agency contact information
+☐ Cites relevant local codes and ordinances
+
+Compliance Checklist:
+☐ Steps ordered by dependencies
+☐ Processing times included where known
+☐ Dependencies clearly noted
+☐ Contact information for all agencies
+☐ Includes estimated total timeline
+☐ Lists all mandatory fees
+☐ Uses simple, specific, actionable language
+
+EXAMPLE REFERENCE FILES
+======================
+See these completed examples:
+
+Parameters File:
+- compliance-research/one-room-schoolhouse-parameters.txt
+
+State Requirements:
+- compliance-research/California/state-regulations.txt  
+
+County Requirements:
+- compliance-research/California/Alameda/alameda-county-requirements.txt
+
+Compliance Checklist:
+- compliance-research/California/Alameda/alameda-county-microschool-compliance-checklist.txt
+
+Research Guide:
+- compliance-research/guides/microschool-compliance-research-guide.md
+
+Template:
+- compliance-research/parameters-template.txt
+
+TIPS FOR SUCCESS
+================
+
+1. Always reference the exact parameters file you're using
+2. Focus on mandatory legal requirements, not best practices
+3. Get specific fee amounts, not estimates
+4. Include processing times for applications
+5. Order checklist steps by what must be completed first
+6. Test dependency ordering - can step X be done without step Y?
+7. Include agency phone numbers and email addresses
+8. Note when direct contact is required for current information
+9. Keep language simple and actionable
+10. Update files when regulations change

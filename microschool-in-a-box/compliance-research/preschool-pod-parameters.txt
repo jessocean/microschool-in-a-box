@@ -1,0 +1,9 @@
+PRESCHOOL POD PARAMETERS
+
+Number of teachers: 2
+Number of children: 8
+Age of youngest child: 3
+Age of oldest child: 5
+Parents present: Yes (1 parent helper)
+Food served: Yes
+Building type: Residential dwelling

@@ -11,7 +11,10 @@
       "Bash(git push:*)",
       "WebFetch(domain:www.acgov.org)",
       "WebFetch(domain:www.cde.ca.gov)",
-      "WebFetch(domain:deh.acgov.org)"
+      "WebFetch(domain:deh.acgov.org)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(rm:*)"
     ],
     "deny": []
   }

@@ -1,0 +1,9 @@
+TINY TUTORING POD PARAMETERS
+
+Number of teachers: 1
+Number of children: 3
+Age of youngest child: 8
+Age of oldest child: 12
+Parents present: No
+Food served: No
+Building type: Residential dwelling

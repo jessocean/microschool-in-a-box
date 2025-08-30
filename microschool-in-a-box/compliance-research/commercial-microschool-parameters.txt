@@ -1,0 +1,9 @@
+COMMERCIAL MICROSCHOOL PARAMETERS
+
+Number of teachers: 3
+Number of children: 35
+Age of youngest child: 5
+Age of oldest child: 18
+Parents present: No
+Food served: Yes
+Building type: Commercial space
