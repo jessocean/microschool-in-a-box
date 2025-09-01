@@ -1,8 +1,10 @@
-ALAMEDA COUNTY REQUIREMENTS FOR ONE-ROOM SCHOOLHOUSE
+ALAMEDA COUNTY REQUIREMENTS FOR ONE-ROOM SCHOOLHOUSE (LOW CAPACITY)
 
 Parameters: One-Room-Schoolhouse LOW (1 teacher, 12 students ages 5-14, no parents present, food served, residential dwelling)
 Date of Research: August 29, 2025
 Sources: Alameda County Code of Ordinances Title 17, Alameda County Planning Department, Alameda County Environmental Health Department
+
+[Content identical to original file since 12 students represents the lower end of the original 12-20 range and doesn't trigger enhanced requirements]
 
 ====================================================================
 

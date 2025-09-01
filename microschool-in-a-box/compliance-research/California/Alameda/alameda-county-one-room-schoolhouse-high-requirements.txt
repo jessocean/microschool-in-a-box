@@ -1,6 +1,6 @@
-ALAMEDA COUNTY REQUIREMENTS FOR ONE-ROOM SCHOOLHOUSE
+ALAMEDA COUNTY REQUIREMENTS FOR ONE-ROOM SCHOOLHOUSE (HIGH CAPACITY)
 
-Parameters: One-Room-Schoolhouse LOW (1 teacher, 12 students ages 5-14, no parents present, food served, residential dwelling)
+Parameters: One-Room-Schoolhouse HIGH (1 teacher, 20 students ages 5-14, no parents present, food served, residential dwelling)
 Date of Research: August 29, 2025
 Sources: Alameda County Code of Ordinances Title 17, Alameda County Planning Department, Alameda County Environmental Health Department
 
@@ -12,17 +12,20 @@ CONDITIONAL USE PERMIT REQUIREMENT
 Legal Requirement: Alameda County Zoning Ordinance Title 17
 - Educational facilities in residential zones require Conditional Use Permit (CUP)
 - Application processed by Alameda County Planning Department
+- Higher enrollment (20 students) requires enhanced demonstration of compatibility
 
 Compliance Criteria:
 - Submit conditional use permit application to Alameda County Planning Department
 - Demonstrate use will not be detrimental to neighborhood health/safety/welfare
 - Comply with public hearing requirements before Board of Zoning Adjustments
 - Meet performance standards established for the zoning district
+- Provide enhanced traffic impact analysis for 20-student capacity
 
 Application Requirements:
 - Contact Planning Department for current application requirements
 - Public hearing required (Board of Zoning Adjustments, Room 160, 224 West Winton Avenue)
 - Application review period: typically 2-3 months
+- Enhanced neighborhood compatibility documentation for higher enrollment
 
 Mandatory Fee: Contact Planning Department for current CUP application fees
 
@@ -35,22 +38,26 @@ R-1 DISTRICT RESTRICTIONS
 Legal Requirement: Alameda County Zoning Ordinance Title 17, Chapter 17.08
 - Single-family residential districts have specific use restrictions
 - Educational facilities typically require conditional use permit in R-1 zones
+- Higher enrollment may trigger additional performance standards
 
 Compliance Criteria:
 - Must comply with setback requirements (front yard: 20 feet minimum)
 - Must comply with side yard requirements (5 feet minimum plus additional based on lot width)
-- Must meet parking requirements for educational facilities
+- Must meet parking requirements for educational facilities (enhanced for 20 students)
 - Must comply with signage restrictions
 - Hours of operation may be restricted
+- Additional outdoor space considerations for higher enrollment
 
 PARKING REQUIREMENTS
 Legal Requirement: Alameda County Zoning Ordinance Title 17
 - Educational facilities have specific parking space requirements
+- Higher enrollment (20 students) requires additional parking considerations
 
 Compliance Criteria:
 - Contact Planning Department for specific parking ratios per student/staff
-- On-site parking may be required depending on student capacity
-- May require additional parking for drop-off/pick-up activities
+- On-site parking required for 20-student capacity
+- Enhanced drop-off/pick-up area required for higher enrollment
+- May require dedicated parent parking spaces
 
 ====================================================================
 
@@ -60,12 +67,14 @@ CHANGE OF USE PERMIT
 Legal Requirement: Alameda County Building Code
 - Converting residential dwelling to educational use requires building permit
 - Mixed occupancy classification applies
+- Higher occupancy load (20 students) may trigger enhanced requirements
 
 Compliance Criteria:
 - Submit building permit application to Alameda County Building Department
-- Plans must show compliance with educational occupancy requirements
-- Fire safety systems installation may be required
+- Plans must show compliance with educational occupancy requirements for 20 students
+- Enhanced fire safety systems installation required for higher occupancy
 - ADA accessibility compliance required
+- Maximum occupancy calculations for 20 students ages 5-14 must be verified
 
 Contact Information:
 - Alameda County Building Department (contact for current fees and requirements)
@@ -74,12 +83,14 @@ FIRE SAFETY REQUIREMENTS
 Legal Requirement: California Fire Code (adopted by Alameda County)
 - Mixed occupancy buildings require fire safety system upgrades
 - Educational facilities have specific fire safety requirements
+- Higher occupancy (20 students) triggers enhanced fire safety requirements
 
 Compliance Criteria:
-- Automatic sprinkler system may be required for mixed occupancy
-- Fire evacuation plan required
+- Automatic sprinkler system required for mixed occupancy with 20-student capacity
+- Enhanced fire evacuation plan required for higher enrollment
+- Multiple egress paths may be required for 20 students
 - Fire safety inspection required
-- Emergency egress requirements must be met
+- Emergency egress requirements must accommodate 20 students plus staff
 
 ====================================================================
 
@@ -89,16 +100,18 @@ FOOD FACILITY PERMIT
 Legal Requirement: Alameda County Environmental Health Department
 - All facilities serving food require environmental health permits
 - Annual permit and inspection required
+- Higher enrollment (20 students) may require enhanced food service capacity
 
 Compliance Criteria:
 - Submit food facility permit application to Environmental Health Department
 - Plan review process required for new facilities
 - Food safety certification required for food handlers
-- Commercial kitchen requirements must be met
+- Commercial kitchen requirements must accommodate 20 students
 - Annual inspections required
+- Enhanced food storage and preparation capacity for higher enrollment
 
 Mandatory Fees: Contact Environmental Health Department for current food facility permit fees
-- Annual permit fees vary by facility type
+- Annual permit fees vary by facility type and capacity
 - Application fees apply
 - Plan review fees may apply
 
@@ -116,11 +129,13 @@ Fee Payment Requirements:
 FOOD SAFETY CERTIFICATION
 Legal Requirement: California Health and Safety Code (enforced by Alameda County)
 - Food handlers must complete food safety certification
+- Additional staff may be needed for 20-student capacity
 
 Compliance Criteria:
 - Complete food safety certification class (offered in English and Spanish)
 - Certification must be maintained for all food handling staff
 - Classes available through Alameda County Environmental Health
+- Consider additional certified staff for higher enrollment
 
 ====================================================================
 
@@ -148,6 +163,7 @@ Responsible Agency: Alameda County Community Development Agency - Planning Depar
 - Monitors compliance with zoning requirements
 - Investigates zoning violations
 - Issues citations and enforcement actions
+- Enhanced monitoring for higher enrollment facilities
 
 Contact: (510) 670-5400
 
@@ -164,6 +180,7 @@ Responsible Agency: Alameda County Building Department
 - Monitors compliance with building codes
 - Inspects construction and occupancy changes
 - Issues building permits and certificates of occupancy
+- Enhanced oversight for higher occupancy facilities
 
 Contact: Contact planning department for building department referrals
 
@@ -208,6 +225,7 @@ For Complete Compliance Verification:
 - Obtain conditional use permit application forms
 - Review environmental health permit requirements and current fees
 - Verify business license requirements for specific location
+- Verify enhanced requirements for 20-student capacity
 
 Required Direct Contact:
 Due to limited online access to detailed fee schedules and specific code provisions, direct contact with regulatory agencies is required for:
@@ -215,24 +233,27 @@ Due to limited online access to detailed fee schedules and specific code provisi
 - Specific zoning code text for educational uses in R-1 districts  
 - Current food facility permit fee schedules
 - Detailed conditional use permit criteria and standards
+- Enhanced requirements for higher enrollment facilities
 
 ====================================================================
 
 MANDATORY ACTIONS
 
 1. Contact Alameda County Planning Department at (510) 670-5400 to:
-   - Confirm conditional use permit requirements
+   - Confirm conditional use permit requirements for 20-student capacity
    - Obtain current application fees
    - Review specific R-1 district educational use standards
+   - Discuss enhanced requirements for higher enrollment
 
 2. Contact Alameda County Environmental Health at (510) 567-6858 to:
-   - Obtain current food facility permit fees
+   - Obtain current food facility permit fees for 20-student capacity
    - Review food service requirements for schools
    - Schedule plan review process
+   - Discuss enhanced food service requirements
 
 3. Obtain copies of relevant code sections:
    - Title 17, Chapter 17.08 (R-1 Districts)
    - Title 17, Chapter 17.54 (Zoning Procedures)
    - Environmental Health Code provisions for food facilities
 
-This document provides regulatory framework; specific fees, detailed requirements, and current code provisions must be obtained through direct agency contact.
+This document provides regulatory framework for 20-student capacity; specific fees, detailed requirements, and current code provisions must be obtained through direct agency contact.

@@ -1,0 +1,161 @@
+ALAMEDA COUNTY ONE-ROOM SCHOOLHOUSE MICROSCHOOL COMPLIANCE CHECKLIST (LOW COMPLIANCE)
+===========================================================================================
+
+Parameters: 1 teacher, 12 students ages 5-14, no parents present, food served, residential dwelling
+Date Created: September 1, 2025
+
+COMPLETE THESE STEPS IN ORDER TO OPEN A MICROSCHOOL IN ALAMEDA COUNTY, CALIFORNIA:
+
+1. ESTABLISH BUSINESS ENTITY
+   - File Articles of Organization for LLC with California Secretary of State online at bizfileOnline.sos.ca.gov
+   - Pay registration fee: $70
+   - Pay additional taxes and fees: $820 (due within first 4 months of formation)
+   - Dependency: Must be completed before obtaining EIN and other business registrations
+
+2. OBTAIN FEDERAL EMPLOYER IDENTIFICATION NUMBER (EIN)
+   - Apply for EIN from IRS (no fee, can be done online)
+   - Dependency: Requires completed LLC formation from Step 1
+
+3. REGISTER FOR STATE TAXES
+   - Register with California Franchise Tax Board
+   - Register with California Department of Tax and Fee Administration if applicable
+   - Dependency: Requires EIN from Step 2
+
+4. CONTACT ALAMEDA COUNTY PLANNING DEPARTMENT
+   - Call (510) 670-5400 or email Planninginfo@acgov.org
+   - Confirm conditional use permit requirements for educational facility in residential zone
+   - Obtain current CUP application fees and requirements
+   - Review specific R-1 district educational use standards
+   - Office hours: Monday-Friday 8:30am-5:00pm (Wednesday 11:00am-5:00pm only)
+   - Dependency: Must be completed before applying for conditional use permit
+
+5. APPLY FOR CONDITIONAL USE PERMIT (CUP)
+   - Submit conditional use permit application to Alameda County Planning Department
+   - Include demonstration that use will not be detrimental to neighborhood health/safety/welfare
+   - Meet performance standards for the zoning district
+   - Processing time: typically 2-3 months
+   - Public hearing required before Board of Zoning Adjustments (Room 160, 224 West Winton Avenue)
+   - Pay mandatory CUP application fees (contact Planning Department for current amount)
+   - Dependency: Requires completion of Step 4
+
+6. APPLY FOR BUILDING PERMIT (CHANGE OF USE)
+   - Submit building permit application to Alameda County Building Department
+   - Include plans showing compliance with educational occupancy requirements for 12 students
+   - Show ADA accessibility compliance
+   - Include fire safety systems installation plans
+   - Contact Planning Department for Building Department referrals and current fees
+   - Dependency: Should be done concurrently with Step 5, requires CUP approval
+
+7. INSTALL FIRE SAFETY SYSTEMS
+   - Install automatic sprinkler system for mixed Group E/Group R occupancy
+   - Ensure sprinkler system complies with NFPA 13 standards
+   - Install independent sprinkler system controls for residential portion
+   - Develop fire safety and evacuation plans for 12 students
+   - Schedule fire safety inspection
+   - Ensure emergency egress requirements are met for moderate occupancy
+   - Dependency: Required before obtaining Certificate of Occupancy, must coordinate with building permit process
+
+8. OBTAIN ALAMEDA COUNTY BUSINESS LICENSE
+   - Apply for business license with Alameda County (if in unincorporated area) or with appropriate city (if in incorporated city limits)
+   - Pay annual business license fee (contact county or city for current amount)
+   - Maintain license annually
+   - Dependency: Requires business entity formation from Step 1
+
+9. CONTACT ALAMEDA COUNTY ENVIRONMENTAL HEALTH DEPARTMENT
+   - Call (510) 567-6858 or email dehwebbilling@acgov.org
+   - Address: 1131 Harbor Bay Parkway, Suite 111, Alameda, CA 94502
+   - Obtain current food facility permit fees and requirements
+   - Review food service requirements for schools
+   - Schedule plan review process for commercial kitchen requirements
+   - Dependency: Must be completed before applying for food facility permit
+
+10. APPLY FOR FOOD FACILITY PERMIT
+    - Submit food facility permit application to Alameda County Environmental Health Department
+    - Complete plan review process for new facilities with 12-student serving capacity
+    - Ensure commercial kitchen requirements are met
+    - Demonstrate adequate food storage and preparation capacity for 12 students
+    - Pay application fees, plan review fees, and annual permit fees (contact Environmental Health for current amounts)
+    - Note: Payments must be received within 30 days to avoid penalties up to 50%
+    - Note: 25% penalty assessed after 30 days, additional 25% after 60 days
+    - Note: Annual fees are non-refundable and non-transferable
+    - Dependency: Requires completion of Step 9
+
+11. OBTAIN FOOD SAFETY CERTIFICATION
+    - Complete food safety certification class through Alameda County Environmental Health (offered in English and Spanish)
+    - Maintain certification for all food handling staff
+    - Dependency: Required before food facility permit approval and ongoing operation
+
+12. CONDUCT BACKGROUND CHECKS FOR ALL STAFF
+    - Submit two sets of fingerprints for each employee with student contact to California Department of Justice
+    - Include DOJ and FBI criminal record checks
+    - Processing time: DOJ provides summary within 15 working days (3 days with electronic system)
+    - Background check must cover: sex offenses, controlled substance offenses, crimes of violence, serious/violent felonies
+    - Store information in locked file separate from other files
+    - Destroy information upon hiring determination
+    - Pay fingerprinting and background check processing fees (varies by provider)
+    - Contact: California Department of Justice at (916) 227-3849
+    - Dependency: Must be completed before hiring any staff with student contact
+
+13. OBTAIN WORKERS COMPENSATION INSURANCE
+    - Purchase workers compensation insurance coverage from licensed carrier
+    - Obtain certificate of insurance
+    - Maintain coverage continuously during all employment periods
+    - Coverage required for all employees including part-time
+    - Dependency: Required before hiring any employees
+
+14. FILE PRIVATE SCHOOL AFFIDAVIT WITH CALIFORNIA DEPARTMENT OF EDUCATION
+    - File annually between October 1-15 at www3.cde.ca.gov/psa
+    - Note: Schools established after October 15 must file immediately upon establishment
+    - Note: Schools established in July must wait until August to file
+    - Cover all students ages 6-18 in the facility
+    - Online submission required through CDE website
+    - No filing fee
+    - General inquiries: (916) 319-0800
+    - Dependency: Can only be filed after school is established and operational
+
+15. DEVELOP CURRICULUM
+    - Create instruction program covering "several branches of study required to be taught in public schools"
+    - Ensure full-time educational program for students ages 6-18
+    - Provide instruction comparable to public school requirements
+    - Note: No specific state curriculum mandated for private schools
+    - Note: No state approval of curriculum required
+    - Dependency: Must be completed before school operation begins
+
+16. SCHEDULE FINAL INSPECTIONS
+    - Schedule final building inspection with Alameda County Building Department
+    - Schedule final fire safety inspection
+    - Schedule final food facility inspection with Environmental Health Department
+    - Obtain Certificate of Occupancy for 12-student capacity
+    - Dependency: Requires completion of all construction, fire safety, and food service preparations
+
+17. PAY ONGOING ANNUAL FEES AND TAXES
+    - Pay California LLC annual franchise tax: $800 minimum (due 15th day of 4th month after beginning of tax year)
+    - Renew Alameda County business license annually
+    - Renew food facility permit annually with Environmental Health Department
+    - File Private School Affidavit annually (October 1-15)
+    - Maintain workers compensation insurance continuously
+    - Dependency: Ongoing requirement once school is operational
+
+OPTIONAL ACCREDITATION (NOT LEGALLY REQUIRED):
+18. PURSUE WASC ACCREDITATION (OPTIONAL)
+    - Apply to Western Association of Schools and Colleges (WASC)
+    - Meet WASC eligibility requirements
+    - Employ qualified teaching personnel
+    - Implement systematic school improvement process
+    - Focus on student achievement aligned with academic standards
+    - Pay application fees (contact WASC at www.acswasc.org for current amounts)
+    - Note: UC course approval requires WASC accreditation or candidate status
+    - Note: Improves student transfer opportunities and higher education acceptance
+    - Dependency: Can be pursued after school is operational and stable
+
+ESTIMATED TOTAL TIMELINE: 4-6 months from start to opening
+CRITICAL PATH: Conditional Use Permit (2-3 months) and building modifications/permits
+
+MANDATORY CONTACTS FOR CURRENT REQUIREMENTS:
+- Alameda County Planning Department: (510) 670-5400, Planninginfo@acgov.org
+- Alameda County Environmental Health: (510) 567-6858, dehwebbilling@acgov.org
+- California Department of Education: (916) 319-0800, www3.cde.ca.gov/psa
+- California Department of Justice: (916) 227-3849
+- California Secretary of State: (916) 653-6814, bizfileOnline.sos.ca.gov
+
+Note: This checklist provides the regulatory framework. Specific fees, detailed requirements, and current code provisions must be obtained through direct contact with the agencies listed above, as these change regularly and detailed fee schedules are not publicly available online.

@@ -14,7 +14,12 @@
       "WebFetch(domain:deh.acgov.org)",
       "Bash(cp:*)",
       "Bash(mv:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(mkdir:*)",
+      "Bash(for:*)",
+      "Bash(do mv \"$file\" C:/Users/jessi/dev/microschool-in-a-box/compliance-research/parameters/)",
+      "Bash(done)",
+      "Bash(git rm:*)"
     ],
     "deny": []
   }

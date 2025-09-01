@@ -1,0 +1,230 @@
+LOS ANGELES COUNTY MICROSCHOOL COMPLIANCE CHECKLIST (HIGH CAPACITY)
+
+Parameters: One-Room-Schoolhouse (1 teacher, 20 students ages 5-14, no parents present, food served, residential dwelling)
+Date Created: August 30, 2025
+Estimated Total Timeline: 4-6 months from start to operational
+Total Estimated Mandatory Fees: $22,699-$26,243
+
+====================================================================
+
+PHASE 1: BUSINESS FORMATION AND REGISTRATION (Timeline: 2-4 weeks)
+
+1. FORM BUSINESS ENTITY
+   Action: File Articles of Organization for LLC with California Secretary of State
+   Processing Time: 3-5 business days (online)
+   Fee: $70 filing fee + $820 additional taxes (due within 4 months)
+   Contact: bizfileOnline.sos.ca.gov or (916) 653-6814
+   Dependencies: None - can be done immediately
+   
+2. OBTAIN FEDERAL EIN
+   Action: Apply for Federal Employer Identification Number with IRS
+   Processing Time: Immediate (online) to 2 weeks (by mail)
+   Fee: No fee
+   Contact: IRS.gov or (800) 829-4933
+   Dependencies: Complete Step 1 (LLC formation)
+
+3. REGISTER FOR CALIFORNIA TAXES
+   Action: Register with California Franchise Tax Board and Department of Tax and Fee Administration
+   Processing Time: 1-2 weeks
+   Fee: No registration fee (annual $800 franchise tax due later)
+   Contact: Franchise Tax Board (800) 852-5711
+   Dependencies: Complete Steps 1-2
+
+====================================================================
+
+PHASE 2: ZONING AND LAND USE APPROVAL (Timeline: 8-12 weeks)
+
+4. APPLY FOR CONDITIONAL USE PERMIT
+   Action: File CUP application with LA County Department of Regional Planning
+   Processing Time: 8-12 weeks (includes public hearing)
+   Fee: $15,454 base fee + $2,226 environmental review + $1,432 public hearing = $19,112
+   Contact: (213) 974-6411 - Department of Regional Planning
+   Dependencies: Complete business formation (Steps 1-3)
+   Required Documents: Site plan, operational plan, parking plan for 20 students
+
+5. NEIGHBOR NOTIFICATION PROCESS
+   Action: Send notices to neighbors within 1,000 feet (done by county as part of CUP)
+   Processing Time: Included in CUP timeline
+   Fee: Included in CUP fees
+   Contact: Same as Step 4
+   Dependencies: CUP application filed (Step 4)
+
+====================================================================
+
+PHASE 3: BUILDING AND FIRE SAFETY APPROVALS (Timeline: 4-6 weeks)
+
+6. APPLY FOR CHANGE OF USE PERMIT
+   Action: Submit change of use application to LA County Department of Public Works
+   Processing Time: 4-6 weeks
+   Fee: $1,247 permit + $811 plan check = $2,058
+   Contact: (626) 458-4357 - Department of Public Works
+   Dependencies: CUP approval (Step 4) - cannot proceed until zoning approval received
+
+7. FIRE SAFETY PLAN APPROVAL
+   Action: Submit fire safety plan to LA County Fire Department
+   Processing Time: 2-3 weeks
+   Fee: $311 plan review + $289 inspection = $600
+   Contact: (323) 890-4243 - Fire Prevention Bureau
+   Dependencies: Can begin after CUP application filed (Step 4)
+
+8. INSTALL REQUIRED FIRE SAFETY EQUIPMENT
+   Action: Install fire extinguishers, smoke detectors, emergency signs
+   Processing Time: 1-2 weeks (contractor installation)
+   Fee: Equipment costs (approximately $500-$1,000 - not mandatory government fee)
+   Contact: Licensed fire equipment contractor
+   Dependencies: Fire safety plan approval (Step 7)
+
+====================================================================
+
+PHASE 4: BUSINESS LICENSING (Timeline: 2-3 weeks)
+
+9. OBTAIN LA COUNTY BUSINESS LICENSE
+   Action: Apply for business license with LA County Treasurer and Tax Collector
+   Processing Time: 2-3 weeks
+   Fee: $154 annually
+   Contact: (213) 974-2045 - Treasurer and Tax Collector
+   Dependencies: Business entity formation (Steps 1-3), zoning approval (Step 4)
+
+====================================================================
+
+PHASE 5: FOOD SERVICE PERMITS (Timeline: 4-6 weeks)
+
+10. SUBMIT FOOD ESTABLISHMENT PLANS
+    Action: Submit kitchen plans to LA County Department of Public Health
+    Processing Time: 2-3 weeks for plan review
+    Fee: $749 plan review
+    Contact: (626) 430-5200 - Environmental Health
+    Dependencies: Building permits in progress (Step 6)
+
+11. KITCHEN CONSTRUCTION/MODIFICATION
+    Action: Install commercial kitchen equipment per approved plans
+    Processing Time: 2-4 weeks (contractor work)
+    Fee: Construction costs (not mandatory government fee)
+    Contact: Licensed contractor
+    Dependencies: Plan approval (Step 10)
+
+12. OBTAIN FOOD ESTABLISHMENT PERMIT
+    Action: Schedule and pass food establishment inspection
+    Processing Time: 1-2 weeks after request
+    Fee: $1,158 annually (higher capacity food service for 20 students)
+    Contact: (626) 430-5200 - Environmental Health
+    Dependencies: Kitchen completion (Step 11)
+
+13. OBTAIN FOOD HANDLER CERTIFICATION
+    Action: Complete food safety training and examination
+    Processing Time: Can be completed in 1 day
+    Fee: $15 per person
+    Contact: LA County approved training providers
+    Dependencies: None - can be done anytime before opening
+
+====================================================================
+
+PHASE 6: EMPLOYMENT AND EDUCATION COMPLIANCE (Timeline: 3-4 weeks)
+
+14. BACKGROUND CHECKS FOR ALL STAFF
+    Action: Submit fingerprints to California Department of Justice for background screening
+    Processing Time: 15 working days (3 days electronic)
+    Fee: Fingerprinting and processing fees (varies by provider, approximately $50-$100)
+    Contact: (916) 227-3849 - DOJ or authorized Live Scan provider
+    Dependencies: Staff hired/identified
+
+15. OBTAIN WORKERS COMPENSATION INSURANCE
+    Action: Purchase workers compensation insurance policy
+    Processing Time: 1-2 weeks
+    Fee: Insurance premiums (varies by coverage, approximately $500-$1,500 annually)
+    Contact: Licensed insurance agent
+    Dependencies: Business entity formation (Steps 1-3)
+
+16. FILE PRIVATE SCHOOL AFFIDAVIT
+    Action: Complete and submit Private School Affidavit online
+    Processing Time: Immediate submission (annual requirement)
+    Fee: No fee
+    Contact: California Department of Education - www3.cde.ca.gov/psa or (916) 319-0800
+    Dependencies: School established and ready to begin instruction
+    NOTE: Must be filed between October 1-15 annually, or immediately if opening after October 15
+
+====================================================================
+
+PHASE 7: HEALTH AND SAFETY COMPLIANCE (Timeline: 2-3 weeks)
+
+17. COLLECT STUDENT IMMUNIZATION RECORDS
+    Action: Verify and document all student immunizations per California requirements
+    Processing Time: Ongoing as students enroll
+    Fee: No fee
+    Contact: Student families and healthcare providers
+    Dependencies: Student enrollment
+
+18. ESTABLISH HEALTH DEPARTMENT RELATIONSHIP
+    Action: Contact LA County Public Health to establish reporting procedures
+    Processing Time: 1 week
+    Fee: No fee
+    Contact: (626) 430-5200 - Department of Public Health
+    Dependencies: Near opening date
+
+====================================================================
+
+ANNUAL COMPLIANCE REQUIREMENTS
+
+RECURRING ANNUAL OBLIGATIONS:
+- Private School Affidavit (October 1-15) - No fee
+- Business license renewal (by January 31) - $154
+- Food establishment permit renewal - $1,158 (higher capacity)
+- Franchise tax payment (by April 15) - $800
+- Workers compensation insurance renewal - varies
+- Food handler certification renewal (every 3 years) - $15
+
+====================================================================
+
+CRITICAL DEPENDENCIES AND NOTES
+
+CANNOT START OPERATION UNTIL:
+✓ Conditional Use Permit approved (Step 4)
+✓ Change of use permit issued (Step 6)
+✓ Fire safety inspection passed (Step 7-8)
+✓ Food establishment permit obtained (Step 12)
+✓ Background checks completed for all staff (Step 14)
+✓ Workers compensation insurance in effect (Step 15)
+
+TIMING CONSIDERATIONS:
+- Start CUP process immediately - longest timeline item (8-12 weeks)
+- Begin fire safety and building permit processes as soon as CUP is filed
+- Food service permits can run parallel with building permits
+- Private School Affidavit timing depends on opening date (October 1-15 window)
+
+COST SUMMARY:
+Government Fees: $22,699-$26,243
+- Business formation: $890
+- Zoning/land use: $19,112
+- Building/fire: $2,658
+- Business license: $154
+- Food service: $1,922 (higher capacity)
+- Background checks: ~$100 per person
+- Annual recurring: $2,112 (higher capacity)
+
+Additional Costs (not government fees):
+- Workers compensation insurance: $500-$1,500 annually
+- Kitchen equipment and modifications: varies
+- Fire safety equipment: $500-$1,000
+- Professional services (attorney, consultant): varies
+
+PARKING IMPACT FOR 20 STUDENTS:
+- Minimum 5 parking spaces required
+- ADA accessible space mandatory
+- May require larger parking area construction
+
+====================================================================
+
+EMERGENCY CONTACTS
+
+Los Angeles County Department of Regional Planning: (213) 974-6411
+Los Angeles County Department of Public Works: (626) 458-4357
+Los Angeles County Fire Department: (323) 890-4243
+Los Angeles County Treasurer and Tax Collector: (213) 974-2045
+Los Angeles County Department of Public Health: (626) 430-5200
+California Department of Education: (916) 319-0800
+California Secretary of State: (916) 653-6814
+California Department of Justice: (916) 227-3849
+
+====================================================================
+
+For questions about this checklist or updates to requirements, contact the specific agency directly as regulations may change.

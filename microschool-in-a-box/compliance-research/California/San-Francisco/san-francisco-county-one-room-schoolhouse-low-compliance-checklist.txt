@@ -1,0 +1,274 @@
+SAN FRANCISCO COUNTY MICROSCHOOL COMPLIANCE CHECKLIST (LOW ENROLLMENT)
+
+Parameters: One-Room-Schoolhouse (1 teacher, 12 students ages 5-14, no parents present, food served, residential dwelling)
+Target Location: San Francisco County, California
+Date Created: August 30, 2025
+
+====================================================================
+
+ESTIMATED TOTAL TIMELINE: 4-8 months (depending on zoning approvals)
+ESTIMATED TOTAL MANDATORY FEES: $2,000 - $45,000+ (varies significantly based on zoning outcome and construction requirements)
+
+====================================================================
+
+PHASE 1: BUSINESS FORMATION AND INITIAL SETUP (WEEKS 1-4)
+
+STEP 1: FORM BUSINESS ENTITY
+□ File Articles of Organization for LLC with California Secretary of State
+  - Website: bizfileOnline.sos.ca.gov
+  - Fee: $70 (registration) + $820 (additional taxes within first 4 months)
+  - Processing Time: 1-5 business days online
+  - Dependencies: None
+  - Contact: (916) 653-6814
+
+STEP 2: OBTAIN FEDERAL TAX ID NUMBER
+□ Apply for Federal Employer Identification Number (EIN) with IRS
+  - Website: irs.gov
+  - Fee: No fee (avoid third-party services)
+  - Processing Time: Immediate online
+  - Dependencies: Business entity formation (Step 1)
+  - Contact: IRS Business Helpline
+
+STEP 3: REGISTER FOR CALIFORNIA TAXES
+□ Register with California Franchise Tax Board
+  - Website: ftb.ca.gov
+  - Fee: No initial fee ($800 annual franchise tax due later)
+  - Processing Time: 2-3 weeks
+  - Dependencies: Federal EIN (Step 2)
+  - Contact: (800) 852-5711
+
+====================================================================
+
+PHASE 2: ZONING AND PLANNING APPROVALS (WEEKS 5-16)
+
+⚠️ CRITICAL PATH ALERT: Zoning approval likely required for educational use in residential dwelling
+
+STEP 4: DETERMINE PROPERTY ZONING CLASSIFICATION
+□ Look up property zoning using SF Property Information Map (PIM)
+  - Website: sfplanninggis.org/pim/
+  - Fee: No fee
+  - Processing Time: Same day
+  - Dependencies: Have property address
+  - Contact: SF Planning Department (628) 652-7300
+
+STEP 5: CONSULT WITH SF PLANNING DEPARTMENT
+□ Schedule pre-application meeting for zoning compliance consultation
+  - Location: 49 South Van Ness Ave, Suite 1400, SF 94103
+  - Fee: Consultation fee may apply (check current fee schedule)
+  - Processing Time: 2-3 weeks for appointment
+  - Dependencies: Property zoning information (Step 4)
+  - Contact: (628) 652-7300
+
+STEP 6: APPLY FOR ZONING PERMITS (IF REQUIRED)
+□ Submit conditional use permit or variance application (if needed)
+  - Requirements: Educational use in residential district likely requires special approval
+  - Fee: $1,000+ (varies by permit type and complexity)
+  - Processing Time: 6-12 weeks for review and Planning Commission approval
+  - Dependencies: Planning consultation (Step 5)
+  - Contact: SF Planning Department (628) 652-7300
+
+⚠️ WARNING: If zoning approval is denied, educational use cannot proceed at residential location
+
+====================================================================
+
+PHASE 3: BUILDING AND FIRE SAFETY PERMITS (WEEKS 12-20)
+
+STEP 7: SUBMIT BUILDING PERMIT APPLICATION
+□ Apply for change of use permit (Residential to Educational Group E)
+  - Location: Permit Center, 49 South Van Ness Ave, 2nd Floor
+  - Fee: Varies based on project scope ($500 - $5,000+ typical range)
+  - Processing Time: 4-8 weeks for in-house review
+  - Dependencies: Zoning approval (Step 6), architectural plans required
+  - Contact: PermitSF@sfgov.org, (628) 652-3200
+
+STEP 8: FIRE DEPARTMENT PLAN REVIEW
+□ Submit plans to SF Fire Department Plan Check Section
+  - Location: 49 South Van Ness Ave, Suite 560
+  - Fee: Plan review fees apply (check current schedule)
+  - Processing Time: 2-4 weeks concurrent with building permit
+  - Dependencies: Building permit application (Step 7)
+  - Contact: (628) 652-3472
+
+STEP 9: OBTAIN FIRE PERMIT
+□ Apply for Operational Fire Permit for Group E occupancy
+  - Requirements: Fire inspection required before approval
+  - Fee: Fire permit fees apply (varies by occupancy type)
+  - Processing Time: 1-2 weeks after plan approval
+  - Dependencies: Fire plan review approval (Step 8)
+  - Contact: SF Fire Department (628) 652-3472
+
+====================================================================
+
+PHASE 4: EMPLOYMENT AND BACKGROUND CHECKS (WEEKS 8-12)
+
+STEP 10: EMPLOYEE BACKGROUND CHECKS
+□ Submit fingerprints for all employees with student contact
+  - Requirements: Two sets of fingerprints for DOJ and FBI checks
+  - Fee: Fingerprinting and background check processing fees (varies by provider)
+  - Processing Time: 15 working days (3 days with electronic system)
+  - Dependencies: Employee identification
+  - Contact: CA Department of Justice (916) 227-3849
+
+STEP 11: OBTAIN WORKERS COMPENSATION INSURANCE
+□ Purchase workers compensation insurance coverage
+  - Requirements: Mandatory for all employers with one or more employees
+  - Fee: Premium based on payroll and risk classification
+  - Processing Time: 1-2 weeks
+  - Dependencies: Business formation (Step 1)
+  - Contact: Insurance broker or carrier
+
+====================================================================
+
+PHASE 5: BUSINESS REGISTRATION AND LICENSING (WEEKS 16-18)
+
+STEP 12: SAN FRANCISCO BUSINESS REGISTRATION
+□ Register business with SF Treasurer & Tax Collector
+  - Website: sftreasurer.org/business/register-business
+  - Fee: $54 - $41,951 based on anticipated gross receipts (First Year Free program may apply)
+  - Processing Time: Same day online
+  - Dependencies: Business formation (Step 1), Tax ID (Step 2)
+  - Contact: (415) 554-4400
+
+====================================================================
+
+PHASE 6: FOOD SERVICE PERMITS (WEEKS 18-22)
+
+STEP 13: OBTAIN FOOD SAFETY CERTIFICATIONS
+□ Food Safety Manager certification (at least 1 staff member required)
+  - Requirements: Pass approved food safety manager exam
+  - Fee: Certification course and exam fees (typically $100-200)
+  - Processing Time: 1-2 weeks
+  - Dependencies: Staff identification
+  - Contact: Approved training providers
+
+STEP 14: FOOD HANDLER CARDS
+□ Obtain Food Handler Cards for all food service staff
+  - Website: Multiple approved providers available
+  - Fee: Approximately $7.95 per person
+  - Processing Time: Same day online
+  - Dependencies: Staff identification
+  - Contact: SF Department of Public Health (415) 554-2500
+
+STEP 15: FOOD FACILITY PERMIT APPLICATION
+□ Apply for Retail Food Facility Permit
+  - Location: Environmental Health Branch, 101 Grove St, Room 308
+  - Requirements: Menu, floor plan, and facility specifications
+  - Fee: Varies by facility type (refer to current EHB fee schedule)
+  - Processing Time: 2-4 weeks including inspection
+  - Dependencies: Food safety certifications (Steps 13-14), building permits (Step 7)
+  - Contact: (415) 554-2500
+
+====================================================================
+
+PHASE 7: EDUCATIONAL COMPLIANCE (WEEKS 20-24)
+
+STEP 16: FILE PRIVATE SCHOOL AFFIDAVIT (PSA)
+□ Complete and submit PSA with California Department of Education
+  - Filing Window: October 1-15 annually (or immediately if established after Oct 15)
+  - Website: www3.cde.ca.gov/psa
+  - Fee: No fee
+  - Processing Time: Online submission, immediate confirmation
+  - Dependencies: School operational setup complete
+  - Contact: CDE (916) 319-0800
+
+====================================================================
+
+FINAL INSPECTIONS AND OPENING (WEEKS 22-26)
+
+STEP 17: SCHEDULE FINAL INSPECTIONS
+□ Coordinate final building, fire, and health inspections
+  - Building: Department of Building Inspection
+  - Fire: SF Fire Department
+  - Health: Environmental Health Branch (for food service)
+  - Processing Time: 1-2 weeks for scheduling, 1 week for inspections
+  - Dependencies: All permits and applications completed
+  - Mandatory: All inspections must pass before operation
+
+STEP 18: RECEIVE CERTIFICATES OF OCCUPANCY AND OPERATION
+□ Obtain final approvals and certificates
+  - Requirements: All inspections passed, all fees paid
+  - Processing Time: 1 week after final inspections
+  - Dependencies: Final inspections (Step 17)
+
+====================================================================
+
+ONGOING COMPLIANCE REQUIREMENTS
+
+ANNUAL RENEWALS:
+□ Private School Affidavit (October 1-15)
+□ SF Business Registration (by May 31)
+□ Food Facility Permit (annual)
+□ Fire Permit (annual)
+□ Workers Compensation Insurance (continuous)
+
+ANNUAL FEES:
+□ California Franchise Tax: $800 minimum
+□ SF Business Registration: Based on gross receipts
+□ Food Service Permit: Per current fee schedule
+□ Fire Permit: Per current fee schedule
+
+====================================================================
+
+MANDATORY FEES SUMMARY
+
+BUSINESS FORMATION:
+- CA LLC Formation: $70
+- CA Additional Taxes: $820 (first 4 months)
+- Annual Franchise Tax: $800
+
+LOCAL LICENSING:
+- SF Business Registration: $54 - $41,951 (may qualify for First Year Free)
+- Planning Permits: $1,000+ (if required)
+- Building Permits: $500 - $5,000+
+- Fire Permits: Varies (check current schedule)
+- Food Service Permits: Varies (check current EHB schedule)
+
+EMPLOYMENT:
+- Background Checks: Varies by provider
+- Workers Compensation: Premium based on payroll
+
+EDUCATION:
+- Food Safety Manager Certification: $100-200
+- Food Handler Cards: ~$8 per person
+
+====================================================================
+
+CRITICAL SUCCESS FACTORS
+
+1. ZONING COMPLIANCE IS MAKE-OR-BREAK
+  - Educational use in residential dwelling faces significant restrictions
+  - May require conditional use permit or variance
+  - Consider alternative commercial location if residential approval denied
+
+2. DEPENDENCY MANAGEMENT
+  - Zoning approval must precede building permits
+  - Building permits must precede final business licensing
+  - Food service permits require building approval
+  - Private School Affidavit filing has strict annual window
+
+3. PROFESSIONAL CONSULTATION RECOMMENDED
+  - Zoning attorney for conditional use permits
+  - Architect for building code compliance
+  - Food service consultant for health permits
+
+4. PLAN FOR EXTENDED TIMELINE
+  - Zoning approvals can take 3-6 months
+  - Building permits add 1-2 months
+  - Total process typically 6-8 months minimum
+
+====================================================================
+
+EMERGENCY CONTACTS
+
+San Francisco One-Stop Business Portal: sf.gov/start-business
+SF Planning Department: (628) 652-7300
+SF Building Inspection: (628) 652-3200
+SF Fire Department: (628) 652-3472
+SF Health Department: (415) 554-2500
+SF Business Registration: (415) 554-4400
+CA Department of Education: (916) 319-0800
+
+====================================================================
+
+LAST UPDATED: August 30, 2025
+NOTE: Fees and processing times subject to change. Verify current requirements with each agency before beginning process.

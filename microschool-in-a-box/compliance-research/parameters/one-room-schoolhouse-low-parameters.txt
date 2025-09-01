@@ -1,0 +1,9 @@
+ONE-ROOM-SCHOOLHOUSE LOW PARAMETERS
+
+Number of teachers: 1
+Number of children: 12
+Age of youngest child: 5
+Age of oldest child: 14
+Parents present: No
+Food served: Yes
+Building type: Residential dwelling
