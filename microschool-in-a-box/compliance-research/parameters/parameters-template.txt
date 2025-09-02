@@ -1,5 +1,7 @@
 MICROSCHOOL PARAMETERS TEMPLATE
 
+State: [STATE]
+County: [COUNTY]
 Number of teachers: [NUMBER]
 Number of children: [NUMBER/RANGE]
 Age of youngest child: [AGE]

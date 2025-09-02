@@ -1,0 +1,29 @@
+Guardrails Claude must follow (policy + etiquette)
+
+Honor CDE’s posted policies.
+
+Conditions of Use explains monitoring and acceptable use. Don’t try to evade security; interact like a normal visitor. 
+California Department of Education
+
+Copyright Statement: data and materials may require permission to reproduce/redistribute unless “specifically noted.” It’s fine to download for analysis, but don’t republish files or large excerpts without checking this page or obtaining permission. 
+California Department of Education
+
+Check and respect robots.txt.
+
+CDE’s robots file blocks only certain paths (mostly legacy docs and utility pages). Claude must avoid any disallowed patterns and never treat robots as a “bypass” mechanism. 
+California Department of Education
+
+Throttle generously.
+
+If the site does not specify a crawl-delay, follow Digital.gov’s guidance: default to 1 request every 10 seconds for non-Search.gov bots. (Search.gov’s own usasearch bot is recommended at 2 seconds, but Claude is not that.) 
+Digital.gov
+
+Identify yourself.
+
+Set a descriptive User-Agent string (e.g., “your-org-research-bot/1.0 contact: you@example.com
+”) and include a contact email in case rate limits need to be discussed. CDE lists a contact for Private Schools data (see page footer on the data page). 
+California Department of Education
+
+Be cache-friendly and gentle.
+
+Use If-Modified-Since / If-None-Match to avoid redownloading unchanged files, back off on HTTP 429/503, and keep concurrency at 1.

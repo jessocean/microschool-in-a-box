@@ -19,7 +19,14 @@
       "Bash(for:*)",
       "Bash(do mv \"$file\" C:/Users/jessi/dev/microschool-in-a-box/compliance-research/parameters/)",
       "Bash(done)",
-      "Bash(git rm:*)"
+      "Bash(git rm:*)",
+      "Bash(curl:*)",
+      "Bash(python:*)",
+      "Bash(powershell:*)",
+      "Bash(./download_curl.bat)",
+      "Bash(ls:*)",
+      "Bash(\"/c/Users/jessi/AppData/Local/Programs/Python/Python313/python.exe\" analyze_cde_data.py)",
+      "Bash(\"/c/Users/jessi/AppData/Local/Programs/Python/Python313/python.exe\" -m pip install pandas openpyxl)"
     ],
     "deny": []
   }

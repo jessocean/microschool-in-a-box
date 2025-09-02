@@ -1,5 +1,7 @@
 ONE-ROOM-SCHOOLHOUSE HIGH PARAMETERS
 
+State: [TO BE SPECIFIED]
+County: [TO BE SPECIFIED]
 Number of teachers: 1
 Number of children: 20
 Age of youngest child: 5

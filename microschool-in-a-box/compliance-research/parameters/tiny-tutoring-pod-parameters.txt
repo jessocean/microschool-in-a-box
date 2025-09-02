@@ -1,5 +1,7 @@
 TINY TUTORING POD PARAMETERS
 
+State: [TO BE SPECIFIED]
+County: [TO BE SPECIFIED]
 Number of teachers: 1
 Number of children: 3
 Age of youngest child: 8

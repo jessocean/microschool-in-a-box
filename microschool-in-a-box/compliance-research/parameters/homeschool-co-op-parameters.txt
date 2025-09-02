@@ -1,5 +1,7 @@
 HOMESCHOOL CO-OP PARAMETERS
 
+State: [TO BE SPECIFIED]
+County: [TO BE SPECIFIED]
 Number of teachers: 1 (parent)
 Number of children: 5
 Age of youngest child: 6

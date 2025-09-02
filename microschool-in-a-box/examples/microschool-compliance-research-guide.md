@@ -2,6 +2,7 @@
 
 ## Before Starting Research
 **IMPORTANT:** Review the specific parameters file for the microschool model being researched. Research must identify precise legal requirements and compliance criteria for the specific:
+- State and county location
 - Number of teachers
 - Number of children  
 - Age range of students

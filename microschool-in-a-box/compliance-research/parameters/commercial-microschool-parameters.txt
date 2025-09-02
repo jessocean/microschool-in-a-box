@@ -1,5 +1,7 @@
 COMMERCIAL MICROSCHOOL PARAMETERS
 
+State: [TO BE SPECIFIED]
+County: [TO BE SPECIFIED]
 Number of teachers: 3
 Number of children: 35
 Age of youngest child: 5

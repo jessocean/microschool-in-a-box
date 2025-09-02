@@ -1,0 +1,98 @@
+**Goal: Estimate how many microschools have opened in California since 2021**
+
+what “microschool” means (for your project)
+
+We're defining micrischools as "private K–12 schools with ≤100–150 students” and/or “small teacher-led networks (Acton, Wildflower, KaiPod, etc.).” That choice determines which data sources you can use and how “opened” is inferred.
+
+the core data spine (what’s actually published)
+
+CDE Private School files (6+ students only).
+Download the annual XLSX files for 2021-22 through 2024-25 from the CDE “Private School Data” page. These are the only statewide, school-level private-school datasets; they include only schools that reported 6+ students on their Private School Affidavit (PSA). 
+California Department of Education
+
+Important limitation to note in your methodology.
+We're ignoring schools with fewer than 6 children for now. The CDE explicitly says it only compiles and releases data for schools with 6+ students; schools with ≤5 students are not in the public directory. 
+California Department of Education
+
+Their FAQ also clarifies that data for schools under six isn’t made public unless you submit a Public Records Act request. 
+California Department of Education
+
+how to infer “opened in the last 4 years”
+
+Because the files don’t include an “opening date,” you infer it by first appearance:
+
+Download the four files (2021-22, 2022-23, 2023-24, 2024-25) from the CDE page. 
+California Department of Education
+
+Match and dedupe by CDS code where present (only for 6+ schools) and then by normalized name+address.
+
+For each school, record the first year it appears. Treat that as the “opening year” for public listing purposes. (Caveat: a school might pre-exist with ≤5 students and cross the 6-student threshold later; note this in your limitations section.)
+
+Filter to first‐appearance year ≥ 2021-22 (i.e., Sep 2021–Aug 2025).
+
+Apply your microschool size cap (e.g., ≤150). You can also flag likely microschools by keywords or network membership (below).
+
+fill the gaps the state doesn’t publish
+
+To catch small/brand-new microschools (≤5 students) and confirm networks:
+
+Network/directories to confirm microschool status (coverage is partial):
+• KaiPod’s California pages (lists partner microschools by city). 
+KaiPod Learning
+
+• Wildflower Schools (network list; NorCal page and “Our Schools” list include CA sites like The Dahlia School SF, Little Tree in Hollister). 
+Wildflower Schools
++1
+Little Tree
+
+• LA Catholic Schools Microschools Network (named member schools). 
+lacatholicschools.org
+
+• Acton Academies operating in CA (directory + entries in the CDE site for specific campuses like Venice Beach and Tej Acton). 
+actonacademy.org
+California Department of Education
++1
+
+Prenda Schools
+
+Note: the National Microschooling Center deliberately does not publish a public list (safety/privacy), so don’t expect a master directory there. 
+microschoolingcenter.org
+
+step-by-step workflow you can run
+
+Build your base table from CDE files (’21-22 → ’24-25). Keep fields: CDS code, name, address, city, county, grades, total enrollment, phone/email, file year/source. 
+California Department of Education
+
+First-appearance logic: group by CDS/name+address → min(file year). Mark first_listed_year.
+
+Size filter: keep ≤100 or ≤150 enrollment (whatever you decide).
+
+Network flags:
+
+Look for substrings: “Acton,” “Wildflower,” “KaiPod,” “Microschool,” “Academy,” etc.
+
+Manually cross-check a sample against network pages above; add network and source_url. 
+KaiPod Learning
+Wildflower Schools
+
+Under-six augmentation: file your CPRA to CDE’s privateschools@cde.ca.gov (listed on the data page) asking for the fields above for first-time PSAs since 9/1/2021. Add those rows with a flag under6_psa = true. 
+California Department of Education
++1
+
+Quality checks:
+
+spot-check websites / Google Maps to verify they’re full-time K–12 schools (not tutoring/enrichment only).
+
+de-dupe multiple campuses of the same brand if your definition treats a campus as a separate “school.”
+
+Document your caveats: explicitly note that “opening year” = first public listing (≥6 students) unless CPRA shows earlier PSA.
+
+
+quick tips & gotchas
+
+Don’t rely on “microschool” in the name. Many will simply be “Academy” or “Montessori.” Your size filter + first-appearance year does the heavy lifting.
+
+Home-based schools filing PSAs with ≤5 students won’t show up without the CPRA step. Ignore them for now.
+California Department of Education
+
+Charters: if your definition includes tiny public charters, use the Charter School Locator (export directory, then filter by small enrollment / new schools since 2021).

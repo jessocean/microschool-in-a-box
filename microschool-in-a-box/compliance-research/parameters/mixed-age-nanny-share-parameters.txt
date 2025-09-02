@@ -1,5 +1,7 @@
 MIXED AGE NANNY SHARE PARAMETERS
 
+State: [TO BE SPECIFIED]
+County: [TO BE SPECIFIED]
 Number of teachers: 1 (nanny/tutor)
 Number of children: 6
 Age of youngest child: 4

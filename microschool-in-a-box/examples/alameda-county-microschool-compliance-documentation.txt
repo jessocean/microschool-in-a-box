@@ -1,0 +1,417 @@
+MICROSCHOOL COMPLIANCE DOCUMENTATION
+===================================
+Alameda County, California
+
+PARAMETERS USED:
+- State: California
+- County: Alameda
+- Number of teachers: 1
+- Number of children: 12-20
+- Age of youngest child: 5
+- Age of oldest child: 14
+- Parents present: No
+- Food served: Yes
+- Building type: Residential dwelling
+
+Date of Research: August 30, 2025
+Researcher: Example Documentation
+
+SECTION A: STATE-LEVEL REQUIREMENTS
+==================================
+
+A.1 SCHOOL LICENSING REQUIREMENTS
+---------------------------------
+
+PRIVATE SCHOOL AFFIDAVIT FILING
+Legal Requirement: Private schools must file affidavit annually between October 1-15 [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp; "Filing Requirements" section]
+
+Compliance Criteria:
+- Annual filing between October 1-15 (mandatory window) [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp; "When to File" section]
+- Must cover all students ages 6-18 in the facility [Cal. Ed. Code § 33190; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=33190&lawCode=EDC; subsection (a)]
+- Online submission through CDE website required [https://www3.cde.ca.gov/psa; login portal instructions]
+- Schools established after October 15 must file immediately upon establishment [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp; "Late Filing" section]
+- No filing fee [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp; "Fees" section]
+
+CURRICULUM REQUIREMENTS
+Legal Requirement: Must offer "instruction in the several branches of study required to be taught in public schools" [Cal. Ed. Code § 51210; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=51210&lawCode=EDC; subsection (a)]
+
+Compliance Criteria:
+- Full-time educational program required for students ages 6-18 [Cal. Ed. Code § 48222; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=48222&lawCode=EDC; subsection (a)]
+- No specific state curriculum mandated for private schools [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp; "Curriculum Requirements" section]
+- No state approval of curriculum required [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp; "State Oversight" section]
+
+A.2 EMPLOYMENT LAW REQUIREMENTS
+-------------------------------
+
+BACKGROUND CHECK AND FINGERPRINTING
+Legal Requirement: All employees with student contact must submit fingerprints [Cal. Ed. Code § 44237; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44237&lawCode=EDC; subsection (a)]
+
+Compliance Criteria:
+- Two sets of fingerprints required for DOJ and FBI criminal record checks [Cal. Ed. Code § 44237; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44237&lawCode=EDC; subsection (b)]
+- DOJ provides summary within 15 working days (3 days with electronic system) [Cal. Ed. Code § 44237; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44237&lawCode=EDC; subsection (c)]
+- Information stored in locked file separate from other files [Cal. Ed. Code § 44237; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44237&lawCode=EDC; subsection (d)]
+- Information destroyed upon hiring determination [Cal. Ed. Code § 44237; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44237&lawCode=EDC; subsection (d)]
+- Must check for: sex offenses, controlled substance offenses, crimes of violence, serious/violent felonies [Cal. Ed. Code § 44237; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44237&lawCode=EDC; subsection (a)]
+
+WORKERS COMPENSATION INSURANCE
+Legal Requirement: Mandatory for all employers with one or more employees [Cal. Labor Code § 3700; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3700&lawCode=LAB; subsection (a)]
+
+Compliance Criteria:
+- Coverage required for all employees including part-time [Cal. Labor Code § 3351; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3351&lawCode=LAB; definition section]
+- Must obtain certificate of insurance [Cal. Labor Code § 3700; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3700&lawCode=LAB; subsection (b)]
+- Coverage maintained continuously during employment periods [Cal. Labor Code § 3700; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3700&lawCode=LAB; subsection (a)]
+
+A.3 BUSINESS REGISTRATION REQUIREMENTS
+-------------------------------------
+
+LLC FORMATION
+Legal Requirement: Must register with California Secretary of State [Cal. Corp. Code § 17701.04; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17701.04&lawCode=CORP; subsection (a)]
+
+Compliance Criteria:
+- File Articles of Organization online at bizfileonline.sos.ca.gov [https://bizfileonline.sos.ca.gov/; main filing portal]
+- Registration fee: $70 [https://www.sos.ca.gov/business-programs/business-entities/fees; LLC formation fee schedule]
+- Additional taxes and fees: $820 due within first 4 months [Cal. Rev. & Tax. Code § 17941; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17941&lawCode=RTC; subsection (b)]
+
+FEDERAL AND STATE TAX REGISTRATION
+Legal Requirement: Federal EIN and California tax registration required [26 U.S.C. § 6109; https://www.law.cornell.edu/uscode/text/26/6109; subsection (a)]
+
+Compliance Criteria:
+- Obtain EIN from IRS (no fee) [https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online; application portal]
+- Register with California Franchise Tax Board [https://www.ftb.ca.gov/file/business/types/llc-partnership/index.html; registration requirements]
+- Register with CDTFA if applicable for sales tax [https://www.cdtfa.ca.gov/registration/; registration portal]
+
+A.4 TAX OBLIGATIONS
+------------------
+
+FRANCHISE TAX
+Legal Requirement: Annual minimum franchise tax $800 for LLCs [Cal. Rev. & Tax. Code § 23153; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23153&lawCode=RTC; subsection (a)]
+
+Compliance Criteria:
+- Annual payment required regardless of income [Cal. Rev. & Tax. Code § 23153; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23153&lawCode=RTC; subsection (a)]
+- Due date: 15th day of 4th month after beginning of tax year [Cal. Rev. & Tax. Code § 23153; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23153&lawCode=RTC; subsection (c)]
+- Mandatory fee: $800 annually [https://www.ftb.ca.gov/file/business/types/llc-partnership/index.html; fee schedule section]
+
+PROPERTY TAX EXEMPTIONS (OPTIONAL)
+Legal Requirement: Private schools may qualify for welfare exemption [Cal. Rev. & Tax. Code § 214; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=214&lawCode=RTC; subsection (a)]
+
+Compliance Criteria for Exemption:
+- Property used exclusively for educational purposes [Cal. Rev. & Tax. Code § 214; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=214&lawCode=RTC; subsection (a)(1)]
+- Must qualify as 501(c)(3) or 501(c)(4) [Cal. Rev. & Tax. Code § 214; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=214&lawCode=RTC; subsection (d)]
+- No part of net earnings may benefit private individuals [Cal. Rev. & Tax. Code § 214; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=214&lawCode=RTC; subsection (g)]
+
+A.5 BUILDING AND FIRE SAFETY REQUIREMENTS
+-----------------------------------------
+
+BUILDING CODE OCCUPANCY CLASSIFICATION
+Legal Requirement: Educational use classifies as Group E occupancy [Cal. Building Code Ch. 3, Section 303; https://up.codes/viewer/california/ca-building-code-2019/chapter/3/occupancy-classification-and-use#303; Group E definition]
+
+Compliance Criteria:
+- Group E classification for educational component [Cal. Building Code § 303.1; https://up.codes/viewer/california/ca-building-code-2019/chapter/3/occupancy-classification-and-use#303.1; educational occupancy definition]
+- Group R classification for residential components [Cal. Building Code § 310; https://up.codes/viewer/california/ca-building-code-2019/chapter/3/occupancy-classification-and-use#310; residential occupancy definition]
+- Mixed occupancy requirements apply [Cal. Building Code § 508; https://up.codes/viewer/california/ca-building-code-2019/chapter/5/general-building-heights-and-areas#508; mixed use provisions]
+- Maximum occupancy load calculations required [Cal. Building Code § 1004.5; https://up.codes/viewer/california/ca-building-code-2019/chapter/10/means-of-egress#1004.5; Table 1004.5]
+
+FIRE SAFETY SYSTEMS
+Legal Requirement: Mixed occupancy buildings require automatic sprinkler systems [Cal. Fire Code § 903.2; https://up.codes/viewer/california/ca-fire-code-2019/chapter/9/fire-protection-and-life-safety-systems#903.2; sprinkler requirements]
+
+Compliance Criteria:
+- Automatic sprinkler system required for mixed Group E/Group R occupancy [Cal. Fire Code § 903.2.3; https://up.codes/viewer/california/ca-fire-code-2019/chapter/9/fire-protection-and-life-safety-systems#903.2.3; Group E requirements]
+- Sprinkler system must comply with NFPA 13 standards [Cal. Fire Code § 903.3.1.1; https://up.codes/viewer/california/ca-fire-code-2019/chapter/9/fire-protection-and-life-safety-systems#903.3.1.1; NFPA 13 reference]
+- Fire safety and evacuation plans required [Cal. Fire Code § 404.2; https://up.codes/viewer/california/ca-fire-code-2019/chapter/4/emergency-planning-and-preparedness#404.2; emergency evacuation plan requirements]
+
+A.6 FOOD SERVICE REQUIREMENTS
+---------------------------------------------
+
+FOOD FACILITY PERMIT
+Legal Requirement: All food facilities must obtain permits from local environmental health agency [Cal. Health & Safety Code § 114381; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=114381&lawCode=HSC; subsection (a)]
+
+Compliance Criteria:
+- Food facility permit required from county environmental health department [Cal. Health & Safety Code § 114381; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=114381&lawCode=HSC; subsection (a)]
+- Plan review process required for new facilities [Cal. Health & Safety Code § 114380; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=114380&lawCode=HSC; subsection (b)]
+- Food safety certification required for food handlers [Cal. Health & Safety Code § 113947.1; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=113947.1&lawCode=HSC; certification requirements]
+- Annual permit renewal required [Cal. Health & Safety Code § 114381; https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=114381&lawCode=HSC; subsection (d)]
+
+A.7 ACCREDITATION REQUIREMENTS
+------------------------------
+
+LEGAL ACCREDITATION REQUIREMENTS
+Legal Status: Not required by California law [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp; "Accreditation" section]
+
+Optional WASC Accreditation Benefits:
+- UC course approval requires WASC accreditation or candidate status [https://admission.universityofcalifornia.edu/counselors/files/quick-reference.pdf; page 3, "High School Course Requirements"]
+- Improves student transfer opportunities [https://www.acswasc.org/about/benefits-of-accreditation/; benefits overview]
+- Some higher education institutions prefer accredited transcripts [https://www.acswasc.org/about/benefits-of-accreditation/; college admission section]
+
+SECTION B: COUNTY/LOCAL REQUIREMENTS
+===================================
+
+B.1 ZONING REQUIREMENTS
+----------------------
+
+CONDITIONAL USE PERMIT REQUIREMENT
+Legal Requirement: Educational facilities in residential zones require Conditional Use Permit [Alameda County Code Title 17, Chapter 17.54; https://library.municode.com/ca/alameda_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.54ZOPR_17.54.070COUSPE; conditional use permit requirements]
+
+Compliance Criteria:
+- Submit CUP application to Alameda County Planning Department [Alameda County Code § 17.54.070; https://library.municode.com/ca/alameda_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.54ZOPR_17.54.070COUSPE; application procedures]
+- Public hearing required before Board of Zoning Adjustments [Alameda County Code § 17.54.080; https://library.municode.com/ca/alameda_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.54ZOPR_17.54.080PUHECO; hearing requirements]
+- Demonstrate use will not be detrimental to neighborhood [Alameda County Code § 17.54.070(D); https://library.municode.com/ca/alameda_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.54ZOPR_17.54.070COUSPE; approval criteria]
+- Processing time: typically 2-3 months [Contact Planning Department for current processing times: (510) 670-5400]
+
+R-1 DISTRICT RESTRICTIONS
+Legal Requirement: Single-family residential districts have specific use restrictions [Alameda County Code § 17.08.030; https://library.municode.com/ca/alameda_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.08R-SI_17.08.030USPE; permitted uses]
+
+Compliance Criteria:
+- Front yard setback: 20 feet minimum [Alameda County Code § 17.08.050; https://library.municode.com/ca/alameda_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.08R-SI_17.08.050YARE; front yard requirements]
+- Side yard requirements: 5 feet minimum [Alameda County Code § 17.08.050; https://library.municode.com/ca/alameda_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.08R-SI_17.08.050YARE; side yard requirements]
+- Must meet parking requirements for educational facilities [Alameda County Code § 17.56.040; https://library.municode.com/ca/alameda_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.56PARE_17.56.040NUPARE; parking ratios]
+- Hours of operation may be restricted [Contact Planning Department for specific restrictions: (510) 670-5400]
+
+B.2 BUILDING PERMITS AND CODES
+------------------------------
+
+CHANGE OF USE PERMIT
+Legal Requirement: Converting residential dwelling to educational use requires building permit [Alameda County Building Code; contact Alameda County Building Department for specific requirements]
+
+Compliance Criteria:
+- Submit building permit application to Alameda County Building Department
+- Plans must show compliance with educational occupancy requirements
+- ADA accessibility compliance required [Americans with Disabilities Act; https://www.ada.gov/; Title III requirements]
+- Mixed occupancy classification applies [California Building Code § 508; reference provided in state requirements above]
+
+FIRE SAFETY REQUIREMENTS
+Legal Requirement: Mixed occupancy buildings require fire safety system upgrades [California Fire Code § 903.2; reference provided in state requirements above]
+
+Compliance Criteria:
+- Automatic sprinkler system required for mixed occupancy
+- Fire evacuation plan required
+- Fire safety inspection required
+- Emergency egress requirements must be met
+
+B.3 LOCAL BUSINESS LICENSING
+----------------------------
+
+LOCAL BUSINESS PERMIT
+Legal Requirement: All businesses in unincorporated Alameda County require business license [Alameda County Business License Ordinance; contact county for specific code citation]
+
+Compliance Criteria:
+- Apply for business license with Alameda County (if unincorporated area)
+- Apply with appropriate city if in incorporated city limits
+- License must be maintained annually
+- Display requirements may apply [Contact business license department for requirements]
+
+B.4 FOOD SERVICE PERMITS
+----------------------------------------
+
+FOOD FACILITY PERMIT
+Legal Requirement: All facilities serving food require environmental health permits [California Health & Safety Code § 114381; reference provided in state requirements above]
+
+Local Implementation by Alameda County Environmental Health Department:
+- Annual permit and inspection required [Contact (510) 567-6858 for current requirements]
+- Plan review process for new facilities [Contact for plan review procedures]
+- Commercial kitchen requirements must be met [Contact for specific kitchen code requirements]
+
+Penalty Structure:
+- Payments must be received within 30 days to avoid penalties [Contact Environmental Health for current penalty structure]
+- 25% penalty assessed after 30 days
+- Additional 25% penalty assessed after 60 days
+- Annual fees are non-refundable and non-transferable
+
+B.5 OTHER LOCAL REQUIREMENTS
+----------------------------
+
+FOOD SAFETY CERTIFICATION
+Local Requirement: Food handlers must complete certification through Alameda County [Contact Environmental Health Department: (510) 567-6858]
+
+Compliance Criteria:
+- Complete food safety certification class (offered in English and Spanish)
+- Certification required for all food handling staff
+- Classes available through Alameda County Environmental Health
+
+SECTION C: COMPLIANCE CHECKLIST
+==============================
+
+TIMELINE: 4-6 months from start to opening
+TOTAL ESTIMATED FEES: Contact agencies for current amounts (fees change regularly)
+
+PHASE 1: FOUNDATIONAL REQUIREMENTS (Months 1-2)
+
+□ Step 1: Establish Business Entity (Processing time: immediate online)
+  Dependencies: None
+  Fee: $70 registration + $820 additional taxes/fees within 4 months
+  Agency: California Secretary of State - (916) 653-6814
+  Source: [https://bizfileonline.sos.ca.gov/; main filing portal]
+
+□ Step 2: Obtain Federal Employer Identification Number (Processing time: immediate online)
+  Dependencies: Complete Step 1
+  Fee: No fee
+  Agency: Internal Revenue Service
+  Source: [https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online; application portal]
+
+□ Step 3: Register for State Taxes (Processing time: 1-2 weeks)
+  Dependencies: Complete Step 2
+  Fee: No registration fee
+  Agency: California Franchise Tax Board - (800) 852-5711
+  Source: [https://www.ftb.ca.gov/file/business/types/llc-partnership/index.html; registration requirements]
+
+□ Step 4: Contact Alameda County Planning Department (Processing time: immediate)
+  Dependencies: None
+  Fee: No fee for consultation
+  Agency: Alameda County Planning Department - (510) 670-5400, Planninginfo@acgov.org
+  Source: [https://www.acgov.org/cda/planning/; contact information]
+
+PHASE 2: PERMITS AND LICENSES (Months 2-4)
+
+□ Step 5: Apply for Conditional Use Permit (Processing time: 2-3 months)
+  Dependencies: Complete Step 4
+  Fee: Contact Planning Department for current CUP fees
+  Agency: Alameda County Planning Department - (510) 670-5400
+  Source: [Alameda County Code § 17.54.070; application procedures]
+
+□ Step 6: Apply for Building Permit (Processing time: 1-2 months)
+  Dependencies: Should coordinate with Step 5, requires CUP approval
+  Fee: Contact Building Department for current fees
+  Agency: Alameda County Building Department (contact through Planning Department)
+  Source: [Alameda County Building Code; change of use requirements]
+
+□ Step 7: Install Fire Safety Systems (Processing time: 2-4 weeks)
+  Dependencies: Required before Certificate of Occupancy
+  Fee: Contact contractors for installation costs
+  Agency: Fire Marshal approval required
+  Source: [Cal. Fire Code § 903.2; sprinkler requirements]
+
+□ Step 8: Obtain Business License (Processing time: 1-2 weeks)
+  Dependencies: Complete Step 1
+  Fee: Contact county or city for current annual fees
+  Agency: Alameda County (unincorporated areas) or appropriate city
+  Source: [Alameda County Business License Ordinance]
+
+□ Step 9: Contact Environmental Health Department (Processing time: immediate)
+  Dependencies: None
+  Fee: No fee for consultation
+  Agency: Alameda County Environmental Health - (510) 567-6858, dehwebbilling@acgov.org
+  Source: [https://www.acgov.org/aceh/index.htm; contact information]
+
+□ Step 10: Apply for Food Facility Permit (Processing time: 2-4 weeks)
+  Dependencies: Complete Step 9
+  Fee: Contact Environmental Health for current permit fees
+  Agency: Alameda County Environmental Health - (510) 567-6858
+  Source: [Cal. Health & Safety Code § 114381; permit requirements]
+
+□ Step 11: Obtain Food Safety Certification (Processing time: 1 day class)
+  Dependencies: Required before food facility permit approval
+  Fee: Contact Environmental Health for class fees
+  Agency: Alameda County Environmental Health - (510) 567-6858
+  Source: [Contact Environmental Health for certification requirements]
+
+PHASE 3: FINAL APPROVALS (Months 4-6)
+
+□ Step 12: Conduct Background Checks for Staff (Processing time: 15 working days)
+  Dependencies: Required before hiring staff with student contact
+  Fee: Varies by fingerprinting provider
+  Agency: California Department of Justice - (916) 227-3849
+  Source: [Cal. Ed. Code § 44237; background check requirements]
+
+□ Step 13: Obtain Workers Compensation Insurance (Processing time: immediate)
+  Dependencies: Required before hiring any employees
+  Fee: Varies by insurance provider
+  Agency: Licensed insurance carrier
+  Source: [Cal. Labor Code § 3700; workers comp requirements]
+
+□ Step 14: Develop Curriculum (Processing time: ongoing)
+  Dependencies: Must be completed before school operation
+  Fee: No mandatory fees
+  Agency: No state approval required
+  Source: [Cal. Ed. Code § 51210; curriculum requirements]
+
+□ Step 15: Schedule Final Inspections (Processing time: 1-2 weeks coordination)
+  Dependencies: Complete construction, fire safety, and food service preparations
+  Fee: May include inspection fees
+  Agency: Building Department, Fire Marshal, Environmental Health
+  Source: [Various code requirements for final approvals]
+
+□ Step 16: File Private School Affidavit (Processing time: immediate online)
+  Dependencies: School must be established and operational
+  Fee: No filing fee
+  Agency: California Department of Education - (916) 319-0800
+  Source: [https://www3.cde.ca.gov/psa; filing portal]
+
+ONGOING REQUIREMENTS:
+
+□ Step 17: Pay Ongoing Annual Fees and Maintain Compliance
+  Dependencies: Ongoing requirement once operational
+  Fees: $800 LLC franchise tax, business license renewal, food permit renewal
+  Agencies: Multiple (see above)
+  Source: [Various statutory requirements listed above]
+
+SECTION D: ENFORCEMENT AGENCIES AND CONTACTS
+===========================================
+
+STATE AGENCIES:
+- California Department of Education: (916) 319-0800, https://www3.cde.ca.gov/psa
+  Responsible for: Private School Affidavit filing
+
+- California Secretary of State: (916) 653-6814, https://bizfileonline.sos.ca.gov/
+  Responsible for: Business entity registration
+
+- California Department of Justice: (916) 227-3849
+  Responsible for: Background checks and fingerprinting
+
+- California Franchise Tax Board: (800) 852-5711, https://www.ftb.ca.gov/
+  Responsible for: Business taxes and registration
+
+LOCAL AGENCIES:
+- Alameda County Planning Department: (510) 670-5400, Planninginfo@acgov.org
+  Responsible for: Conditional use permits, zoning compliance
+
+- Alameda County Environmental Health: (510) 567-6858, dehwebbilling@acgov.org
+  Address: 1131 Harbor Bay Parkway, Suite 111, Alameda, CA 94502
+  Responsible for: Food facility permits, food safety certification
+
+- Alameda County Building Department: (Contact through Planning Department)
+  Responsible for: Building permits, change of use permits
+
+SECTION E: MANDATORY FEES SUMMARY
+=================================
+
+STATE FEES:
+- LLC Formation: $70 [https://www.sos.ca.gov/business-programs/business-entities/fees; LLC fee schedule]
+- LLC Initial Taxes: $820 (within 4 months) [Cal. Rev. & Tax. Code § 17941]
+- Annual Franchise Tax: $800 [Cal. Rev. & Tax. Code § 23153]
+- Background Check Processing: Varies by provider [Contact DOJ for current rates]
+- Workers Compensation Insurance: Varies by carrier [Market rates]
+
+LOCAL FEES:
+- Conditional Use Permit: Contact Planning Department for current fees
+- Building Permit: Contact Building Department for current fees  
+- Business License: Contact county or city for current annual fees
+- Food Facility Permit: Contact Environmental Health for current fees
+- Food Safety Certification: Contact Environmental Health for class fees
+
+TOTAL MANDATORY FEES: Contact individual agencies for current amounts as fees change regularly
+
+SECTION F: SOURCES AND CITATIONS
+================================
+
+Primary Legal Sources:
+1. California Education Code Sections 33190, 44237, 51210, 48222 - https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=EDC
+2. California Revenue and Taxation Code Sections 214, 23153, 17941 - https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=RTC
+3. California Corporations Code Sections 17375, 17701.04 - https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CORP
+4. California Health and Safety Code Sections 114381, 114380, 113947.1 - https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=HSC
+5. California Labor Code Sections 3700, 3351 - https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=LAB
+6. California Building Code 2019 - https://up.codes/viewer/california/ca-building-code-2019
+7. California Fire Code 2019 - https://up.codes/viewer/california/ca-fire-code-2019
+8. Alameda County Code of Ordinances Title 17 - https://library.municode.com/ca/alameda_county/codes/code_of_ordinances?nodeId=TIT17ZO
+9. Federal tax requirements - 26 U.S.C. § 6109, https://www.law.cornell.edu/uscode/text/26/6109
+
+Government Agency Websites Accessed:
+10. California Department of Education Private Schools - https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp
+11. California Secretary of State Business Portal - https://bizfileonline.sos.ca.gov/
+12. IRS EIN Application - https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online
+13. California Franchise Tax Board - https://www.ftb.ca.gov/file/business/types/llc-partnership/index.html
+14. California Private School Affidavit Portal - https://www3.cde.ca.gov/psa
+15. Alameda County Community Development Agency - https://www.acgov.org/cda/planning/
+16. Alameda County Environmental Health - https://www.acgov.org/aceh/index.htm
+17. WASC Accreditation Information - https://www.acswasc.org/about/benefits-of-accreditation/
+18. UC Admission Requirements - https://admission.universityofcalifornia.edu/counselors/files/quick-reference.pdf
+
+All URLs were verified as active on August 30, 2025. Direct agency contact is required for current fee schedules and specific regulatory details, as these change regularly and detailed information is not always available online.

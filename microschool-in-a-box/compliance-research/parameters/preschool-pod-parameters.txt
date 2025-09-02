@@ -1,5 +1,7 @@
 PRESCHOOL POD PARAMETERS
 
+State: [TO BE SPECIFIED]
+County: [TO BE SPECIFIED]
 Number of teachers: 2
 Number of children: 8
 Age of youngest child: 3
