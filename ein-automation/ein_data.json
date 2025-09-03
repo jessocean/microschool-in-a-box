@@ -1,0 +1,56 @@
+{
+  "business_info": {
+    "legal_name": "Interface & Co LLC",
+    "trade_name_dba": "Interface & Co",
+    "mailing_address": {
+      "street": "106 Corbett Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip_code": "94114"
+    },
+    "location_address": {
+      "street": "106 Corbett Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip_code": "94114",
+      "county": "San Francisco"
+    }
+  },
+  "entity_info": {
+    "entity_type": "LLC",
+    "llc_classification": "Single Member",
+    "is_llc_disregarded_entity": false,
+    "number_of_llc_members": "1"
+  },
+  "responsible_party": {
+    "name": "Jessica A W Ocean",
+    "ssn_itin": "214-37-2549",
+    "title": "Member"
+  },
+  "business_details": {
+    "reason_for_applying": "New Business",
+    "date_business_started": "2025-08-27",
+    "closing_month_of_accounting_year": "12",
+    "highest_number_employees_expected": "1",
+    "principal_activity": "Retail Sales",
+    "principal_product_or_service": "Software Development",
+    "has_employees": false,
+    "first_date_wages_paid": "0",
+    "type_of_organization": "LLC"
+  },
+  "tax_elections": {
+    "election_944": false,
+    "election_941": false
+  },
+  "third_party_designee": {
+    "designate_third_party": false,
+    "designee_name": "",
+    "designee_phone": "",
+    "five_digit_pin": ""
+  },
+  "applicant_info": {
+    "name": "Jessica A W Ocean",
+    "phone_number": "510-944-3529",
+    "fax_number": ""
+  }
+}

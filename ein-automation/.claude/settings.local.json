@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(py automation_script.py)",
+      "Bash(py:*)"
+    ],
+    "deny": []
+  }
+}

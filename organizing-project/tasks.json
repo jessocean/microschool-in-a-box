@@ -1,0 +1,155 @@
+[
+  {
+    "id": "1724774400001",
+    "name": "Obtain Federal EIN for Interface & Co",
+    "deadline": "2025-09-15",
+    "penalty": 9,
+    "reward": 8,
+    "difficulty": 9,
+    "notes": "Must use Form SS-4 by fax due to IRS system issues. Sub-tasks: Complete Form SS-4, fax to 855-641-6935, follow up on processing"
+  },
+  {
+    "id": "1724774400002", 
+    "name": "File First Statement of Information with CA Secretary of State for Interface & Co",
+    "deadline": "2025-11-30",
+    "penalty": 10,
+    "reward": 2,
+    "difficulty": 3,
+    "notes": "Due within 90 days of formation. Sub-tasks: Gather member info, file online at bizfileonline.sos.ca.gov, pay $20 fee"
+  },
+  {
+    "id": "1724774400003",
+    "name": "Draft Operating Agreement for Interface & Co", 
+    "deadline": "2026-01-31",
+    "penalty": 7,
+    "reward": 8,
+    "difficulty": 6,
+    "notes": "Sub-tasks: Research templates, customize for your needs, review with attorney if needed, execute and store"
+  },
+  {
+    "id": "1724774400004",
+    "name": "Pay California LLC $800 Franchise Tax for Interface & Co",
+    "deadline": "2026-04-15",
+    "penalty": 10,
+    "reward": 3,
+    "difficulty": 2,
+    "notes": "Annual requirement. Sub-tasks: Complete Form FTB 3522, submit payment online or by mail"
+  },
+  {
+    "id": "1724774400005",
+    "name": "File Form 568 LLC Tax Return for Interface & Co",
+    "deadline": "2026-04-15",
+    "penalty": 8,
+    "reward": 3,
+    "difficulty": 6,
+    "notes": "Due April 15 with automatic extension to Nov 15. Required even for disregarded entities. Sub-tasks: Make disregarded entity election on form, gather financial records, complete return, file electronically"
+  },
+  {
+    "id": "1724774400006",
+    "name": "Pay Additional LLC Fee for Interface & Co (if gross receipts > $250,000)",
+    "deadline": "2026-06-15", 
+    "penalty": 9,
+    "reward": 2,
+    "difficulty": 4,
+    "notes": "Only if applicable. Sub-tasks: Calculate annual gross receipts, determine fee tier, submit payment if required"
+  },
+  {
+    "id": "1724774400007",
+    "name": "Include Interface & Co Income on Joint Tax Return",
+    "deadline": "2026-04-15",
+    "penalty": 8,
+    "reward": 4, 
+    "difficulty": 5,
+    "notes": "Federal requirement. Sub-tasks: Elect disregarded entity treatment, gather business records, complete Schedule C, file with joint 1040"
+  },
+  {
+    "id": "1724774400008",
+    "name": "Obtain Business Insurance for Interface & Co",
+    "deadline": "2025-12-31",
+    "penalty": 8,
+    "reward": 8,
+    "difficulty": 6,
+    "notes": "Before business operations ramp up. Sub-tasks: Research general liability options, get quotes from 3+ insurers, select policy, purchase coverage"
+  },
+  {
+    "id": "1724774400009", 
+    "name": "File Biennial Statement of Information for Interface & Co (every 2 years)",
+    "deadline": "2027-11-30",
+    "penalty": 8,
+    "reward": 2,
+    "difficulty": 3,
+    "notes": "2 years after first filing. Sub-tasks: Update member information, file online, pay $20 fee"
+  },
+  {
+    "id": "1724774400010",
+    "name": "Check ImmiAccount and Review Currently Uploaded Documents for Baby's Citizenship",
+    "deadline": "2025-08-29",
+    "penalty": 10,
+    "reward": 10,
+    "difficulty": 2,
+    "notes": "Application pending since April 30th. Sub-tasks: Login to ImmiAccount, check what's already uploaded, identify gaps from government checklist"
+  },
+  {
+    "id": "1724774400011",
+    "name": "Submit Missing Documents for Baby's Australian Citizenship Application",
+    "deadline": "2025-09-05",
+    "penalty": 10,
+    "reward": 10,
+    "difficulty": 8,
+    "notes": "4+ month delay already! Required docs: Your citizenship evidence, foreign citizenship proof, birth certificate, Form 1195 (all pages), marriage certificate, government ID for both parents, residential addresses"
+  },
+  {
+    "id": "1724774400012",
+    "name": "Apply for Australian ETA for Baby (October Trip)",
+    "deadline": "2025-10-01",
+    "penalty": 10,
+    "reward": 8,
+    "difficulty": 1,
+    "notes": "For October 8th travel. Sub-tasks: Download Australian ETA app, enter US passport details, pay AUD $20, receive instant approval"
+  },
+  {
+    "id": "1724774400013",
+    "name": "Get Australian Passport Photos at Leetone Photo Center",
+    "deadline": "2025-09-10",
+    "penalty": 6,
+    "reward": 4,
+    "difficulty": 2,
+    "notes": "35mm x 45mm format. Location: 480 Davis Court, SF Financial District. Needed for eventual passport application"
+  },
+  {
+    "id": "1724774400014",
+    "name": "Determine NSW Name Change Registration Requirements",
+    "deadline": "2025-09-05",
+    "penalty": 7,
+    "reward": 8,
+    "difficulty": 4,
+    "notes": "Check if marriage certificate suffices or if formal name change required for document consistency"
+  },
+  {
+    "id": "1724774400015",
+    "name": "Register Name Change with NSW BDM (if required)",
+    "deadline": "2025-09-20",
+    "penalty": 6,
+    "reward": 7,
+    "difficulty": 5,
+    "notes": "Only if needed. Online application, $195 AUD fee, 10+ business days processing"
+  },
+  {
+    "id": "1724774400016",
+    "name": "Apply for Australian Passport with Priority Processing",
+    "deadline": "2025-11-15",
+    "penalty": 10,
+    "reward": 10,
+    "difficulty": 6,
+    "notes": "For December 15th travel. Can only apply after citizenship approval. Requires guarantor (Australian citizen who's known baby since birth)"
+  },
+  {
+    "id": "1724774400017",
+    "name": "Arrange Guarantor for Australian Passport Application",
+    "deadline": "2025-10-31",
+    "penalty": 8,
+    "reward": 6,
+    "difficulty": 5,
+    "notes": "Must be Australian citizen who has known baby since birth. Contact Australian friends/family, explain requirements"
+  }
+]

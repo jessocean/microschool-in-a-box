@@ -1,0 +1,48 @@
+2025-08-27 12:00:43,690 - Browser ready
+2025-08-27 12:00:43,691 - Navigating to IRS EIN application...
+2025-08-27 12:00:45,694 - Screenshot: screenshots/landing_page_1756321245.png
+2025-08-27 12:00:48,670 - Started EIN application
+2025-08-27 12:00:53,698 - Screenshot: screenshots/application_started_1756321253.png
+2025-08-27 12:00:53,699 - Processing legal structure page...
+2025-08-27 12:00:55,433 - Selected LLC
+2025-08-27 12:00:56,628 - Filling form fields...
+2025-08-27 12:00:56,745 - Selected state: CA
+2025-08-27 12:00:57,502 - Filled 1 fields
+2025-08-27 12:00:57,891 - Screenshot: screenshots/legal_structure_completed_1756321257.png
+2025-08-27 12:00:57,891 - \nProcessing page 1
+2025-08-27 12:00:57,891 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:00:57,912 - Filling form fields...
+2025-08-27 12:00:58,014 - Selected state: CA
+2025-08-27 12:00:58,999 - Filled 1 fields
+2025-08-27 12:00:59,356 - Screenshot: screenshots/page_1_filled_1756321258.png
+2025-08-27 12:00:59,357 - Looking for Continue button...
+2025-08-27 12:00:59,412 - No continue button found
+2025-08-27 12:00:59,412 - No continue button - waiting...
+2025-08-27 12:01:02,250 - \nProcessing page 2
+2025-08-27 12:01:02,250 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:01:02,267 - Filling form fields...
+2025-08-27 12:01:02,348 - Selected state: CA
+2025-08-27 12:01:02,875 - Filled 1 fields
+2025-08-27 12:01:03,151 - Screenshot: screenshots/page_2_filled_1756321262.png
+2025-08-27 12:01:03,151 - Looking for Continue button...
+2025-08-27 12:01:03,197 - No continue button found
+2025-08-27 12:01:03,197 - No continue button - waiting...
+2025-08-27 12:01:05,245 - \nProcessing page 3
+2025-08-27 12:01:05,246 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:01:05,262 - Filling form fields...
+2025-08-27 12:01:05,339 - Selected state: CA
+2025-08-27 12:01:05,805 - Filled 1 fields
+2025-08-27 12:01:06,100 - Screenshot: screenshots/page_3_filled_1756321265.png
+2025-08-27 12:01:06,100 - Looking for Continue button...
+2025-08-27 12:01:06,145 - No continue button found
+2025-08-27 12:01:06,145 - No continue button - waiting...
+2025-08-27 12:01:08,793 - \nProcessing page 4
+2025-08-27 12:01:08,794 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:01:08,813 - Filling form fields...
+2025-08-27 12:01:08,896 - Selected state: CA
+2025-08-27 12:01:09,494 - Filled 1 fields
+2025-08-27 12:01:09,789 - Screenshot: screenshots/page_4_filled_1756321269.png
+2025-08-27 12:01:09,790 - Looking for Continue button...
+2025-08-27 12:01:09,836 - No continue button found
+2025-08-27 12:01:09,837 - Stuck on same page - breaking
+2025-08-27 12:01:10,135 - Screenshot: screenshots/automation_completed_1756321269.png

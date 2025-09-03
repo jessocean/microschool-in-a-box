@@ -1,0 +1,103 @@
+2025-08-27 12:07:31,045 - Browser configured and ready
+2025-08-27 12:07:31,046 - Navigating to IRS EIN application...
+2025-08-27 12:07:39,405 - Screenshot saved: screenshots/01_landing_page_1756321658.png
+2025-08-27 12:07:42,569 - Started EIN application
+2025-08-27 12:07:47,942 - Screenshot saved: screenshots/02_application_started_1756321667.png
+2025-08-27 12:07:47,943 - Processing legal structure page...
+2025-08-27 12:07:50,164 - Screenshot saved: screenshots/03_legal_structure_page_initial_1756321669.png
+2025-08-27 12:07:50,165 - Debugging all buttons on page...
+2025-08-27 12:07:51,202 - Found clickable elements:
+2025-08-27 12:07:51,202 -   [0] BUTTON: 'Here's how you know' (type=, enabled=True, class='gb__detail-toggle-button...', id='')
+2025-08-27 12:07:51,202 -   [1] A: 'Skip to Main Content' (type=link, enabled=True, class='skip-nav...', id='')
+2025-08-27 12:07:51,202 -   [2] A: '' (type=link, enabled=True, class='...', id='')
+2025-08-27 12:07:51,202 -   [3] A: 'Help' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:51,202 -   [4] A: 'Exit' (type=link, enabled=True, class='link--delineate link--blue lin...', id='')
+2025-08-27 12:07:51,202 -   [6] A: 'Home' (type=link, enabled=True, class='breadcrumbs__element--link lin...', id='')
+2025-08-27 12:07:51,202 -   [7] A: 'File' (type=link, enabled=True, class='breadcrumbs__element--link lin...', id='')
+2025-08-27 12:07:51,202 -   [8] A: 'Get an employer identification number' (type=link, enabled=True, class='breadcrumbs__element--link lin...', id='')
+2025-08-27 12:07:51,202 -   [9] A: 'all types of organizations and structures' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:51,203 -   [10] BUTTON: '' (type=button, enabled=True, class='helptip-button...', id='')
+2025-08-27 12:07:51,203 -   [11] A: 'Back' (type=link, enabled=True, class='irs-button irs-button--active ...', id='anchor-ui-0')
+2025-08-27 12:07:51,203 -   [12] A: 'Continue' (type=link, enabled=True, class='irs-button irs-button--active ...', id='anchor-ui-0')
+2025-08-27 12:07:51,203 -   [13] A: 'Cancel' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:51,203 -   [14] A: 'Privacy Policy' (type=link, enabled=True, class='link link--no-padding...', id='')
+2025-08-27 12:07:51,203 -   [15] A: 'Accessibility' (type=link, enabled=True, class='link link--no-padding...', id='')
+2025-08-27 12:07:51,289 - Selected LLC by clicking label
+2025-08-27 12:07:53,078 - Screenshot saved: screenshots/04_llc_selected_1756321672.png
+2025-08-27 12:07:53,078 - Filling all form fields on current page...
+2025-08-27 12:07:53,185 - Selected state: CA
+2025-08-27 12:07:53,958 - Filled 1 fields on this page
+2025-08-27 12:07:54,257 - Screenshot saved: screenshots/05_all_fields_filled_1756321673.png
+2025-08-27 12:07:54,258 - Checking buttons after filling fields...
+2025-08-27 12:07:54,258 - Debugging all buttons on page...
+2025-08-27 12:07:56,036 - Found clickable elements:
+2025-08-27 12:07:56,036 -   [0] BUTTON: 'Here's how you know' (type=, enabled=True, class='gb__detail-toggle-button...', id='')
+2025-08-27 12:07:56,036 -   [1] A: 'Skip to Main Content' (type=link, enabled=True, class='skip-nav...', id='')
+2025-08-27 12:07:56,036 -   [2] A: '' (type=link, enabled=True, class='...', id='')
+2025-08-27 12:07:56,037 -   [3] A: 'Help' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:56,037 -   [4] A: 'Exit' (type=link, enabled=True, class='link--delineate link--blue lin...', id='')
+2025-08-27 12:07:56,037 -   [6] A: 'Home' (type=link, enabled=True, class='breadcrumbs__element--link lin...', id='')
+2025-08-27 12:07:56,037 -   [7] A: 'File' (type=link, enabled=True, class='breadcrumbs__element--link lin...', id='')
+2025-08-27 12:07:56,037 -   [8] A: 'Get an employer identification number' (type=link, enabled=True, class='breadcrumbs__element--link lin...', id='')
+2025-08-27 12:07:56,037 -   [9] A: 'all types of organizations and structures' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:56,037 -   [10] BUTTON: '' (type=button, enabled=True, class='helptip-button...', id='')
+2025-08-27 12:07:56,038 -   [11] A: 'members' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:56,038 -   [12] A: 'incorporated' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:56,038 -   [13] A: 'articles of incorporation' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:56,038 -   [14] A: 'all types of organizations and structures' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:56,038 -   [15] BUTTON: '' (type=button, enabled=True, class='helptip-button...', id='')
+2025-08-27 12:07:56,038 -   [16] BUTTON: '' (type=button, enabled=True, class='helptip-button...', id='')
+2025-08-27 12:07:56,038 -   [17] A: 'Back' (type=link, enabled=True, class='irs-button irs-button--active ...', id='anchor-ui-0')
+2025-08-27 12:07:56,039 -   [18] A: 'Continue' (type=link, enabled=True, class='irs-button irs-button--active ...', id='anchor-ui-0')
+2025-08-27 12:07:56,039 -   [19] A: 'Cancel' (type=link, enabled=True, class='link link--blue link--no-paddi...', id='')
+2025-08-27 12:07:56,039 -   [20] A: 'Privacy Policy' (type=link, enabled=True, class='link link--no-padding...', id='')
+2025-08-27 12:07:56,039 -   [21] A: 'Accessibility' (type=link, enabled=True, class='link link--no-padding...', id='')
+2025-08-27 12:07:56,039 - \n=============== PROCESSING PAGE 1 ===============
+2025-08-27 12:07:56,039 - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:07:56,039 - Same URL - stuck count: 1
+2025-08-27 12:07:56,072 - Looking for Continue button (should be to the right of Back button)...
+2025-08-27 12:07:56,116 - Trying JavaScript form submission...
+2025-08-27 12:07:56,122 - Could not find Continue button with any strategy
+2025-08-27 12:07:56,123 - Could not find/click Continue button
+2025-08-27 12:07:56,123 - Waiting and will retry...
+2025-08-27 12:07:59,244 - \n=============== PROCESSING PAGE 2 ===============
+2025-08-27 12:07:59,245 - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:07:59,245 - Same URL - stuck count: 2
+2025-08-27 12:07:59,266 - Filling all form fields on current page...
+2025-08-27 12:07:59,351 - Selected state: CA
+2025-08-27 12:08:00,088 - Filled 1 fields on this page
+2025-08-27 12:08:00,420 - Screenshot saved: screenshots/page_02_filled_1756321680.png
+2025-08-27 12:08:00,420 - Filled 1 fields on page 2
+2025-08-27 12:08:00,420 - Looking for Continue button (should be to the right of Back button)...
+2025-08-27 12:08:00,471 - Trying JavaScript form submission...
+2025-08-27 12:08:00,480 - Could not find Continue button with any strategy
+2025-08-27 12:08:00,480 - Could not find/click Continue button
+2025-08-27 12:08:00,480 - Waiting and will retry...
+2025-08-27 12:08:04,089 - \n=============== PROCESSING PAGE 3 ===============
+2025-08-27 12:08:04,089 - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:08:04,089 - Same URL - stuck count: 3
+2025-08-27 12:08:04,115 - Filling all form fields on current page...
+2025-08-27 12:08:04,204 - Selected state: CA
+2025-08-27 12:08:04,755 - Filled 1 fields on this page
+2025-08-27 12:08:05,054 - Screenshot saved: screenshots/page_03_filled_1756321684.png
+2025-08-27 12:08:05,054 - Filled 1 fields on page 3
+2025-08-27 12:08:05,054 - Looking for Continue button (should be to the right of Back button)...
+2025-08-27 12:08:05,091 - Trying JavaScript form submission...
+2025-08-27 12:08:05,097 - Could not find Continue button with any strategy
+2025-08-27 12:08:05,097 - Could not find/click Continue button
+2025-08-27 12:08:05,097 - Waiting and will retry...
+2025-08-27 12:08:09,381 - \n=============== PROCESSING PAGE 4 ===============
+2025-08-27 12:08:09,381 - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:08:09,382 - Same URL - stuck count: 4
+2025-08-27 12:08:09,418 - Filling all form fields on current page...
+2025-08-27 12:08:09,553 - Selected state: CA
+2025-08-27 12:08:10,295 - Filled 1 fields on this page
+2025-08-27 12:08:10,588 - Screenshot saved: screenshots/page_04_filled_1756321690.png
+2025-08-27 12:08:10,589 - Filled 1 fields on page 4
+2025-08-27 12:08:10,589 - Looking for Continue button (should be to the right of Back button)...
+2025-08-27 12:08:10,628 - Trying JavaScript form submission...
+2025-08-27 12:08:10,634 - Could not find Continue button with any strategy
+2025-08-27 12:08:10,634 - Could not find/click Continue button
+2025-08-27 12:08:10,634 - Stuck on same page too long - checking for final page...
+2025-08-27 12:08:13,345 - Breaking due to being stuck
+2025-08-27 12:08:13,655 - Screenshot saved: screenshots/07_automation_final_state_1756321693.png

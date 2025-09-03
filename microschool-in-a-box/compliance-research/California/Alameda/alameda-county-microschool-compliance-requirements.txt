@@ -1,0 +1,446 @@
+MICROSCHOOL COMPLIANCE REQUIREMENTS
+===================================
+Alameda County, California
+
+PARAMETERS USED:
+- State: California
+- County: Alameda County
+- Number of teachers: 1
+- Number of children: 12
+- Age of youngest child: 5
+- Age of oldest child: 14
+- Parents present: No
+- Food served: Yes
+- Building type: Residential dwelling
+
+Date of Research: September 2, 2025
+Researcher: Claude Code Assistant
+
+SECTION A: STATE REQUIREMENTS
+=============================
+
+A.1 SCHOOL LICENSING REQUIREMENTS
+---------------------------------
+
+PRIVATE SCHOOL AFFIDAVIT (PSA) FILING
+Description: Must file annual Private School Affidavit with California Department of Education for all private schools serving students in kindergarten through 12th grade
+Approving Body: California Department of Education (CDE)
+Jurisdiction: California
+Application/approval required: Annual Private School Affidavit filing
+Form Requirements: Online form at https://www3.cde.ca.gov/psa (PDF alternative available upon request)
+Submission Methods:
+  1. Online form submission via https://www3.cde.ca.gov/psa (preferred)
+  2. Paper form via email to privateschools@cde.ca.gov
+  3. Statement in lieu of affidavit via mail
+Application Fees: No fees identified for PSA filing [https://www.cde.ca.gov/sp/ps/affidavit.asp; main page]
+Processing Time: Immediate online confirmation with automated email upon submission [https://www3.cde.ca.gov/psa; filing process description]
+Mandatory Fields: 
+  - School identification information
+  - Student enrollment data
+  - Teacher/staff information
+  - Curriculum information
+  - Confirmation of full-time private school status
+Non-mandatory Fields: Contact information updates (can be updated but not required frequently)
+Prerequisites: Must be operating as full-time private school serving students K-12, meeting exemptions per Education Code Section 48222 [https://www.cde.ca.gov/sp/ps/affidavit.asp; eligibility requirements]
+
+FULL-TIME PRIVATE SCHOOL QUALIFICATION
+Description: Must operate as full-time private school providing instruction in required study branches per Education Code Sections 51210 and 51220
+Approving Body: Self-certification with California Department of Education oversight
+Jurisdiction: California
+Application/approval required: No approval required - enforcement only
+Form Requirements: Documented through PSA filing process
+Submission Methods: Included in PSA submission
+Application Fees: None
+Processing Time: N/A (self-certification)
+Mandatory Fields: Confirmation of full-time instruction, required curriculum coverage
+Prerequisites: Must enroll students K-12 not enrolled full-time elsewhere [https://www3.cde.ca.gov/psa; qualification criteria]
+
+A.2 EMPLOYMENT LAW REQUIREMENTS
+-------------------------------
+
+TEACHER BACKGROUND CHECKS
+Description: All teachers and staff working with children must undergo DOJ and FBI fingerprint-based background checks
+Approving Body: California Department of Justice (DOJ) and Federal Bureau of Investigation (FBI)
+Jurisdiction: California/Federal
+Application/approval required: DOJ and FBI background check clearance
+Form Requirements: Request for Live Scan Service (BCIA 8016) form
+Submission Methods:
+  1. Live Scan fingerprinting at authorized locations (California residents only)
+  2. Hard card fingerprinting (FD-258) for out-of-state applicants via mail
+Application Fees: Government processing fees for DOJ and FBI checks (amounts vary by location) [https://oag.ca.gov/fingerprints; fee information]
+Processing Time: 
+  - Live Scan: 3-7 days once DOJ/FBI receives form
+  - Hard card: 10-12 weeks for out-of-state applicants [https://www.ctc.ca.gov/credentials/faq-fingerprints; processing times]
+Mandatory Fields: Complete background check authorization, personal identification information
+Prerequisites: Must apply to become authorized applicant agency with DOJ before fingerprinting staff [https://oag.ca.gov/fingerprints/agencies; authorization requirements]
+
+TEACHER CERTIFICATION
+Description: No state teaching credential required for private school teachers
+Approving Body: N/A - Private school discretion
+Jurisdiction: California
+Application/approval required: No approval required - enforcement only
+Legal Note: California does not require private school teachers to hold teaching credentials [https://research.com/careers/how-to-become-a-private-school-teacher-in-california; certification requirements]
+
+A.3 BUSINESS REGISTRATION REQUIREMENTS
+-------------------------------------
+
+LLC OR CORPORATION FORMATION
+Description: Must form legal business entity to operate private school
+Approving Body: California Secretary of State
+Jurisdiction: California
+Application/approval required: Business entity formation filing
+Form Requirements: 
+  - LLC: Articles of Organization (Form LLC-1)
+  - Corporation: Articles of Incorporation
+Submission Methods:
+  1. Online filing via bizfileOnline.sos.ca.gov (preferred)
+  2. Mail submission to Secretary of State
+  3. In-person submission at Secretary of State office
+Application Fees: Filing fees vary by entity type (contact Secretary of State for current rates) [https://www.sos.ca.gov/business-programs/business-entities/forms; fee information]
+Processing Time: Varies by submission method and entity type
+Mandatory Fields: Business name, registered agent, business purpose, management structure
+Prerequisites: Name availability check recommended via Name Reservation Request ($10 fee) [https://www.sos.ca.gov/business-programs/business-entities; formation requirements]
+
+ONGOING BUSINESS OBLIGATIONS
+Description: Must file required ongoing reports and maintain business standing
+Approving Body: California Secretary of State
+Jurisdiction: California
+Application/approval required: Ongoing business registration reports
+Form Requirements: 
+  - LLC: Statement of Information (Form LLC-12) - due within 90 days of formation, then biennially
+  - Corporation: Statement of Information - annually
+Application Fees: 
+  - LLC Statement of Information: $20 biennial fee
+  - LLC Annual Tax: $800 annually [https://www.ftb.ca.gov/file/business/types/limited-liability-company/index.html; annual obligations]
+Processing Time: Standard processing varies
+Mandatory Fields: Current business information, registered agent details
+
+A.4 TAX OBLIGATIONS
+------------------
+
+NONPROFIT TAX EXEMPTION
+Description: Private schools may apply for state tax-exempt status (optional for this project)
+Approving Body: California Franchise Tax Board (FTB)
+Jurisdiction: California
+Application/approval required: State tax exemption application
+Form Requirements: 
+  - Form FTB 3500 (full exemption application)
+  - Form FTB 3500A (if federal 501(c)(3) already obtained)
+Submission Methods:
+  1. Online submission (if available)
+  2. Mail to Franchise Tax Board
+Application Fees: Application fees vary by case [https://www.ftb.ca.gov/file/business/types/charities-nonprofits/index.html; fee schedule not published online - contact FTB for current rates]
+Processing Time: Varies by application complexity
+Mandatory Fields: Organization structure, exempt purpose documentation, financial information
+Prerequisites: Federal 501(c)(3) status recommended but not required for state application [https://www.ftb.ca.gov/file/business/types/charities-nonprofits/index.html; exemption process]
+
+PROPERTY TAX WELFARE EXEMPTION
+Description: Nonprofit private schools may qualify for property tax exemption (optional for this project)
+Approving Body: California Board of Equalization and County Assessor
+Jurisdiction: California/Alameda County
+Application/approval required: Organization Clearance Certificate and property tax exemption claim
+Form Requirements: 
+  - Organization Clearance Certificate (OCC) application with BOE
+  - Property tax exemption claim with county assessor
+Submission Methods: Contact BOE and county assessor for submission procedures
+Application Fees: Application fees vary by case [https://www.boe.ca.gov/proptaxes/pdf/pub149.pdf; fee information not specified in source documentation]
+Processing Time: Two-step process with varying timelines
+Prerequisites: 501(c)(3) status, charitable/educational purpose documentation [https://www.boe.ca.gov/proptaxes/pdf/pub149.pdf; welfare exemption requirements]
+
+SALES TAX OBLIGATIONS
+Description: Most private schools subject to sales tax on taxable sales
+Approving Body: California Department of Tax and Fee Administration (CDTFA)
+Jurisdiction: California
+Application/approval required: No approval required - enforcement only
+Legal Note: Generally must follow same sales tax rules as other businesses, with limited nonprofit exemptions [https://www.ftb.ca.gov/file/business/types/charities-nonprofits/annual-and-filing-requirements.html; sales tax note]
+
+A.5 BUILDING AND FIRE SAFETY REQUIREMENTS
+-----------------------------------------
+
+EDUCATIONAL OCCUPANCY CLASSIFICATION
+Description: Buildings with 6+ people for educational purposes 4+ hours/day must comply with Group E occupancy requirements
+Approving Body: Local building department with Division of State Architect (DSA) oversight for certain projects
+Jurisdiction: California/Alameda County
+Application/approval required: No approval required - enforcement only (compliance required)
+Legal Requirement: Group E occupancy applies to educational facilities per California Building Code [https://up.codes/viewer/california/ca-building-code-2022/chapter/3/occupancy-classification-and-use; Group E definition]
+
+CHANGE OF OCCUPANCY PERMIT
+Description: Converting residential dwelling to educational use requires building permit for change of occupancy
+Approving Body: Local building department
+Jurisdiction: Alameda County (with state code requirements)
+Requirements: Must meet Group E occupancy standards, fire safety requirements, ADA compliance
+Prerequisites: Zoning approval for educational use in residential area
+
+DIVISION OF STATE ARCHITECT (DSA) REVIEW
+Description: DSA plan review and approval required for publicly funded K-12 school construction projects; private school requirements determined case-by-case
+Approving Body: California Division of State Architect
+Jurisdiction: California
+Application/approval required: DSA plan review and approval (if required based on project specifics)
+Legal Requirement: DSA reviews K-12 school construction projects for building code compliance [https://www.dgs.ca.gov/DSA/; DSA authority]
+Note: Applies to publicly funded projects; private school requirements may vary
+
+ADA COMPLIANCE
+Description: Must comply with California accessibility requirements (Title 24, CCR)
+Approving Body: Local building department with DSA-Access Compliance oversight
+Jurisdiction: California/Alameda County
+Application/approval required: No approval required - enforcement only (compliance required)
+Legal Requirement: California Building Standards Codes Title 24 for accessibility compliance [https://www.dgs.ca.gov/DSA/Resources/Page-Content/Resources-List-Folder/Access-Compliance-Reference-Materials; Title 24 requirements]
+Prerequisites: Accessibility compliance required for public accommodations and educational facilities
+
+A.6 FOOD SERVICE REQUIREMENTS
+-----------------------------
+
+SCHOOL FOOD FACILITY PERMIT
+Description: Schools serving food must obtain health permit for each feeding site (applies to this project - food is served per parameters)
+Approving Body: Local health department
+Jurisdiction: California requirement enforced locally
+Application/approval required: Health permit for food facility
+Legal Requirement: California Health and Safety Code Sections 113789(b) and 114381(a)(c) require health permits for school food facilities [https://www.cde.ca.gov/ls/nu/ed/foodsafety.asp; permit requirements]
+Form Requirements: Food facility permit application with local health department
+Application Fees: Varies by local health department
+Prerequisites: Valid health permit required before serving food; permits non-transferable
+
+FOOD HANDLER TRAINING EXEMPTION
+Description: Public and private schools exempt from California Food Handler Card requirements (except Riverside, San Bernardino, San Diego counties)
+Legal Note: Schools generally exempt from food handler card requirements [https://premierfoodsafety.com/food-handlers-card/california; school exemptions]
+
+HACCP REQUIREMENTS (if participating in federal programs)
+Description: HACCP-based food safety program required for USDA food programs
+Approving Body: USDA Food and Nutrition Service
+Jurisdiction: Federal
+Legal Requirement: National School Lunch Act requires HACCP principles for federal program participants [https://www.cde.ca.gov/ls/nu/ed/foodsafety.asp; HACCP requirements]
+
+A.7 ACCREDITATION REQUIREMENTS
+------------------------------
+
+NO MANDATORY ACCREDITATION
+Legal Note: California does not require private school accreditation [https://www.cde.ca.gov/sp/ps/psfaq.asp; accreditation question]
+
+OPTIONAL WASC ACCREDITATION
+Description: Western Association of Schools and Colleges accreditation available but not required
+Benefits: UC system highly recommends WASC accreditation for A-G course approval [https://www.acswasc.org/about/acs-wasc-overview/; WASC overview]
+Process: Self-study and peer review process over multiple years
+Fees: Varies by school size and accreditation type
+
+OPTIONAL CAIS MEMBERSHIP
+Description: California Association of Independent Schools membership available
+Requirements: California location, nonprofit status, compliance with 10 fundamental requirements [https://www.caisca.org/accreditation-requirements; CAIS requirements]
+Process: Provisional membership for 2-3 years, then full accreditation with 7-year cycle
+
+SECTION B: COUNTY/LOCAL REQUIREMENTS
+====================================
+
+B.1 ZONING REQUIREMENTS
+----------------------
+
+CONDITIONAL USE PERMIT FOR EDUCATIONAL FACILITY
+Description: Educational facilities in residential zones require Conditional Use Permit (CUP)
+Approving Body: Alameda County Board of Zoning Adjustments
+Jurisdiction: Alameda County
+Application/approval required: Conditional Use Permit application
+Legal Requirement: Alameda County Zoning Ordinance Title 17 [http://alamedacounty-ca.elaws.us/code/coor_title17_ch17.52; general requirements]
+Form Requirements: CUP application (contact Planning Department for current forms)
+Submission Methods:
+  1. In-person submission to Planning Department
+  2. Mail submission (contact for address)
+Application Fees: CUP application fees not published online - contact Alameda County Planning Department (510) 670-5400
+Processing Time: Typically 2-3 months for application review and public hearing process
+Mandatory Fields: Site plan, operational plan, parking plan, neighborhood impact analysis
+Prerequisites: Pre-application meeting with Planning staff recommended
+Public Hearing Required: Yes, before Board of Zoning Adjustments [https://www.acgov.org/cda/planning/ordinance/documents/CUP.pdf; CUP process reference]
+
+R-1 DISTRICT COMPLIANCE
+Description: Must comply with single-family residential district standards while operating educational facility
+Approving Body: Alameda County Planning Department
+Jurisdiction: Alameda County
+Application/approval required: No approval required - enforcement only
+Legal Requirement: Alameda County Zoning Ordinance Title 17, Chapter 17.08
+Requirements: Setback compliance, parking provisions, signage restrictions, hours of operation limits
+Contact: Planning Department (510) 670-5400 for specific R-1 educational facility standards
+
+PARKING REQUIREMENTS
+Description: Must provide adequate parking for educational facility operations
+Approving Body: Alameda County Planning Department
+Jurisdiction: Alameda County
+Application/approval required: No approval required - enforcement only (compliance required)
+Requirements: Specific parking ratios per student/staff (contact Planning Department for current ratios)
+Considerations: Drop-off/pick-up area provisions required when student count exceeds available on-site parking capacity
+
+B.2 BUILDING PERMITS AND CODES
+------------------------------
+
+CHANGE OF OCCUPANCY PERMIT
+Description: Converting residential dwelling to educational use requires building permit
+Approving Body: Alameda County Public Works Agency - Building Department
+Jurisdiction: Alameda County
+Application/approval required: Building permit for change of occupancy
+Legal Requirement: Alameda County Building Code (adopts California Building Code)
+Form Requirements: Building permit application with plans showing educational occupancy compliance
+Submission Methods:
+  1. Online submission via permit.acgov.org (preferred)
+  2. In-person submission at 399 Elmhurst Street, Room 141, Hayward, CA 94544
+Application Fees: Fees based on project valuation and scope [https://www.acpwa.org/permits/building-inspections/index.page; fee schedule not published online - contact Building Department (510) 670-5440]
+Processing Time: Varies by project complexity
+Mandatory Fields: Site plans, occupancy calculations, fire safety plans, ADA compliance documentation
+Prerequisites: Zoning approval for educational use [https://www.acpwa.org/permits/building-inspections/index.page; permit requirements]
+
+FIRE SAFETY COMPLIANCE
+Description: Must meet fire safety requirements for educational occupancy in residential building
+Approving Body: Alameda County Fire Department and Building Department
+Jurisdiction: Alameda County
+Application/approval required: No approval required - enforcement only (compliance required)
+Requirements: Fire evacuation plans, emergency egress compliance, potential sprinkler system requirements
+Contact: Building Department (510) 670-5440 for fire safety compliance requirements
+
+ADA ACCESSIBILITY COMPLIANCE
+Description: Must meet California accessibility standards for educational facilities
+Approving Body: Building Department with DSA-Access Compliance oversight
+Jurisdiction: California/Alameda County
+Application/approval required: No approval required - enforcement only (compliance required)
+Legal Requirement: California Building Standards Code Title 24 accessibility requirements for educational facilities
+Prerequisites: Accessibility compliance required for educational public accommodations
+
+B.3 LOCAL BUSINESS LICENSING
+----------------------------
+
+ALAMEDA COUNTY BUSINESS LICENSE
+Description: Must obtain business license for educational services in unincorporated Alameda County
+Approving Body: Alameda County business license department
+Jurisdiction: Alameda County
+Application/approval required: Business license application
+Form Requirements: Business license application
+Submission Methods:
+  1. Online application via permit.acgov.org/BusinessLicense.aspx
+  2. In-person application
+Application Fees: 
+  - $20 non-refundable application fee (credited toward first year tax)
+  - State fee: $4 per application
+  - Convenience fee: $3.00 for online credit card payments [https://treasurer.acgov.org/business-license-taxes-faqs/; fee structure]
+Processing Time: Standard processing timeframe varies
+Mandatory Fields: Business information, zoning clearance, tax classification
+Prerequisites: Zoning clearance required before business license approval
+Note: If located within incorporated city limits, city business license required instead [https://www.acgov.org/business/buslic.htm; jurisdiction clarification]
+
+HOME OCCUPATION PERMIT
+Description: Operating business from residential property requires home occupation permit (applies to this project - residential building per parameters)
+Approving Body: Alameda County Planning Department
+Jurisdiction: Alameda County
+Application/approval required: Home occupation permit application
+Requirements: Must comply with home occupation zoning restrictions per Alameda County zoning ordinance
+Contact: Alameda County Planning Department (510) 670-5400 for permit requirements
+Note: Specific requirements cannot be fully specified based on online search only [http://alamedacounty-ca.elaws.us/code/coor_title17; general zoning ordinance reference]
+
+B.4 FOOD SERVICE PERMITS
+------------------------
+
+ALAMEDA COUNTY FOOD FACILITY PERMIT
+Description: Must obtain annual food facility permit for serving food to students (applies to this project - food is served per parameters)
+Approving Body: Alameda County Department of Environmental Health
+Jurisdiction: Alameda County
+Application/approval required: Annual food facility permit application
+Legal Requirement: California Health and Safety Code enforced by local health department [https://deh.acgov.org/operations/food-safety.page; permit authority]
+Form Requirements: Food facility permit application with plan review
+Submission Methods:
+  1. Online application via permit.acgov.org/FoodPermit.aspx
+  2. In-person submission at 1131 Harbor Bay Parkway, Suite 111, Alameda, CA 94502
+Application Fees: Varies by facility type [https://deh.acgov.org/billing-fees-permits.page; fee schedule not published online - contact DEH (510) 567-6858]
+Processing Time: Plan review required for new facilities; timeline varies
+Mandatory Fields: Facility plans, menu information, food safety protocols, equipment specifications
+Prerequisites: Plan review approval before permit issuance
+Payment Terms: Payment due within 30 days; 25% penalty after 30 days, additional 25% after 60 days; annual fees non-refundable and non-transferable [https://deh.acgov.org/billing-fees-permits.page; payment terms]
+
+FOOD SAFETY PLAN REVIEW
+Description: New food facilities require plan review before permit approval
+Approving Body: Alameda County Department of Environmental Health
+Jurisdiction: Alameda County
+Application/approval required: Food facility plan review approval
+Requirements: Submit detailed plans showing kitchen layout, equipment, food flow, sanitization procedures
+Contact: (510) 567-6858 for plan review requirements [https://deh.acgov.org/operations/plan-check.page; plan review process]
+
+ANNUAL FOOD FACILITY INSPECTIONS
+Description: Food facilities subject to routine inspections by environmental health
+Approving Body: Alameda County Department of Environmental Health
+Jurisdiction: Alameda County
+Application/approval required: No approval required - enforcement only
+Frequency: Annual inspections to ensure ongoing compliance with California Retail Food Code
+Contact: (510) 567-6858 for inspection scheduling
+
+B.5 FIRE SAFETY REQUIREMENTS
+----------------------------
+
+ALAMEDA COUNTY FIRE DEPARTMENT INSPECTIONS
+Description: Educational facilities subject to fire safety inspections
+Approving Body: Alameda County Fire Department
+Jurisdiction: Alameda County
+Application/approval required: No approval required - enforcement only
+Legal Authority: Alameda County Fire Code (adopts California Fire Code)
+Requirements: Fire prevention inspections to ensure safe business operations [https://fire.acgov.org/; fire department services]
+Contact: Alameda County Fire Department for inspection requirements and scheduling
+
+FIRE PREVENTION PERMITS
+Description: Special fire prevention permits required for specific educational facility modifications
+Approving Body: Alameda County Fire Department
+Jurisdiction: Alameda County
+Application/approval required: Fire prevention permits for applicable modifications (determined during building permit review)
+Requirements: Permits required for occupancy changes involving fire systems, flammable materials storage, or increased occupant loads
+Contact: Fire Department (contact number not published - call main line) for permit requirements specific to educational facilities
+
+B.6 OTHER LOCAL REQUIREMENTS
+----------------------------
+
+1.1 No regulatory constraint found for additional local requirements beyond those specified in sections B.1-B.5
+
+SECTION C: SOURCES AND CITATIONS
+================================
+
+1. California Department of Education - Private School Affidavit Information. https://www.cde.ca.gov/sp/ps/affidavit.asp. Accessed September 2, 2025.
+
+2. California Department of Education - Private School Affidavit Online System. https://www3.cde.ca.gov/psa. Accessed September 2, 2025.
+
+3. California Department of Education - Private School Affidavit FAQ. https://www.cde.ca.gov/sp/ps/psfaq.asp. Accessed September 2, 2025.
+
+4. California Department of Justice - Fingerprint Background Checks. https://oag.ca.gov/fingerprints. Accessed September 2, 2025.
+
+5. California Commission on Teacher Credentialing - Fingerprint FAQ. https://www.ctc.ca.gov/credentials/faq-fingerprints. Accessed September 2, 2025.
+
+6. California Secretary of State - Business Entities Forms and Fees. https://www.sos.ca.gov/business-programs/business-entities/forms. Accessed September 2, 2025.
+
+7. California Franchise Tax Board - Charities and Nonprofits. https://www.ftb.ca.gov/file/business/types/charities-nonprofits/index.html. Accessed September 2, 2025.
+
+8. California Franchise Tax Board - Limited Liability Company Information. https://www.ftb.ca.gov/file/business/types/limited-liability-company/index.html. Accessed September 2, 2025.
+
+9. California Board of Equalization - Property Tax Welfare Exemption Publication 149. https://www.boe.ca.gov/proptaxes/pdf/pub149.pdf. Accessed September 2, 2025.
+
+10. California Building Code 2022 - Occupancy Classification and Use. https://up.codes/viewer/california/ca-building-code-2022/chapter/3/occupancy-classification-and-use. Accessed September 2, 2025.
+
+11. California Division of State Architect. https://www.dgs.ca.gov/DSA/. Accessed September 2, 2025.
+
+12. California Division of State Architect - Access Compliance Reference Materials. https://www.dgs.ca.gov/DSA/Resources/Page-Content/Resources-List-Folder/Access-Compliance-Reference-Materials. Accessed September 2, 2025.
+
+13. California Department of Education - Food Safety Education and Training. https://www.cde.ca.gov/ls/nu/ed/foodsafety.asp. Accessed September 2, 2025.
+
+14. Research.com - How to Become a Private School Teacher in California. https://research.com/careers/how-to-become-a-private-school-teacher-in-california. Accessed September 2, 2025.
+
+15. Premier Food Safety - California Food Handler Card Requirements. https://premierfoodsafety.com/food-handlers-card/california. Accessed September 2, 2025.
+
+16. ACS WASC - About ACS WASC Overview. https://www.acswasc.org/about/acs-wasc-overview/. Accessed September 2, 2025.
+
+17. California Association of Independent Schools - Accreditation Requirements. https://www.caisca.org/accreditation-requirements. Accessed September 2, 2025.
+
+18. Alameda County Code of Ordinances - General Requirements. http://alamedacounty-ca.elaws.us/code/coor_title17_ch17.52. Accessed September 2, 2025.
+
+19. Alameda County Community Development Agency - Conditional Use Permit Document. https://www.acgov.org/cda/planning/ordinance/documents/CUP.pdf. Accessed September 2, 2025.
+
+20. Alameda County Public Works Agency - Building Permits and Inspections. https://www.acpwa.org/permits/building-inspections/index.page. Accessed September 2, 2025.
+
+21. Alameda County - Business Licenses. https://www.acgov.org/business/buslic.htm. Accessed September 2, 2025.
+
+22. Alameda County Treasurer - Business License Taxes FAQ. https://treasurer.acgov.org/business-license-taxes-faqs/. Accessed September 2, 2025.
+
+23. Alameda County Department of Environmental Health - Food Safety. https://deh.acgov.org/operations/food-safety.page. Accessed September 2, 2025.
+
+24. Alameda County Department of Environmental Health - Billing/Fees/Permits. https://deh.acgov.org/billing-fees-permits.page. Accessed September 2, 2025.
+
+25. Alameda County Department of Environmental Health - Plan Check. https://deh.acgov.org/operations/plan-check.page. Accessed September 2, 2025.
+
+26. Alameda County Fire Department. https://fire.acgov.org/. Accessed September 2, 2025.

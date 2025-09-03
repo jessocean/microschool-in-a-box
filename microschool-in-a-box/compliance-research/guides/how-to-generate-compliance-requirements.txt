@@ -1,0 +1,225 @@
+HOW TO GENERATE MICROSCHOOL COMPLIANCE REQUIREMENTS
+==================================================
+
+This guide explains how to create complete compliance documentation for any microschool scenario (parameters + location) in a single comprehensive document.
+
+OVERVIEW
+========
+For each microschool scenario, you will create ONE consolidated document containing:
+1. State-level compliance requirements grouped by category
+2. County/local-level compliance requirements grouped by category
+3. All supporting documentation and citations
+
+CRITICAL REQUIREMENT: SOURCE DOCUMENTATION
+==========================================
+ALL factual claims must be supported with specific sources using this format:
+[URL; specific location on page]
+
+Examples:
+- "California requires private schools to file an affidavit annually" [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp; Section "Annual Affidavit"]
+- "Maximum occupancy is calculated at 50 square feet per child" [https://up.codes/viewer/california/ca-building-code-2019/chapter/10/means-of-egress#1004.5; Table 1004.5]
+- "Alameda County requires a conditional use permit for more than 8 students in residential zones" [https://alamedacounty.gov/sections/zoning/Pages/default.aspx; Article 17-18.050]
+
+Acceptable source types:
+- Government agency websites (.gov domains)
+- Official regulatory codes and statutes
+- County/city official websites
+- Professional licensing board websites
+- Official fee schedules from government agencies
+
+REQUIREMENTS FILE STRUCTURE
+============================
+
+MICROSCHOOL COMPLIANCE REQUIREMENTS
+===================================
+[County Name], [State]
+
+PARAMETERS USED:
+- State: [STATE]
+- County: [COUNTY] 
+- Number of teachers: [NUMBER]
+- Number of children: [NUMBER/RANGE]
+- Age of youngest child: [AGE]
+- Age of oldest child: [AGE]
+- Parents present: [YES/NO]
+- Food served: [YES/NO]
+- Building type: [TYPE]
+
+Date of Research: [DATE]
+Researcher: [NAME]
+
+SECTION A: STATE REQUIREMENTS
+=============================
+
+A.1 SCHOOL LICENSING REQUIREMENTS
+---------------------------------
+For each requirement, include:
+- Description of criteria as pass/fail statement
+- Approving body name
+- Jurisdiction (specific state/county/city name)
+- Application/approval required (specify type or state "No approval required - enforcement only")
+- Determine if requirement applies based on project parameters - do not use "if applicable"
+- Form requirements (URL to form AND PDF in '[project]-forms' subfolder when possible)
+- All submission methods ranked by preference:
+  1. PDF form submitted via email (Email address)
+  2. PDF form submitted online (URL for upload/submission)
+  3. PDF form submitted via fax (Fax number, cover page instructions)
+  4. Fillable online form (URL for submission)
+  5. PDF form submitted via mail (Mailing address)
+  6. Phone call (Phone number with extensions)
+- Application fees with reason and accepted payment methods
+- Published processing time by submission method
+- All mandatory answer fields with submission requirements (word count, file type)
+- Any non-mandatory fields with submission requirements
+- Prerequisites/upstream dependencies with nature of dependency and reference URL
+
+[Continue format for each requirement...]
+
+A.2 EMPLOYMENT LAW REQUIREMENTS  
+-------------------------------
+[Same detailed format as above]
+
+A.3 BUSINESS REGISTRATION REQUIREMENTS
+-------------------------------------
+[Same detailed format as above]
+
+A.4 TAX OBLIGATIONS
+------------------
+[Same detailed format as above]
+
+A.5 BUILDING AND FIRE SAFETY REQUIREMENTS
+-----------------------------------------
+[Same detailed format as above]
+
+A.6 FOOD SERVICE REQUIREMENTS
+-----------------------------
+[Same detailed format as above - determine applicability based on project parameters]
+
+A.7 ACCREDITATION REQUIREMENTS
+------------------------------
+[Same detailed format as above]
+
+SECTION B: COUNTY/LOCAL REQUIREMENTS
+====================================
+
+B.1 ZONING REQUIREMENTS
+----------------------
+[Same detailed format as state requirements]
+
+B.2 BUILDING PERMITS AND CODES
+------------------------------
+[Same detailed format as state requirements]
+
+B.3 LOCAL BUSINESS LICENSING
+----------------------------
+[Same detailed format as state requirements]
+
+B.4 FOOD SERVICE PERMITS
+------------------------
+[Same detailed format as state requirements - determine applicability based on project parameters]
+
+B.5 FIRE SAFETY REQUIREMENTS
+----------------------------
+[Same detailed format as state requirements]
+
+B.6 OTHER LOCAL REQUIREMENTS
+----------------------------
+[Same detailed format as state requirements]
+
+SECTION C: SOURCES AND CITATIONS
+================================
+[List all sources used in research with full URLs and access dates]
+
+1. [Full citation with URL]
+2. [Full citation with URL]
+[Continue...]
+
+FILE STORAGE LOCATIONS
+======================
+
+Parameters Files:
+- compliance-research/parameters/[descriptive-name]-parameters.txt
+
+Consolidated Compliance Requirements:
+- compliance-research/[STATE]/[COUNTY]/[county-name]-microschool-compliance-requirements.txt
+
+Forms Storage:
+- compliance-research/[STATE]/[COUNTY]/[project-name]-forms/[form-name].pdf
+
+Research Guides:
+- compliance-research/guides/
+
+Example Files:
+- examples/ (copies of completed documentation)
+
+QUALITY CHECKLIST
+=================
+
+Before completing, verify your requirements document includes:
+
+CONTENT REQUIREMENTS:
+☐ References specific parameters file used
+☐ Includes date of research and researcher name
+☐ Requirements sorted by enforcing jurisdiction (state vs local) - no duplication
+☐ Jurisdiction specifies exact location (e.g. "California" not "State")
+☐ Each requirement includes specific application/approval type or states "No approval required - enforcement only"
+☐ Each requirement formulated as pass/fail criteria
+☐ Identifies specific approving body for each requirement
+☐ Determines requirement applicability based on project parameters - no "if applicable"
+☐ Includes form URLs and PDFs in subfolder when possible
+☐ Lists all submission methods for applications/approvals
+☐ Documents application fees with reasons and payment methods
+☐ For unpublished fees, includes URL explaining fee determination
+☐ Includes published processing times by submission method
+☐ Lists all mandatory and non-mandatory answer fields
+☐ Identifies prerequisites and upstream dependencies
+
+SOURCE REQUIREMENTS:
+☐ EVERY factual claim has a source in [URL; location] format
+☐ All sources are from official government or regulatory websites
+☐ All URLs have been verified as active and accurate
+☐ Specific page locations are provided (section, paragraph, table)
+☐ Fee amounts cite official fee schedules
+☐ Contact information cites official agency directories
+
+ORGANIZATION REQUIREMENTS:
+☐ Requirements grouped by state/local then by category
+☐ Single consolidated text file per research project
+☐ Forms stored in separate subfolder with clear naming
+☐ All sources listed at bottom of document
+
+EXAMPLE REFERENCE FILES
+======================
+See these completed examples:
+
+Parameters File:
+- compliance-research/parameters/one-room-schoolhouse-parameters.txt
+
+Consolidated Compliance Requirements:
+- examples/alameda-county-microschool-compliance-requirements.txt
+
+Research Guide:
+- compliance-research/guides/microschool-compliance-research-guide.md
+
+Template:
+- compliance-research/parameters/parameters-template.txt
+
+TIPS FOR SUCCESS
+================
+
+1. Always reference the exact parameters file you're using
+2. Focus on pass/fail criteria, not recommendations
+3. Get specific fee amounts from official fee schedules; include URL if fees not published
+4. Include processing times for applications from official sources
+5. Identify all prerequisites and dependencies with reference URLs
+6. Include both form URLs and PDF copies when possible
+7. Rank submission methods by preference (email, online, fax, mail, phone)
+8. Note when submission methods are unavailable
+9. CRITICAL: Source every single factual claim with [URL; specific location]
+10. Do not use "may be required" - find specific conditions or document evidence with sources
+11. Double-check all URLs are active and point to the correct information
+12. Use official government sources (.gov) whenever possible
+13. For fee amounts, always cite the official fee schedule page
+14. Requirements without specific approving bodies need source evidence and URL
+15. Sort by enforcing jurisdiction - do not duplicate state requirements in local section
+16. Delete agency contact sections - contacts now listed with relevant approvals

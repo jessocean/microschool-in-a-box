@@ -1,0 +1,46 @@
+{
+  "name": "out-app",
+  "version": "1.0.0",
+  "description": "OUT - Neighborhood Parenting App",
+  "main": "backend/index.ts",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "tsx watch backend/index.ts",
+    "dev:frontend": "vite frontend",
+    "build": "npm run build:backend && npm run build:frontend",
+    "build:backend": "tsx backend/index.ts",
+    "build:frontend": "vite build frontend",
+    "start": "node dist/backend/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.8.2",
+    "hono": "^3.11.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sqlite3": "^5.1.6",
+    "nodemailer": "^6.9.8",
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "@types/node": "^20.10.5",
+    "@types/nodemailer": "^6.4.14",
+    "typescript": "^5.3.3",
+    "tsx": "^4.6.2",
+    "vite": "^5.0.10",
+    "@vitejs/plugin-react": "^4.2.1",
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [
+    "parenting",
+    "community",
+    "neighborhood",
+    "activities",
+    "react",
+    "hono"
+  ],
+  "author": "Jessica Ocean",
+  "license": "MIT"
+}

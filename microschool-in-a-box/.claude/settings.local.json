@@ -27,7 +27,10 @@
       "Bash(ls:*)",
       "Bash(\"/c/Users/jessi/AppData/Local/Programs/Python/Python313/python.exe\" analyze_cde_data.py)",
       "Bash(\"/c/Users/jessi/AppData/Local/Programs/Python/Python313/python.exe\" -m pip install pandas openpyxl)",
-      "Bash(move customer-intake-quiz.txt website/)"
+      "Bash(move customer-intake-quiz.txt website/)",
+      "WebFetch(domain:www3.cde.ca.gov)",
+      "WebFetch(domain:library.municode.com)",
+      "Bash(find:*)"
     ],
     "deny": []
   }

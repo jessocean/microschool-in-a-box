@@ -1,0 +1,212 @@
+2025-08-27 11:48:59,880 - INFO - Data loaded successfully
+2025-08-27 11:49:03,134 - INFO - Browser setup complete
+2025-08-27 11:49:03,134 - INFO - Navigating to EIN application...
+2025-08-27 11:49:05,360 - INFO - Screenshot saved: screenshots/landing_1_1756320544.png
+2025-08-27 11:49:08,200 - INFO - Clicked 'Begin Application Now'
+2025-08-27 11:49:12,843 - INFO - Screenshot saved: screenshots/after_begin_2_1756320552.png
+2025-08-27 11:49:12,843 - INFO - Processing legal structure page...
+2025-08-27 11:49:13,077 - INFO - Screenshot saved: screenshots/legal_structure_page_3_1756320552.png
+2025-08-27 11:49:13,244 - INFO - Selected LLC entity type
+2025-08-27 11:49:14,072 - INFO - Screenshot saved: screenshots/llc_selected_4_1756320553.png
+2025-08-27 11:49:14,254 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:49:17,744 - INFO - \n=== Processing Form Page 1 ===
+2025-08-27 11:49:17,744 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:49:17,775 - INFO - Filling form fields on current page...
+2025-08-27 11:49:17,942 - INFO - Selected state: CA
+2025-08-27 11:49:18,682 - INFO - Filled 1 fields on this page
+2025-08-27 11:49:19,127 - INFO - Screenshot saved: screenshots/page_1_filled_5_1756320558.png
+2025-08-27 11:49:19,127 - INFO - Filled 1 fields on page 1
+2025-08-27 11:49:19,281 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:49:24,757 - INFO - \n=== Processing Form Page 2 ===
+2025-08-27 11:49:24,757 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:49:24,788 - INFO - Filling form fields on current page...
+2025-08-27 11:49:24,928 - INFO - Selected state: CA
+2025-08-27 11:49:25,989 - INFO - Filled 1 fields on this page
+2025-08-27 11:49:26,340 - INFO - Screenshot saved: screenshots/page_2_filled_6_1756320566.png
+2025-08-27 11:49:26,340 - INFO - Filled 1 fields on page 2
+2025-08-27 11:49:26,494 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:49:31,526 - INFO - \n=== Processing Form Page 3 ===
+2025-08-27 11:49:31,526 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:49:31,557 - INFO - Filling form fields on current page...
+2025-08-27 11:49:31,681 - INFO - Selected state: CA
+2025-08-27 11:49:32,686 - INFO - Filled 1 fields on this page
+2025-08-27 11:49:33,043 - INFO - Screenshot saved: screenshots/page_3_filled_7_1756320572.png
+2025-08-27 11:49:33,043 - INFO - Filled 1 fields on page 3
+2025-08-27 11:49:33,196 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:49:37,860 - INFO - \n=== Processing Form Page 4 ===
+2025-08-27 11:49:37,861 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:49:37,893 - INFO - Filling form fields on current page...
+2025-08-27 11:49:38,046 - INFO - Selected state: CA
+2025-08-27 11:49:38,688 - INFO - Filled 1 fields on this page
+2025-08-27 11:49:39,084 - INFO - Screenshot saved: screenshots/page_4_filled_8_1756320578.png
+2025-08-27 11:49:39,085 - INFO - Filled 1 fields on page 4
+2025-08-27 11:49:39,261 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:49:43,545 - INFO - \n=== Processing Form Page 5 ===
+2025-08-27 11:49:43,545 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:49:43,621 - INFO - Filling form fields on current page...
+2025-08-27 11:49:44,003 - INFO - Selected state: CA
+2025-08-27 11:49:44,867 - INFO - Filled 1 fields on this page
+2025-08-27 11:49:45,338 - INFO - Screenshot saved: screenshots/page_5_filled_9_1756320584.png
+2025-08-27 11:49:45,339 - INFO - Filled 1 fields on page 5
+2025-08-27 11:49:45,515 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:49:49,643 - INFO - \n=== Processing Form Page 6 ===
+2025-08-27 11:49:49,644 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:49:49,694 - INFO - Filling form fields on current page...
+2025-08-27 11:49:49,875 - INFO - Selected state: CA
+2025-08-27 11:49:50,633 - INFO - Filled 1 fields on this page
+2025-08-27 11:49:51,095 - INFO - Screenshot saved: screenshots/page_6_filled_10_1756320590.png
+2025-08-27 11:49:51,096 - INFO - Filled 1 fields on page 6
+2025-08-27 11:49:51,286 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:49:57,201 - INFO - \n=== Processing Form Page 7 ===
+2025-08-27 11:49:57,201 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:49:57,227 - INFO - Filling form fields on current page...
+2025-08-27 11:49:57,367 - INFO - Selected state: CA
+2025-08-27 11:49:58,284 - INFO - Filled 1 fields on this page
+2025-08-27 11:49:58,677 - INFO - Screenshot saved: screenshots/page_7_filled_11_1756320598.png
+2025-08-27 11:49:58,677 - INFO - Filled 1 fields on page 7
+2025-08-27 11:49:58,847 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:04,477 - INFO - \n=== Processing Form Page 8 ===
+2025-08-27 11:50:04,478 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:04,500 - INFO - Filling form fields on current page...
+2025-08-27 11:50:04,601 - INFO - Selected state: CA
+2025-08-27 11:50:05,582 - INFO - Filled 1 fields on this page
+2025-08-27 11:50:05,978 - INFO - Screenshot saved: screenshots/page_8_filled_12_1756320605.png
+2025-08-27 11:50:05,978 - INFO - Filled 1 fields on page 8
+2025-08-27 11:50:06,105 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:10,468 - INFO - \n=== Processing Form Page 9 ===
+2025-08-27 11:50:10,469 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:10,490 - INFO - Filling form fields on current page...
+2025-08-27 11:50:10,591 - INFO - Selected state: CA
+2025-08-27 11:50:11,322 - INFO - Filled 1 fields on this page
+2025-08-27 11:50:11,622 - INFO - Screenshot saved: screenshots/page_9_filled_13_1756320611.png
+2025-08-27 11:50:11,622 - INFO - Filled 1 fields on page 9
+2025-08-27 11:50:11,735 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:16,569 - INFO - \n=== Processing Form Page 10 ===
+2025-08-27 11:50:16,569 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:16,589 - INFO - Filling form fields on current page...
+2025-08-27 11:50:16,688 - INFO - Selected state: CA
+2025-08-27 11:50:17,213 - INFO - Filled 1 fields on this page
+2025-08-27 11:50:17,522 - INFO - Screenshot saved: screenshots/page_10_filled_14_1756320617.png
+2025-08-27 11:50:17,522 - INFO - Filled 1 fields on page 10
+2025-08-27 11:50:17,653 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:22,797 - INFO - \n=== Processing Form Page 11 ===
+2025-08-27 11:50:22,797 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:22,819 - INFO - Filling form fields on current page...
+2025-08-27 11:50:22,924 - INFO - Selected state: CA
+2025-08-27 11:50:23,891 - INFO - Filled 1 fields on this page
+2025-08-27 11:50:24,187 - INFO - Screenshot saved: screenshots/page_11_filled_15_1756320623.png
+2025-08-27 11:50:24,187 - INFO - Filled 1 fields on page 11
+2025-08-27 11:50:24,298 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:29,783 - INFO - \n=== Processing Form Page 12 ===
+2025-08-27 11:50:29,783 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:29,811 - INFO - Filling form fields on current page...
+2025-08-27 11:50:29,915 - INFO - Selected state: CA
+2025-08-27 11:50:30,576 - INFO - Filled 1 fields on this page
+2025-08-27 11:50:30,908 - INFO - Screenshot saved: screenshots/page_12_filled_16_1756320630.png
+2025-08-27 11:50:30,908 - INFO - Filled 1 fields on page 12
+2025-08-27 11:50:31,059 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:35,100 - INFO - \n=== Processing Form Page 13 ===
+2025-08-27 11:50:35,100 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:35,123 - INFO - Filling form fields on current page...
+2025-08-27 11:50:35,236 - INFO - Selected state: CA
+2025-08-27 11:50:36,107 - INFO - Filled 1 fields on this page
+2025-08-27 11:50:36,400 - INFO - Screenshot saved: screenshots/page_13_filled_17_1756320636.png
+2025-08-27 11:50:36,400 - INFO - Filled 1 fields on page 13
+2025-08-27 11:50:36,532 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:41,303 - INFO - \n=== Processing Form Page 14 ===
+2025-08-27 11:50:41,303 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:41,324 - INFO - Filling form fields on current page...
+2025-08-27 11:50:41,429 - INFO - Selected state: CA
+2025-08-27 11:50:42,504 - INFO - Filled 1 fields on this page
+2025-08-27 11:50:42,894 - INFO - Screenshot saved: screenshots/page_14_filled_18_1756320642.png
+2025-08-27 11:50:42,894 - INFO - Filled 1 fields on page 14
+2025-08-27 11:50:43,070 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:48,709 - INFO - \n=== Processing Form Page 15 ===
+2025-08-27 11:50:48,709 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:48,755 - INFO - Filling form fields on current page...
+2025-08-27 11:50:48,871 - INFO - Selected state: CA
+2025-08-27 11:50:49,637 - INFO - Filled 1 fields on this page
+2025-08-27 11:50:49,938 - INFO - Screenshot saved: screenshots/page_15_filled_19_1756320649.png
+2025-08-27 11:50:49,938 - INFO - Filled 1 fields on page 15
+2025-08-27 11:50:50,056 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:54,263 - INFO - \n=== Processing Form Page 16 ===
+2025-08-27 11:50:54,263 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:54,294 - INFO - Filling form fields on current page...
+2025-08-27 11:50:54,406 - INFO - Selected state: CA
+2025-08-27 11:50:55,283 - INFO - Filled 1 fields on this page
+2025-08-27 11:50:55,570 - INFO - Screenshot saved: screenshots/page_16_filled_20_1756320655.png
+2025-08-27 11:50:55,570 - INFO - Filled 1 fields on page 16
+2025-08-27 11:50:55,681 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:50:59,968 - INFO - \n=== Processing Form Page 17 ===
+2025-08-27 11:50:59,968 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:50:59,990 - INFO - Filling form fields on current page...
+2025-08-27 11:51:00,089 - INFO - Selected state: CA
+2025-08-27 11:51:01,026 - INFO - Filled 1 fields on this page
+2025-08-27 11:51:01,318 - INFO - Screenshot saved: screenshots/page_17_filled_21_1756320661.png
+2025-08-27 11:51:01,318 - INFO - Filled 1 fields on page 17
+2025-08-27 11:51:01,431 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:51:05,962 - INFO - \n=== Processing Form Page 18 ===
+2025-08-27 11:51:05,962 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:51:05,984 - INFO - Filling form fields on current page...
+2025-08-27 11:51:06,084 - INFO - Selected state: CA
+2025-08-27 11:51:07,024 - INFO - Filled 1 fields on this page
+2025-08-27 11:51:07,360 - INFO - Screenshot saved: screenshots/page_18_filled_22_1756320667.png
+2025-08-27 11:51:07,361 - INFO - Filled 1 fields on page 18
+2025-08-27 11:51:07,494 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:51:11,584 - INFO - \n=== Processing Form Page 19 ===
+2025-08-27 11:51:11,584 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:51:11,603 - INFO - Filling form fields on current page...
+2025-08-27 11:51:11,705 - INFO - Selected state: CA
+2025-08-27 11:51:12,299 - INFO - Filled 1 fields on this page
+2025-08-27 11:51:12,605 - INFO - Screenshot saved: screenshots/page_19_filled_23_1756320672.png
+2025-08-27 11:51:12,605 - INFO - Filled 1 fields on page 19
+2025-08-27 11:51:12,713 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:51:17,249 - INFO - \n=== Processing Form Page 20 ===
+2025-08-27 11:51:17,249 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:51:17,270 - INFO - Filling form fields on current page...
+2025-08-27 11:51:17,363 - INFO - Selected state: CA
+2025-08-27 11:51:18,357 - INFO - Filled 1 fields on this page
+2025-08-27 11:51:18,672 - INFO - Screenshot saved: screenshots/page_20_filled_24_1756320678.png
+2025-08-27 11:51:18,672 - INFO - Filled 1 fields on page 20
+2025-08-27 11:51:18,803 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:51:23,988 - INFO - \n=== Processing Form Page 21 ===
+2025-08-27 11:51:23,988 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:51:24,030 - INFO - Filling form fields on current page...
+2025-08-27 11:51:24,248 - INFO - Selected state: CA
+2025-08-27 11:51:25,145 - INFO - Filled 1 fields on this page
+2025-08-27 11:51:25,535 - INFO - Screenshot saved: screenshots/page_21_filled_25_1756320685.png
+2025-08-27 11:51:25,535 - INFO - Filled 1 fields on page 21
+2025-08-27 11:51:25,670 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:51:30,453 - INFO - \n=== Processing Form Page 22 ===
+2025-08-27 11:51:30,454 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:51:30,476 - INFO - Filling form fields on current page...
+2025-08-27 11:51:30,588 - INFO - Selected state: CA
+2025-08-27 11:51:31,356 - INFO - Filled 1 fields on this page
+2025-08-27 11:51:31,661 - INFO - Screenshot saved: screenshots/page_22_filled_26_1756320691.png
+2025-08-27 11:51:31,661 - INFO - Filled 1 fields on page 22
+2025-08-27 11:51:31,974 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:51:36,087 - INFO - \n=== Processing Form Page 23 ===
+2025-08-27 11:51:36,087 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:51:36,109 - INFO - Filling form fields on current page...
+2025-08-27 11:51:36,228 - INFO - Selected state: CA
+2025-08-27 11:51:37,145 - INFO - Filled 1 fields on this page
+2025-08-27 11:51:37,443 - INFO - Screenshot saved: screenshots/page_23_filled_27_1756320697.png
+2025-08-27 11:51:37,443 - INFO - Filled 1 fields on page 23
+2025-08-27 11:51:37,562 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:51:43,174 - INFO - \n=== Processing Form Page 24 ===
+2025-08-27 11:51:43,174 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:51:43,194 - INFO - Filling form fields on current page...
+2025-08-27 11:51:43,293 - INFO - Selected state: CA
+2025-08-27 11:51:43,870 - INFO - Filled 1 fields on this page
+2025-08-27 11:51:44,158 - INFO - Screenshot saved: screenshots/page_24_filled_28_1756320703.png
+2025-08-27 11:51:44,158 - INFO - Filled 1 fields on page 24
+2025-08-27 11:51:44,267 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:51:49,761 - INFO - \n=== Processing Form Page 25 ===
+2025-08-27 11:51:49,761 - INFO - Current URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 11:51:49,785 - INFO - Filling form fields on current page...
+2025-08-27 11:51:49,880 - INFO - Selected state: CA
+2025-08-27 11:51:50,399 - INFO - Filled 1 fields on this page
+2025-08-27 11:51:50,698 - INFO - Screenshot saved: screenshots/page_25_filled_29_1756320710.png
+2025-08-27 11:51:50,698 - INFO - Filled 1 fields on page 25
+2025-08-27 11:51:50,812 - INFO - Clicked continue button: 'Here's how you know' (button[class*="button"])
+2025-08-27 11:51:56,168 - INFO - Screenshot saved: screenshots/automation_completed_30_1756320715.png

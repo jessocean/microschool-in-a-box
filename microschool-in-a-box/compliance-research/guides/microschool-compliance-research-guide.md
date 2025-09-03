@@ -11,70 +11,70 @@
 - Whether parents are present
 
 ## Research Categories & Compliance Requirements
-*Note: Document exact regulatory requirements, not general questions*
+*Note: Document exact regulatory requirements, not general questions. For any research question where no regulatory constraint exists, note "No regulatory constraint found" alongside the question number.*
 
 ### 1. ZONING REQUIREMENTS
 Research must identify:
-- Exact zoning classifications that permit educational use for [X] students
-- Specific permit requirements (conditional use, special use, etc.) with application criteria
-- Precise restrictions on residential property educational use
-- Maximum student limits by zoning district
-- Parking space requirements (exact number per student/staff)
-- Signage restrictions (size, placement, content limitations)
-- Activity restrictions (outdoor use, hours of operation)
+1.1 Exact zoning classifications that permit educational use for [X] students
+1.2 Specific permit requirements (conditional use, special use, etc.) with application criteria
+1.3 Precise restrictions on residential property educational use
+1.4 Maximum student limits by zoning district
+1.5 Parking space requirements (exact number per student/staff)
+1.6 Signage restrictions (size, placement, content limitations)
+1.7 Activity restrictions (outdoor use, hours of operation)
 
 ### 2. BUILDING PERMITS & CODES
 Research must identify:
-- Change of use permit requirements and approval criteria
-- Building code occupancy classification for [X] students
-- Maximum occupancy load calculations for [X] students ages [Y-Z]
-- Fire safety system requirements (sprinkler systems, alarm systems, exit requirements)
-- ADA accessibility compliance specifications
-- Playground/outdoor space minimum requirements for ages [Y-Z]
-- Commercial kitchen code requirements if food is served
+2.1 Change of use permit requirements and approval criteria
+2.2 Building code occupancy classification for [X] students
+2.3 Maximum occupancy load calculations for [X] students ages [Y-Z]
+2.4 Fire safety system requirements (sprinkler systems, alarm systems, exit requirements)
+2.5 ADA accessibility compliance specifications
+2.6 Playground/outdoor space minimum requirements for ages [Y-Z]
+2.7 Commercial kitchen code requirements if food is served
 
 ### 3. BUSINESS REGISTRATION
 Research must identify:
-- Required business entity types and formation requirements
-- Mandatory state business licenses and fees
-- Required local business permits and fees
-- Tax registration requirements (sales tax, employer ID)
-- Professional licensing requirements
+3.1 Required business entity types and formation requirements
+3.2 Mandatory state business licenses and fees
+3.3 Required local business permits and fees
+3.4 Tax registration requirements (sales tax, employer ID)
+3.5 Professional licensing requirements
 
 ### 4. TAX OBLIGATIONS
 Research must identify:
-- Property tax rates and exemption criteria
-- Sales tax obligations on tuition and materials
-- Payroll tax requirements and rates
-- Income tax obligations (corporate/LLC rates)
-- 501(c)(3) eligibility requirements and application criteria
+4.1 Property tax rates and exemption criteria
+4.2 Sales tax obligations on tuition and materials
+4.3 Payroll tax requirements and rates
+4.4 Income tax obligations (corporate/LLC rates)
+4.5 501(c)(3) eligibility requirements and application criteria
 
 ### 5. EMPLOYMENT LAW
 Research must identify:
-- Teacher certification/licensing requirements for [X] teachers, ages [Y-Z]
-- Background check requirements (specific agencies, fingerprinting)
-- Minimum education/training requirements for staff
-- Mandatory training requirements (child abuse reporting, etc.)
-- Workers compensation insurance requirements and rates
-- Wage and hour compliance requirements
+5.1 Teacher certification/licensing requirements for [X] teachers, ages [Y-Z]
+5.2 Background check requirements (specific agencies, fingerprinting)
+5.3 Minimum education/training requirements for staff
+5.4 Mandatory training requirements (child abuse reporting, etc.)
+5.5 Workers compensation insurance requirements and rates
+5.6 Wage and hour compliance requirements
 
 ### 6. SCHOOL LICENSING
 Research must identify:
-- Private school registration requirements for [X] students
-- Department of Education approval processes and criteria
-- Mandatory reporting requirements (frequency, content)
-- Curriculum standards requirements
-- Student records requirements (content, retention periods)
-- Attendance reporting requirements
-- Health and safety inspection requirements
+6.1 Private school registration requirements for [X] students
+6.2 Department of Education approval processes and criteria
+6.3 Mandatory reporting requirements (frequency, content)
+6.4 Curriculum standards requirements
+6.5 Student records requirements (content, retention periods)
+6.6 Attendance reporting requirements
+6.7 Health and safety inspection requirements
 
 ### 7. ACCREDITATION
 Research must identify:
-- Legal accreditation requirements (if any)
-- Recognized accrediting bodies and their criteria
-- Mandatory fees for accreditation processes
-- Annual maintenance requirements
-- Legal consequences of non-accreditation
+7.1 Legal accreditation requirements (if any)
+7.2 Recognized accrediting bodies and their criteria
+7.3 Mandatory fees for accreditation processes
+7.4 Annual maintenance requirements
+7.5 Legal consequences of non-accreditation
 
 ## Research Sources to Check
 - State Department of Education websites
@@ -87,27 +87,20 @@ Research must identify:
 
 ## File Organization & Documentation Format
 
-### State-Level Findings
-Create file "state-regulations.txt" within the state folder containing:
-- Exact state-level compliance requirements by category
-- Mandatory fees (with specific amounts)
-- Legal definitions and thresholds
-- Enforcement agencies and contact information
-- Statutory citations and regulatory references
-
-### County/Local-Level Findings  
-Create single text file in each relevant county folder containing:
-- Exact local zoning requirements and restrictions
-- Specific building code requirements and specifications  
-- Required local business permits and mandatory fees
-- Local regulatory contact information
-- Municipal code citations and ordinance references
+### Single Consolidated File per Research Project
+Create one comprehensive text file per research project containing both state and local requirements:
+- File name: [county-name]-microschool-compliance-requirements.txt
+- Location: compliance-research/[STATE]/[COUNTY]/
+- Content: Complete requirements documentation for both state and local levels
 
 ### Documentation Requirements
 Each compliance file must include:
 - Parameters used (exact reference to parameters file)
 - Date of research
+- State requirements grouped by category (zoning, building permits, fire safety, etc.)
+- Local requirements grouped by category (zoning, building permits, fire safety, etc.)
 - Specific regulatory sources consulted (with citations)
 - Precise compliance requirements (not recommendations)
 - Mandatory fees (exclude estimated costs)
 - Exact legal standards and criteria
+- All sources listed at bottom of document

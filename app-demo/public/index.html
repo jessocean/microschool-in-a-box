@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deno Chat</title>
+    <script src="https://cdn.socket.io/4.3.2/socket.io.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        #messages {
+            height: 400px;
+            border: 1px solid #ccc;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            padding: 10px;
+        }
+        .message {
+            margin-bottom: 10px;
+        }
+        .username {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .timestamp {
+            color: #7f8c8d;
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Deno Chat</h1>
+    <div id="messages"></div>
+    <input type="text" id="username" placeholder="Your username" />
+    <input type="text" id="message" placeholder="Type a message..." />
+    <button onclick="sendMessage()">Send</button>
+
+    <script>
+        const socket = io()
+        const messagesDiv = document.getElementById('messages')
+        const usernameInput = document.getElementById('username')
+        const messageInput = document.getElementById('message')
+
+        socket.on('previous-messages', (messages) => {
+            messages.forEach(addMessage)
+        })
+
+        socket.on('new-message', addMessage)
+
+        function addMessage(message) {
+            const messageElement = document.createElement('div')
+            messageElement.className = 'message'
+            messageElement.innerHTML = `
+                <span class="username">${message.username}:</span>
+                <span class="message-text">${message.message}</span>
+                <span class="timestamp">${new Date(message.timestamp).toLocaleTimeString()}</span>
+            `
+            messagesDiv.appendChild(messageElement)
+            messagesDiv.scrollTop = messagesDiv.scrollHeight
+        }
+
+        function sendMessage() {
+            const username = usernameInput.value.trim()
+            const message = messageInput.value.trim()
+            
+            if (!username || !message) {
+                alert('Please enter both username and message')
+                return
+            }
+
+            socket.emit('chat-message', {
+                username,
+                message,
+                timestamp: Date.now()
+            })
+
+            messageInput.value = ''
+        }
+
+        messageInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                sendMessage()
+            }
+        })
+    </script>
+</body>
+</html> 

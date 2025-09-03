@@ -1,0 +1,28 @@
+MICROSCHOOL CUSTOMER INTAKE QUIZ
+
+1. What state will your microschool be located in?
+   Format: [State name]
+
+2. What county will your microschool be located in?
+   Format: [County name]
+
+3. How many teachers/instructors do you plan to have?
+   Format: [Whole number]
+
+4. How many children do you plan to serve?
+   Format: [Whole number or range like "8-12"]
+
+5. What is the age of the youngest child you plan to serve?
+   Format: [Age in years]
+
+6. What is the age of the oldest child you plan to serve?
+   Format: [Age in years]
+
+7. Will parents be present during instruction time?
+   Format: [Yes/No/Some of the time]
+
+8. Do you plan to serve food/meals to the children?
+   Format: [Yes/No]
+
+9. What type of building will house your microschool?
+   Format: [Residential dwelling/Commercial building/Other - please specify]

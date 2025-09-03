@@ -1,0 +1,561 @@
+2025-08-27 11:59:02,747 - Main execution error: 'NoneType' object has no attribute 'screenshot'
+2025-08-27 12:10:09,580 - Browser ready
+2025-08-27 12:10:09,581 - Navigating to IRS EIN application...
+2025-08-27 12:10:11,883 - Screenshot: screenshots/01_landing_1756321811.png
+2025-08-27 12:10:14,237 - Started application
+2025-08-27 12:10:20,117 - Screenshot: screenshots/02_started_1756321819.png
+2025-08-27 12:10:20,117 - Processing legal structure page...
+2025-08-27 12:10:22,354 - Screenshot: screenshots/03_legal_structure_page_1756321822.png
+2025-08-27 12:10:22,472 - Selected LLC
+2025-08-27 12:10:24,201 - Screenshot: screenshots/04_llc_selected_1756321823.png
+2025-08-27 12:10:24,201 - Filling form fields...
+2025-08-27 12:10:24,338 - Selected state: CA
+2025-08-27 12:10:25,173 - Filled 1 fields
+2025-08-27 12:10:25,477 - Screenshot: screenshots/05_fields_filled_1756321825.png
+2025-08-27 12:10:25,477 - \n=== Processing page 1 ===
+2025-08-27 12:10:25,477 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:10:25,497 - Looking for Continue link...
+2025-08-27 12:10:25,524 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:10:25,627 - Clicked Continue link!
+2025-08-27 12:10:31,484 - Successfully clicked Continue - advancing
+2025-08-27 12:10:34,747 - URL didn't change - may still be processing
+2025-08-27 12:10:34,747 - \n=== Processing page 2 ===
+2025-08-27 12:10:34,747 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:10:34,765 - Filling form fields...
+2025-08-27 12:10:34,851 - Selected state: CA
+2025-08-27 12:10:35,519 - Filled 1 fields
+2025-08-27 12:10:35,839 - Screenshot: screenshots/page_02_filled_1756321835.png
+2025-08-27 12:10:35,839 - Looking for Continue link...
+2025-08-27 12:10:35,864 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:10:35,952 - Clicked Continue link!
+2025-08-27 12:10:41,370 - Successfully clicked Continue - advancing
+2025-08-27 12:10:43,849 - URL didn't change - may still be processing
+2025-08-27 12:10:43,849 - \n=== Processing page 3 ===
+2025-08-27 12:10:43,849 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:10:43,867 - Filling form fields...
+2025-08-27 12:10:43,944 - Selected state: CA
+2025-08-27 12:10:44,572 - Filled 1 fields
+2025-08-27 12:10:44,887 - Screenshot: screenshots/page_03_filled_1756321844.png
+2025-08-27 12:10:44,888 - Looking for Continue link...
+2025-08-27 12:10:44,912 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:10:45,001 - Clicked Continue link!
+2025-08-27 12:10:50,373 - Successfully clicked Continue - advancing
+2025-08-27 12:10:53,436 - URL didn't change - may still be processing
+2025-08-27 12:10:53,436 - \n=== Processing page 4 ===
+2025-08-27 12:10:53,436 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:10:53,454 - Filling form fields...
+2025-08-27 12:10:53,535 - Selected state: CA
+2025-08-27 12:10:54,109 - Filled 1 fields
+2025-08-27 12:10:54,450 - Screenshot: screenshots/page_04_filled_1756321854.png
+2025-08-27 12:10:54,450 - Looking for Continue link...
+2025-08-27 12:10:54,477 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:10:54,588 - Clicked Continue link!
+2025-08-27 12:10:59,621 - Successfully clicked Continue - advancing
+2025-08-27 12:11:02,473 - URL didn't change - may still be processing
+2025-08-27 12:11:02,474 - \n=== Processing page 5 ===
+2025-08-27 12:11:02,475 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:11:02,512 - Filling form fields...
+2025-08-27 12:11:02,639 - Selected state: CA
+2025-08-27 12:11:03,499 - Filled 1 fields
+2025-08-27 12:11:03,885 - Screenshot: screenshots/page_05_filled_1756321863.png
+2025-08-27 12:11:03,885 - Looking for Continue link...
+2025-08-27 12:11:03,915 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:11:04,028 - Clicked Continue link!
+2025-08-27 12:11:08,697 - Successfully clicked Continue - advancing
+2025-08-27 12:11:10,735 - URL didn't change - may still be processing
+2025-08-27 12:11:10,735 - \n=== Processing page 6 ===
+2025-08-27 12:11:10,735 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:11:10,753 - Filling form fields...
+2025-08-27 12:11:11,014 - Selected state: CA
+2025-08-27 12:11:11,770 - Filled 1 fields
+2025-08-27 12:11:12,071 - Screenshot: screenshots/page_06_filled_1756321871.png
+2025-08-27 12:11:12,071 - Looking for Continue link...
+2025-08-27 12:11:12,099 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:11:12,217 - Clicked Continue link!
+2025-08-27 12:11:17,916 - Successfully clicked Continue - advancing
+2025-08-27 12:11:21,554 - URL didn't change - may still be processing
+2025-08-27 12:11:21,555 - \n=== Processing page 7 ===
+2025-08-27 12:11:21,555 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:11:21,575 - Filling form fields...
+2025-08-27 12:11:21,649 - Selected state: CA
+2025-08-27 12:11:22,289 - Filled 1 fields
+2025-08-27 12:11:22,599 - Screenshot: screenshots/page_07_filled_1756321882.png
+2025-08-27 12:11:22,599 - Looking for Continue link...
+2025-08-27 12:11:22,623 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:11:22,731 - Clicked Continue link!
+2025-08-27 12:11:27,796 - Successfully clicked Continue - advancing
+2025-08-27 12:11:30,828 - URL didn't change - may still be processing
+2025-08-27 12:11:30,828 - \n=== Processing page 8 ===
+2025-08-27 12:11:30,828 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:11:30,845 - Filling form fields...
+2025-08-27 12:11:30,922 - Selected state: CA
+2025-08-27 12:11:31,477 - Filled 1 fields
+2025-08-27 12:11:31,778 - Screenshot: screenshots/page_08_filled_1756321891.png
+2025-08-27 12:11:31,778 - Looking for Continue link...
+2025-08-27 12:11:31,802 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:11:31,924 - Clicked Continue link!
+2025-08-27 12:11:36,000 - Successfully clicked Continue - advancing
+2025-08-27 12:11:38,877 - URL didn't change - may still be processing
+2025-08-27 12:11:38,877 - \n=== Processing page 9 ===
+2025-08-27 12:11:38,877 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:11:38,901 - Filling form fields...
+2025-08-27 12:11:38,991 - Selected state: CA
+2025-08-27 12:11:39,578 - Filled 1 fields
+2025-08-27 12:11:39,882 - Screenshot: screenshots/page_09_filled_1756321899.png
+2025-08-27 12:11:39,883 - Looking for Continue link...
+2025-08-27 12:11:39,909 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:11:40,015 - Clicked Continue link!
+2025-08-27 12:11:44,781 - Successfully clicked Continue - advancing
+2025-08-27 12:11:46,930 - URL didn't change - may still be processing
+2025-08-27 12:11:46,930 - \n=== Processing page 10 ===
+2025-08-27 12:11:46,930 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:11:46,950 - Filling form fields...
+2025-08-27 12:11:47,028 - Selected state: CA
+2025-08-27 12:11:47,605 - Filled 1 fields
+2025-08-27 12:11:47,901 - Screenshot: screenshots/page_10_filled_1756321907.png
+2025-08-27 12:11:47,901 - Looking for Continue link...
+2025-08-27 12:11:47,929 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:11:48,029 - Clicked Continue link!
+2025-08-27 12:11:53,955 - Successfully clicked Continue - advancing
+2025-08-27 12:11:56,634 - URL didn't change - may still be processing
+2025-08-27 12:11:56,635 - \n=== Processing page 11 ===
+2025-08-27 12:11:56,635 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:11:56,660 - Filling form fields...
+2025-08-27 12:11:56,750 - Selected state: CA
+2025-08-27 12:11:57,498 - Filled 1 fields
+2025-08-27 12:11:57,783 - Screenshot: screenshots/page_11_filled_1756321917.png
+2025-08-27 12:11:57,783 - Looking for Continue link...
+2025-08-27 12:11:57,809 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:11:57,907 - Clicked Continue link!
+2025-08-27 12:12:02,574 - Successfully clicked Continue - advancing
+2025-08-27 12:12:05,594 - URL didn't change - may still be processing
+2025-08-27 12:12:05,595 - \n=== Processing page 12 ===
+2025-08-27 12:12:05,595 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:12:05,616 - Filling form fields...
+2025-08-27 12:12:05,691 - Selected state: CA
+2025-08-27 12:12:06,291 - Filled 1 fields
+2025-08-27 12:12:06,597 - Screenshot: screenshots/page_12_filled_1756321926.png
+2025-08-27 12:12:06,597 - Looking for Continue link...
+2025-08-27 12:12:06,623 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:12:06,718 - Clicked Continue link!
+2025-08-27 12:12:12,653 - Successfully clicked Continue - advancing
+2025-08-27 12:12:16,373 - URL didn't change - may still be processing
+2025-08-27 12:12:16,373 - \n=== Processing page 13 ===
+2025-08-27 12:12:16,373 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:12:16,392 - Filling form fields...
+2025-08-27 12:12:16,480 - Selected state: CA
+2025-08-27 12:12:17,211 - Filled 1 fields
+2025-08-27 12:12:17,505 - Screenshot: screenshots/page_13_filled_1756321937.png
+2025-08-27 12:12:17,506 - Looking for Continue link...
+2025-08-27 12:12:17,537 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:12:17,644 - Clicked Continue link!
+2025-08-27 12:12:21,719 - Successfully clicked Continue - advancing
+2025-08-27 12:12:23,960 - URL didn't change - may still be processing
+2025-08-27 12:12:23,961 - \n=== Processing page 14 ===
+2025-08-27 12:12:23,961 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:12:23,981 - Filling form fields...
+2025-08-27 12:12:24,079 - Selected state: CA
+2025-08-27 12:12:24,867 - Filled 1 fields
+2025-08-27 12:12:25,222 - Screenshot: screenshots/page_14_filled_1756321944.png
+2025-08-27 12:12:25,223 - Looking for Continue link...
+2025-08-27 12:12:25,253 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:12:25,345 - Clicked Continue link!
+2025-08-27 12:12:30,813 - Successfully clicked Continue - advancing
+2025-08-27 12:12:33,352 - URL didn't change - may still be processing
+2025-08-27 12:12:33,353 - \n=== Processing page 15 ===
+2025-08-27 12:12:33,354 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:12:33,390 - Filling form fields...
+2025-08-27 12:12:33,478 - Selected state: CA
+2025-08-27 12:12:34,072 - Filled 1 fields
+2025-08-27 12:12:34,411 - Screenshot: screenshots/page_15_filled_1756321954.png
+2025-08-27 12:12:34,411 - Looking for Continue link...
+2025-08-27 12:12:34,443 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:12:34,557 - Clicked Continue link!
+2025-08-27 12:12:40,489 - Successfully clicked Continue - advancing
+2025-08-27 12:12:43,265 - URL didn't change - may still be processing
+2025-08-27 12:12:43,265 - \n=== Processing page 16 ===
+2025-08-27 12:12:43,265 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:12:43,283 - Filling form fields...
+2025-08-27 12:12:43,362 - Selected state: CA
+2025-08-27 12:12:43,967 - Filled 1 fields
+2025-08-27 12:12:44,265 - Screenshot: screenshots/page_16_filled_1756321963.png
+2025-08-27 12:12:44,265 - Looking for Continue link...
+2025-08-27 12:12:44,288 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:12:44,395 - Clicked Continue link!
+2025-08-27 12:12:49,693 - Successfully clicked Continue - advancing
+2025-08-27 12:12:52,237 - URL didn't change - may still be processing
+2025-08-27 12:12:52,237 - \n=== Processing page 17 ===
+2025-08-27 12:12:52,238 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:12:52,256 - Filling form fields...
+2025-08-27 12:12:52,340 - Selected state: CA
+2025-08-27 12:12:53,054 - Filled 1 fields
+2025-08-27 12:12:53,425 - Screenshot: screenshots/page_17_filled_1756321973.png
+2025-08-27 12:12:53,426 - Looking for Continue link...
+2025-08-27 12:12:53,521 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:12:53,635 - Clicked Continue link!
+2025-08-27 12:12:59,425 - Successfully clicked Continue - advancing
+2025-08-27 12:13:02,169 - URL didn't change - may still be processing
+2025-08-27 12:13:02,169 - \n=== Processing page 18 ===
+2025-08-27 12:13:02,169 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:13:02,186 - Filling form fields...
+2025-08-27 12:13:02,265 - Selected state: CA
+2025-08-27 12:13:02,838 - Filled 1 fields
+2025-08-27 12:13:03,154 - Screenshot: screenshots/page_18_filled_1756321982.png
+2025-08-27 12:13:03,155 - Looking for Continue link...
+2025-08-27 12:13:03,182 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:13:03,255 - Clicked Continue link!
+2025-08-27 12:13:08,583 - Successfully clicked Continue - advancing
+2025-08-27 12:13:10,874 - URL didn't change - may still be processing
+2025-08-27 12:13:10,874 - \n=== Processing page 19 ===
+2025-08-27 12:13:10,874 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:13:10,892 - Filling form fields...
+2025-08-27 12:13:10,965 - Selected state: CA
+2025-08-27 12:13:11,468 - Filled 1 fields
+2025-08-27 12:13:11,763 - Screenshot: screenshots/page_19_filled_1756321991.png
+2025-08-27 12:13:11,763 - Looking for Continue link...
+2025-08-27 12:13:11,786 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:13:11,894 - Clicked Continue link!
+2025-08-27 12:13:17,245 - Successfully clicked Continue - advancing
+2025-08-27 12:13:21,167 - URL didn't change - may still be processing
+2025-08-27 12:13:21,167 - \n=== Processing page 20 ===
+2025-08-27 12:13:21,167 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:13:21,184 - Filling form fields...
+2025-08-27 12:13:21,261 - Selected state: CA
+2025-08-27 12:13:21,802 - Filled 1 fields
+2025-08-27 12:13:22,101 - Screenshot: screenshots/page_20_filled_1756322001.png
+2025-08-27 12:13:22,101 - Looking for Continue link...
+2025-08-27 12:13:22,128 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:13:22,210 - Clicked Continue link!
+2025-08-27 12:13:27,372 - Successfully clicked Continue - advancing
+2025-08-27 12:13:31,371 - URL didn't change - may still be processing
+2025-08-27 12:13:31,371 - \n=== Processing page 21 ===
+2025-08-27 12:13:31,371 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:13:31,390 - Filling form fields...
+2025-08-27 12:13:31,462 - Selected state: CA
+2025-08-27 12:13:32,103 - Filled 1 fields
+2025-08-27 12:13:32,402 - Screenshot: screenshots/page_21_filled_1756322012.png
+2025-08-27 12:13:32,402 - Looking for Continue link...
+2025-08-27 12:13:32,433 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:13:32,542 - Clicked Continue link!
+2025-08-27 12:13:38,357 - Successfully clicked Continue - advancing
+2025-08-27 12:13:42,030 - URL didn't change - may still be processing
+2025-08-27 12:13:42,030 - \n=== Processing page 22 ===
+2025-08-27 12:13:42,030 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:13:42,050 - Filling form fields...
+2025-08-27 12:13:42,128 - Selected state: CA
+2025-08-27 12:13:42,659 - Filled 1 fields
+2025-08-27 12:13:42,944 - Screenshot: screenshots/page_22_filled_1756322022.png
+2025-08-27 12:13:42,944 - Looking for Continue link...
+2025-08-27 12:13:42,966 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:13:43,069 - Clicked Continue link!
+2025-08-27 12:13:49,033 - Successfully clicked Continue - advancing
+2025-08-27 12:13:52,498 - URL didn't change - may still be processing
+2025-08-27 12:13:52,498 - \n=== Processing page 23 ===
+2025-08-27 12:13:52,498 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:13:52,517 - Filling form fields...
+2025-08-27 12:13:52,594 - Selected state: CA
+2025-08-27 12:13:53,095 - Filled 1 fields
+2025-08-27 12:13:53,382 - Screenshot: screenshots/page_23_filled_1756322033.png
+2025-08-27 12:13:53,383 - Looking for Continue link...
+2025-08-27 12:13:53,410 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:13:53,502 - Clicked Continue link!
+2025-08-27 12:13:58,283 - Successfully clicked Continue - advancing
+2025-08-27 12:14:00,571 - URL didn't change - may still be processing
+2025-08-27 12:14:00,571 - \n=== Processing page 24 ===
+2025-08-27 12:14:00,571 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:14:00,597 - Filling form fields...
+2025-08-27 12:14:00,672 - Selected state: CA
+2025-08-27 12:14:01,284 - Filled 1 fields
+2025-08-27 12:14:01,579 - Screenshot: screenshots/page_24_filled_1756322041.png
+2025-08-27 12:14:01,580 - Looking for Continue link...
+2025-08-27 12:14:01,604 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:14:01,704 - Clicked Continue link!
+2025-08-27 12:14:06,653 - Successfully clicked Continue - advancing
+2025-08-27 12:14:09,828 - URL didn't change - may still be processing
+2025-08-27 12:14:09,828 - \n=== Processing page 25 ===
+2025-08-27 12:14:09,828 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:14:09,851 - Filling form fields...
+2025-08-27 12:14:09,929 - Selected state: CA
+2025-08-27 12:14:10,518 - Filled 1 fields
+2025-08-27 12:14:10,838 - Screenshot: screenshots/page_25_filled_1756322050.png
+2025-08-27 12:14:10,839 - Looking for Continue link...
+2025-08-27 12:14:10,865 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:14:10,954 - Clicked Continue link!
+2025-08-27 12:14:16,058 - Successfully clicked Continue - advancing
+2025-08-27 12:14:19,086 - URL didn't change - may still be processing
+2025-08-27 12:14:19,086 - \n=== Processing page 26 ===
+2025-08-27 12:14:19,087 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:14:19,107 - Filling form fields...
+2025-08-27 12:14:19,186 - Selected state: CA
+2025-08-27 12:14:19,785 - Filled 1 fields
+2025-08-27 12:14:20,086 - Screenshot: screenshots/page_26_filled_1756322059.png
+2025-08-27 12:14:20,086 - Looking for Continue link...
+2025-08-27 12:14:20,111 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:14:20,193 - Clicked Continue link!
+2025-08-27 12:14:25,679 - Successfully clicked Continue - advancing
+2025-08-27 12:14:28,691 - URL didn't change - may still be processing
+2025-08-27 12:14:28,691 - \n=== Processing page 27 ===
+2025-08-27 12:14:28,691 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:14:28,709 - Filling form fields...
+2025-08-27 12:14:28,785 - Selected state: CA
+2025-08-27 12:14:29,459 - Filled 1 fields
+2025-08-27 12:14:29,748 - Screenshot: screenshots/page_27_filled_1756322069.png
+2025-08-27 12:14:29,748 - Looking for Continue link...
+2025-08-27 12:14:29,774 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:14:29,863 - Clicked Continue link!
+2025-08-27 12:14:35,216 - Successfully clicked Continue - advancing
+2025-08-27 12:14:37,264 - URL didn't change - may still be processing
+2025-08-27 12:14:37,264 - \n=== Processing page 28 ===
+2025-08-27 12:14:37,264 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:14:37,289 - Filling form fields...
+2025-08-27 12:14:37,366 - Selected state: CA
+2025-08-27 12:14:38,045 - Filled 1 fields
+2025-08-27 12:14:38,349 - Screenshot: screenshots/page_28_filled_1756322078.png
+2025-08-27 12:14:38,349 - Looking for Continue link...
+2025-08-27 12:14:38,373 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:14:38,456 - Clicked Continue link!
+2025-08-27 12:14:43,812 - Successfully clicked Continue - advancing
+2025-08-27 12:14:46,497 - URL didn't change - may still be processing
+2025-08-27 12:14:46,497 - \n=== Processing page 29 ===
+2025-08-27 12:14:46,497 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:14:46,514 - Filling form fields...
+2025-08-27 12:14:46,593 - Selected state: CA
+2025-08-27 12:14:47,194 - Filled 1 fields
+2025-08-27 12:14:47,504 - Screenshot: screenshots/page_29_filled_1756322087.png
+2025-08-27 12:14:47,505 - Looking for Continue link...
+2025-08-27 12:14:47,528 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:14:47,603 - Clicked Continue link!
+2025-08-27 12:14:53,335 - Successfully clicked Continue - advancing
+2025-08-27 12:14:56,493 - URL didn't change - may still be processing
+2025-08-27 12:14:56,493 - \n=== Processing page 30 ===
+2025-08-27 12:14:56,493 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:14:56,511 - Filling form fields...
+2025-08-27 12:14:56,583 - Selected state: CA
+2025-08-27 12:14:57,057 - Filled 1 fields
+2025-08-27 12:14:57,354 - Screenshot: screenshots/page_30_filled_1756322097.png
+2025-08-27 12:14:57,355 - Looking for Continue link...
+2025-08-27 12:14:57,384 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:14:57,488 - Clicked Continue link!
+2025-08-27 12:15:03,277 - Successfully clicked Continue - advancing
+2025-08-27 12:15:05,816 - URL didn't change - may still be processing
+2025-08-27 12:15:05,816 - \n=== Processing page 31 ===
+2025-08-27 12:15:05,816 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:15:05,833 - Filling form fields...
+2025-08-27 12:15:05,920 - Selected state: CA
+2025-08-27 12:15:06,453 - Filled 1 fields
+2025-08-27 12:15:06,745 - Screenshot: screenshots/page_31_filled_1756322106.png
+2025-08-27 12:15:06,745 - Looking for Continue link...
+2025-08-27 12:15:06,768 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:15:06,873 - Clicked Continue link!
+2025-08-27 12:15:11,960 - Successfully clicked Continue - advancing
+2025-08-27 12:15:14,434 - URL didn't change - may still be processing
+2025-08-27 12:15:14,434 - \n=== Processing page 32 ===
+2025-08-27 12:15:14,434 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:15:14,451 - Filling form fields...
+2025-08-27 12:15:14,526 - Selected state: CA
+2025-08-27 12:15:15,092 - Filled 1 fields
+2025-08-27 12:15:15,378 - Screenshot: screenshots/page_32_filled_1756322115.png
+2025-08-27 12:15:15,378 - Looking for Continue link...
+2025-08-27 12:15:15,405 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:15:15,501 - Clicked Continue link!
+2025-08-27 12:15:20,936 - Successfully clicked Continue - advancing
+2025-08-27 12:15:24,509 - URL didn't change - may still be processing
+2025-08-27 12:15:24,509 - \n=== Processing page 33 ===
+2025-08-27 12:15:24,509 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:15:24,529 - Filling form fields...
+2025-08-27 12:15:24,611 - Selected state: CA
+2025-08-27 12:15:25,197 - Filled 1 fields
+2025-08-27 12:15:25,503 - Screenshot: screenshots/page_33_filled_1756322125.png
+2025-08-27 12:15:25,504 - Looking for Continue link...
+2025-08-27 12:15:25,529 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:15:25,600 - Clicked Continue link!
+2025-08-27 12:15:30,072 - Successfully clicked Continue - advancing
+2025-08-27 12:15:32,324 - URL didn't change - may still be processing
+2025-08-27 12:15:32,324 - \n=== Processing page 34 ===
+2025-08-27 12:15:32,325 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:15:32,341 - Filling form fields...
+2025-08-27 12:15:32,418 - Selected state: CA
+2025-08-27 12:15:32,993 - Filled 1 fields
+2025-08-27 12:15:33,276 - Screenshot: screenshots/page_34_filled_1756322132.png
+2025-08-27 12:15:33,276 - Looking for Continue link...
+2025-08-27 12:15:33,300 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:15:33,422 - Clicked Continue link!
+2025-08-27 12:15:38,001 - Successfully clicked Continue - advancing
+2025-08-27 12:15:40,450 - URL didn't change - may still be processing
+2025-08-27 12:15:40,450 - \n=== Processing page 35 ===
+2025-08-27 12:15:40,451 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:15:40,467 - Filling form fields...
+2025-08-27 12:15:40,544 - Selected state: CA
+2025-08-27 12:15:41,332 - Filled 1 fields
+2025-08-27 12:15:41,653 - Screenshot: screenshots/page_35_filled_1756322141.png
+2025-08-27 12:15:41,653 - Looking for Continue link...
+2025-08-27 12:15:41,681 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:15:41,780 - Clicked Continue link!
+2025-08-27 12:15:47,209 - Successfully clicked Continue - advancing
+2025-08-27 12:15:50,138 - URL didn't change - may still be processing
+2025-08-27 12:15:50,139 - \n=== Processing page 36 ===
+2025-08-27 12:15:50,139 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:15:50,157 - Filling form fields...
+2025-08-27 12:15:50,241 - Selected state: CA
+2025-08-27 12:15:50,929 - Filled 1 fields
+2025-08-27 12:15:51,244 - Screenshot: screenshots/page_36_filled_1756322150.png
+2025-08-27 12:15:51,244 - Looking for Continue link...
+2025-08-27 12:15:51,267 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:15:51,365 - Clicked Continue link!
+2025-08-27 12:15:56,644 - Successfully clicked Continue - advancing
+2025-08-27 12:15:59,669 - URL didn't change - may still be processing
+2025-08-27 12:15:59,670 - \n=== Processing page 37 ===
+2025-08-27 12:15:59,670 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:15:59,687 - Filling form fields...
+2025-08-27 12:15:59,762 - Selected state: CA
+2025-08-27 12:16:00,437 - Filled 1 fields
+2025-08-27 12:16:00,729 - Screenshot: screenshots/page_37_filled_1756322160.png
+2025-08-27 12:16:00,729 - Looking for Continue link...
+2025-08-27 12:16:00,755 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:16:00,835 - Clicked Continue link!
+2025-08-27 12:16:05,821 - Successfully clicked Continue - advancing
+2025-08-27 12:16:09,576 - URL didn't change - may still be processing
+2025-08-27 12:16:09,576 - \n=== Processing page 38 ===
+2025-08-27 12:16:09,576 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:16:09,596 - Filling form fields...
+2025-08-27 12:16:09,673 - Selected state: CA
+2025-08-27 12:16:10,188 - Filled 1 fields
+2025-08-27 12:16:10,490 - Screenshot: screenshots/page_38_filled_1756322170.png
+2025-08-27 12:16:10,490 - Looking for Continue link...
+2025-08-27 12:16:10,521 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:16:10,620 - Clicked Continue link!
+2025-08-27 12:16:14,916 - Successfully clicked Continue - advancing
+2025-08-27 12:16:17,757 - URL didn't change - may still be processing
+2025-08-27 12:16:17,758 - \n=== Processing page 39 ===
+2025-08-27 12:16:17,758 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:16:17,777 - Filling form fields...
+2025-08-27 12:16:17,852 - Selected state: CA
+2025-08-27 12:16:18,380 - Filled 1 fields
+2025-08-27 12:16:18,680 - Screenshot: screenshots/page_39_filled_1756322178.png
+2025-08-27 12:16:18,680 - Looking for Continue link...
+2025-08-27 12:16:18,705 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:16:18,783 - Clicked Continue link!
+2025-08-27 12:16:24,260 - Successfully clicked Continue - advancing
+2025-08-27 12:16:27,782 - URL didn't change - may still be processing
+2025-08-27 12:16:27,782 - \n=== Processing page 40 ===
+2025-08-27 12:16:27,782 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:16:27,799 - Filling form fields...
+2025-08-27 12:16:27,871 - Selected state: CA
+2025-08-27 12:16:28,448 - Filled 1 fields
+2025-08-27 12:16:28,760 - Screenshot: screenshots/page_40_filled_1756322188.png
+2025-08-27 12:16:28,760 - Looking for Continue link...
+2025-08-27 12:16:28,786 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:16:28,887 - Clicked Continue link!
+2025-08-27 12:16:33,311 - Successfully clicked Continue - advancing
+2025-08-27 12:16:36,772 - URL didn't change - may still be processing
+2025-08-27 12:16:36,773 - \n=== Processing page 41 ===
+2025-08-27 12:16:36,773 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:16:36,789 - Filling form fields...
+2025-08-27 12:16:36,862 - Selected state: CA
+2025-08-27 12:16:37,564 - Filled 1 fields
+2025-08-27 12:16:37,862 - Screenshot: screenshots/page_41_filled_1756322197.png
+2025-08-27 12:16:37,862 - Looking for Continue link...
+2025-08-27 12:16:37,891 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:16:37,986 - Clicked Continue link!
+2025-08-27 12:16:43,940 - Successfully clicked Continue - advancing
+2025-08-27 12:16:46,602 - URL didn't change - may still be processing
+2025-08-27 12:16:46,602 - \n=== Processing page 42 ===
+2025-08-27 12:16:46,602 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:16:46,622 - Filling form fields...
+2025-08-27 12:16:46,708 - Selected state: CA
+2025-08-27 12:16:47,162 - Filled 1 fields
+2025-08-27 12:16:47,466 - Screenshot: screenshots/page_42_filled_1756322207.png
+2025-08-27 12:16:47,466 - Looking for Continue link...
+2025-08-27 12:16:47,492 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:16:47,573 - Clicked Continue link!
+2025-08-27 12:16:53,544 - Successfully clicked Continue - advancing
+2025-08-27 12:16:56,712 - URL didn't change - may still be processing
+2025-08-27 12:16:56,712 - \n=== Processing page 43 ===
+2025-08-27 12:16:56,712 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:16:56,728 - Filling form fields...
+2025-08-27 12:16:56,804 - Selected state: CA
+2025-08-27 12:16:57,448 - Filled 1 fields
+2025-08-27 12:16:57,735 - Screenshot: screenshots/page_43_filled_1756322217.png
+2025-08-27 12:16:57,735 - Looking for Continue link...
+2025-08-27 12:16:57,762 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:16:57,871 - Clicked Continue link!
+2025-08-27 12:17:02,823 - Successfully clicked Continue - advancing
+2025-08-27 12:17:05,075 - URL didn't change - may still be processing
+2025-08-27 12:17:05,075 - \n=== Processing page 44 ===
+2025-08-27 12:17:05,075 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:17:05,096 - Filling form fields...
+2025-08-27 12:17:05,177 - Selected state: CA
+2025-08-27 12:17:05,861 - Filled 1 fields
+2025-08-27 12:17:06,193 - Screenshot: screenshots/page_44_filled_1756322225.png
+2025-08-27 12:17:06,193 - Looking for Continue link...
+2025-08-27 12:17:06,216 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:17:06,318 - Clicked Continue link!
+2025-08-27 12:17:11,354 - Successfully clicked Continue - advancing
+2025-08-27 12:17:13,495 - URL didn't change - may still be processing
+2025-08-27 12:17:13,495 - \n=== Processing page 45 ===
+2025-08-27 12:17:13,495 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:17:13,515 - Filling form fields...
+2025-08-27 12:17:13,592 - Selected state: CA
+2025-08-27 12:17:14,305 - Filled 1 fields
+2025-08-27 12:17:14,625 - Screenshot: screenshots/page_45_filled_1756322234.png
+2025-08-27 12:17:14,626 - Looking for Continue link...
+2025-08-27 12:17:14,653 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:17:14,759 - Clicked Continue link!
+2025-08-27 12:17:20,677 - Successfully clicked Continue - advancing
+2025-08-27 12:17:24,583 - URL didn't change - may still be processing
+2025-08-27 12:17:24,583 - \n=== Processing page 46 ===
+2025-08-27 12:17:24,583 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:17:24,600 - Filling form fields...
+2025-08-27 12:17:24,678 - Selected state: CA
+2025-08-27 12:17:25,438 - Filled 1 fields
+2025-08-27 12:17:25,758 - Screenshot: screenshots/page_46_filled_1756322245.png
+2025-08-27 12:17:25,758 - Looking for Continue link...
+2025-08-27 12:17:25,780 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:17:25,898 - Clicked Continue link!
+2025-08-27 12:17:30,838 - Successfully clicked Continue - advancing
+2025-08-27 12:17:34,290 - URL didn't change - may still be processing
+2025-08-27 12:17:34,290 - \n=== Processing page 47 ===
+2025-08-27 12:17:34,290 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:17:34,310 - Filling form fields...
+2025-08-27 12:17:34,405 - Selected state: CA
+2025-08-27 12:17:34,976 - Filled 1 fields
+2025-08-27 12:17:35,291 - Screenshot: screenshots/page_47_filled_1756322254.png
+2025-08-27 12:17:35,291 - Looking for Continue link...
+2025-08-27 12:17:35,315 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:17:35,423 - Clicked Continue link!
+2025-08-27 12:17:40,124 - Successfully clicked Continue - advancing
+2025-08-27 12:17:42,964 - URL didn't change - may still be processing
+2025-08-27 12:17:42,965 - \n=== Processing page 48 ===
+2025-08-27 12:17:42,965 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:17:42,982 - Filling form fields...
+2025-08-27 12:17:43,066 - Selected state: CA
+2025-08-27 12:17:43,752 - Filled 1 fields
+2025-08-27 12:17:44,092 - Screenshot: screenshots/page_48_filled_1756322263.png
+2025-08-27 12:17:44,093 - Looking for Continue link...
+2025-08-27 12:17:44,116 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:17:44,248 - Clicked Continue link!
+2025-08-27 12:17:49,442 - Successfully clicked Continue - advancing
+2025-08-27 12:17:53,310 - URL didn't change - may still be processing
+2025-08-27 12:17:53,311 - \n=== Processing page 49 ===
+2025-08-27 12:17:53,311 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:17:53,328 - Filling form fields...
+2025-08-27 12:17:53,408 - Selected state: CA
+2025-08-27 12:17:54,164 - Filled 1 fields
+2025-08-27 12:17:54,467 - Screenshot: screenshots/page_49_filled_1756322274.png
+2025-08-27 12:17:54,468 - Looking for Continue link...
+2025-08-27 12:17:54,493 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:17:54,567 - Clicked Continue link!
+2025-08-27 12:17:59,589 - Successfully clicked Continue - advancing
+2025-08-27 12:18:02,181 - URL didn't change - may still be processing
+2025-08-27 12:18:02,181 - \n=== Processing page 50 ===
+2025-08-27 12:18:02,181 - URL: https://sa.www4.irs.gov/applyein/legalStructure
+2025-08-27 12:18:02,201 - Filling form fields...
+2025-08-27 12:18:02,298 - Selected state: CA
+2025-08-27 12:18:03,010 - Filled 1 fields
+2025-08-27 12:18:03,313 - Screenshot: screenshots/page_50_filled_1756322283.png
+2025-08-27 12:18:03,313 - Looking for Continue link...
+2025-08-27 12:18:03,337 - Found Continue link: 'Continue' (a.irs-button:has-text("Continue"))
+2025-08-27 12:18:03,422 - Clicked Continue link!
+2025-08-27 12:18:07,838 - Successfully clicked Continue - advancing
+2025-08-27 12:18:10,620 - URL didn't change - may still be processing
+2025-08-27 12:18:10,959 - Screenshot: screenshots/07_automation_completed_1756322290.png
