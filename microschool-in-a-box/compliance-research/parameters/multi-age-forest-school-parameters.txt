@@ -1,7 +1,7 @@
 MULTI-AGE FOREST SCHOOL PARAMETERS
 
-State: [TO BE SPECIFIED]
-County: [TO BE SPECIFIED]
+State: California
+County: San Francisco
 Number of teachers: 2
 Number of children: 18
 Age of youngest child: 4

@@ -1,0 +1,12 @@
+# Ignore all parent directories that don't belong to this project
+../*/
+!../microschool-in-a-box/
+
+# Ignore common development files
+.DS_Store
+*.log
+node_modules/
+.env
+.env.local
+.env.production
+.env.development

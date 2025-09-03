@@ -30,7 +30,9 @@
       "Bash(move customer-intake-quiz.txt website/)",
       "WebFetch(domain:www3.cde.ca.gov)",
       "WebFetch(domain:library.municode.com)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(true)",
+      "Bash(git clean:*)"
     ],
     "deny": []
   }
