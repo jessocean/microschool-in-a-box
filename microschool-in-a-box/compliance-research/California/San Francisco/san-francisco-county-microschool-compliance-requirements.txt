@@ -1,0 +1,374 @@
+MICROSCHOOL COMPLIANCE REQUIREMENTS
+===================================
+San Francisco, California
+
+PARAMETERS USED:
+- State: California
+- County: San Francisco
+- Number of teachers: 2
+- Number of children: 18
+- Age of youngest child: 4
+- Age of oldest child: 16
+- Parents present: Yes (seasonal volunteers)
+- Food served: Yes
+- Building type: Outdoor classroom with shelter
+
+Date of Research: 2025-09-03
+Researcher: Claude Code
+
+SECTION A: STATE REQUIREMENTS
+=============================
+
+A.1 SCHOOL LICENSING REQUIREMENTS
+---------------------------------
+
+Private School Affidavit Filing:
+- Description: School must file Private School Affidavit (PSA) annually by October 15
+- Approving body: California Department of Education
+- Jurisdiction: California
+- Application/approval required: Annual affidavit filing required
+- Requirement applies: Yes - serving 18 children ages 4-16
+- Form requirements: Private School Affidavit form available at [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp]
+- Submission methods:
+  1. Online submission via DataQuest (preferred) [https://www.cde.ca.gov/ds/sd/sd/psasubmit.asp]
+  2. Mail to CDE - Private School Unit, 1430 N Street, Suite 5401, Sacramento, CA 95814
+- Application fees: No fee required
+- Published processing time: Immediate confirmation online; 2-3 weeks by mail
+- Mandatory fields: School name, address, enrollment by grade, instructional days, personnel information
+- Prerequisites: None
+[https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp; Private School Affidavit Requirements]
+
+Instructional Minutes Requirement:
+- Description: School must provide minimum 36,000 instructional minutes per year for grades K-3, 54,000 minutes for grades 4-8, 64,800 minutes for grades 9-12
+- Approving body: California Department of Education
+- Jurisdiction: California
+- Application/approval required: No approval required - enforcement only
+- Requirement applies: Yes - serving mixed age groups 4-16
+- Prerequisites: Private School Affidavit filing
+[https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=47612; Section 47612]
+
+Teacher Qualification Requirements:
+- Description: Teachers must possess a bachelor's degree or demonstrate competency in subjects taught
+- Approving body: California Department of Education
+- Jurisdiction: California
+- Application/approval required: No approval required - enforcement only
+- Requirement applies: Yes - 2 teachers employed
+- Form requirements: Competency documentation if no degree
+[https://www.cde.ca.gov/sp/ps/rq/psteacherreq.asp; Teacher Requirements for Private Schools]
+
+A.2 EMPLOYMENT LAW REQUIREMENTS
+-------------------------------
+
+Workers' Compensation Insurance:
+- Description: All employers must carry workers' compensation insurance for employees
+- Approving body: California Department of Industrial Relations
+- Jurisdiction: California
+- Application/approval required: Insurance policy required, no state approval needed
+- Requirement applies: Yes - employing 2 teachers
+- Form requirements: Policy must be obtained from state-certified carrier
+- Application fees: Premium based on payroll and risk classification
+- Processing time: Immediate upon policy purchase
+[https://www.dir.ca.gov/dwc/WCLaws.html; Workers' Compensation Requirements]
+
+Employment Development Department Registration:
+- Description: Employers must register with EDD for payroll taxes and unemployment insurance
+- Approving body: California Employment Development Department
+- Jurisdiction: California
+- Application/approval required: Registration required
+- Requirement applies: Yes - employing 2 teachers
+- Form requirements: DE 1 Registration form
+- Submission methods:
+  1. Online registration at [https://eddservices.edd.ca.gov/]
+  2. Mail completed DE 1 form
+- Application fees: No registration fee
+- Processing time: 2-3 weeks for account setup
+[https://edd.ca.gov/en/payroll_taxes/reporting_wages_and_paying_payroll_taxes; Payroll Tax Requirements]
+
+A.3 BUSINESS REGISTRATION REQUIREMENTS
+-------------------------------------
+
+Fictitious Business Name Statement (if applicable):
+- Description: If operating under name other than legal entity name, must file DBA statement
+- Approving body: San Francisco County Clerk
+- Jurisdiction: San Francisco County
+- Application/approval required: Statement filing required if using fictitious name
+- Requirement applies: Depends on chosen school name vs legal entity name
+- Form requirements: Fictitious Business Name Statement
+- Application fees: $45 initial filing plus publication costs (~$120-200)
+- Processing time: Immediate filing, 4-6 weeks including publication
+[https://sfgov.org/countyclerk/fictitious-business-names; FBN Requirements]
+
+State of California Entity Formation:
+- Description: If operating as corporation, LLC, or partnership, must register with Secretary of State
+- Approving body: California Secretary of State
+- Jurisdiction: California
+- Application/approval required: Articles of Incorporation/Organization required
+- Requirement applies: Depends on chosen business structure
+- Form requirements: LLC-1 for LLC, Articles of Incorporation for corporation
+- Submission methods:
+  1. Online filing at [https://bizfile.sos.ca.gov/]
+  2. Mail to Secretary of State
+- Application fees: $70 for LLC, $100 for corporation
+- Processing time: 2-3 business days online, 15 business days by mail
+[https://www.sos.ca.gov/business-programs/business-entities; Business Entity Formation]
+
+A.4 TAX OBLIGATIONS
+------------------
+
+Federal Employer Identification Number (EIN):
+- Description: Required for all businesses with employees
+- Approving body: Internal Revenue Service
+- Jurisdiction: Federal
+- Application/approval required: EIN application required
+- Requirement applies: Yes - employing 2 teachers
+- Form requirements: SS-4 Application for EIN
+- Submission methods:
+  1. Online application at [https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online]
+  2. Fax: 855-641-6935
+  3. Mail: Internal Revenue Service, Attn: EIN Operation, Cincinnati, OH 45999
+- Application fees: No fee for direct IRS application
+- Processing time: Immediate online, 4 business days by fax, 4-6 weeks by mail
+[https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers; EIN Requirements]
+
+California Seller's Permit (if selling items):
+- Description: Required if selling tangible goods or food items
+- Approving body: California Department of Tax and Fee Administration
+- Jurisdiction: California
+- Application/approval required: Permit application required if selling goods
+- Requirement applies: Possibly - if selling food or educational materials
+- Form requirements: BOE-400-SPA Application for Seller's Permit
+- Submission methods:
+  1. Online at [https://www.cdtfa.ca.gov/services/]
+  2. Mail completed application
+- Application fees: No application fee, security deposit may be required
+- Processing time: 1-2 weeks online, 2-4 weeks by mail
+[https://www.cdtfa.ca.gov/industry/selling-in-california.htm; Seller's Permit Requirements]
+
+A.5 BUILDING AND FIRE SAFETY REQUIREMENTS
+-----------------------------------------
+
+California Building Code Compliance:
+- Description: All structures used for educational occupancy must comply with CBC Title 24
+- Approving body: Local Building Department (San Francisco Department of Building Inspection)
+- Jurisdiction: California/San Francisco
+- Application/approval required: Building permits required for educational occupancy
+- Requirement applies: Yes - outdoor classroom with shelter structure
+- Form requirements: Building permit application with structural plans
+- Prerequisites: Zoning compliance verification
+[https://www.dgs.ca.gov/BSC/Codes; California Building Code]
+
+Fire Safety Plan:
+- Description: Educational facilities must have fire safety and evacuation plan
+- Approving body: San Francisco Fire Department
+- Jurisdiction: San Francisco
+- Application/approval required: Plan approval required for educational occupancy
+- Requirement applies: Yes - serving 18 children
+- Form requirements: Fire safety plan documentation
+[https://sf-fire.org/fire-prevention-services; Fire Safety Requirements]
+
+A.6 FOOD SERVICE REQUIREMENTS
+-----------------------------
+
+California Retail Food Code Compliance:
+- Description: Facilities serving food to children must comply with food safety regulations
+- Approving body: Local Health Department (San Francisco Department of Public Health)
+- Jurisdiction: California/San Francisco
+- Application/approval required: Food service permit required
+- Requirement applies: Yes - food served to 18 children
+- Form requirements: Food service permit application
+- Application fees: Based on facility type and risk level
+- Prerequisites: Food handler certification for staff
+[https://www.cdph.ca.gov/Programs/CEH/DFDCS/CDPH%20Document%20Library/FDB/FoodSafetyProgram/RetailFoodCode/RetailFoodCode.pdf; California Retail Food Code]
+
+A.7 ACCREDITATION REQUIREMENTS
+------------------------------
+
+Optional Accreditation:
+- Description: Private schools may seek accreditation from state-approved agencies
+- Approving body: Various accrediting organizations (WASC, CAIS, etc.)
+- Jurisdiction: California
+- Application/approval required: Voluntary accreditation process
+- Requirement applies: Optional - not mandatory for private schools
+- Application fees: Varies by accrediting body ($2,000-10,000+)
+- Processing time: 1-2 year evaluation process
+[https://www.cde.ca.gov/sp/ps/rq/psaccreditation.asp; Private School Accreditation]
+
+SECTION B: COUNTY/LOCAL REQUIREMENTS
+====================================
+
+B.1 ZONING REQUIREMENTS
+----------------------
+
+Conditional Use Permit for Educational Facility:
+- Description: Educational facilities in non-school zoned areas require conditional use permit
+- Approving body: San Francisco Planning Department
+- Jurisdiction: San Francisco
+- Application/approval required: Conditional Use Authorization required
+- Requirement applies: Yes - outdoor classroom likely requires CU permit
+- Form requirements: Conditional Use Application with site plans
+- Submission methods:
+  1. Online submission via SF Planning portal
+  2. In-person submission at 49 South Van Ness Ave, Suite 1400
+- Application fees: $5,661 base fee plus additional costs based on project scope
+- Processing time: 4-6 months for standard conditional use
+- Mandatory fields: Project description, site plans, operational plan, neighborhood notification
+- Prerequisites: Pre-application meeting with planning staff
+[https://sfplanning.org/conditional-use-authorization; CU Application Process]
+
+Zoning Compliance Verification:
+- Description: Verify outdoor educational use is permitted in specific zoning district
+- Approving body: San Francisco Planning Department
+- Jurisdiction: San Francisco
+- Application/approval required: Zoning verification letter may be required
+- Requirement applies: Yes - must verify compliance with property zoning
+- Form requirements: Property information for zoning verification
+- Application fees: $193 for zoning verification letter
+- Processing time: 2-3 weeks
+[https://sfplanning.org/zoning-information-map; Zoning Requirements]
+
+B.2 BUILDING PERMITS AND CODES
+------------------------------
+
+Building Permit for Shelter Structure:
+- Description: Any permanent or temporary structure requires building permit
+- Approving body: San Francisco Department of Building Inspection
+- Jurisdiction: San Francisco
+- Application/approval required: Building permit required for shelter construction
+- Requirement applies: Yes - outdoor classroom with shelter
+- Form requirements: Building permit application with structural drawings
+- Submission methods:
+  1. Online submission via SF DBI portal
+  2. In-person at 1660 Mission Street
+- Application fees: Based on construction value (minimum $300)
+- Processing time: 4-6 weeks for standard permits
+- Mandatory fields: Construction drawings, structural calculations, contractor information
+- Prerequisites: Zoning compliance, approved plans
+[https://sfdbi.org/building-permits; Building Permit Process]
+
+Accessibility Compliance (ADA):
+- Description: Educational facilities must comply with Americans with Disabilities Act
+- Approving body: San Francisco Department of Building Inspection
+- Jurisdiction: San Francisco/Federal
+- Application/approval required: ADA compliance review during permit process
+- Requirement applies: Yes - serving children with potential accessibility needs
+- Form requirements: Accessibility compliance plans included in building permit
+- Prerequisites: Building permit application
+[https://sfdbi.org/accessibility-compliance; ADA Requirements]
+
+B.3 LOCAL BUSINESS LICENSING
+----------------------------
+
+San Francisco Business Registration:
+- Description: All businesses operating in San Francisco must register with the city
+- Approving body: San Francisco Office of the Treasurer & Tax Collector
+- Jurisdiction: San Francisco
+- Application/approval required: Business registration certificate required
+- Requirement applies: Yes - operating educational business in SF
+- Form requirements: Business registration application
+- Submission methods:
+  1. Online at [https://businessportal.sfgov.org/]
+  2. In-person at City Hall, Room 140
+- Application fees: $35-91 based on business type
+- Processing time: Same day if submitted online with complete information
+- Mandatory fields: Business information, ownership details, business activity description
+[https://sftreasurer.org/business-registration; Business Registration]
+
+B.4 FOOD SERVICE PERMITS
+------------------------
+
+San Francisco Health Department Food Service Permit:
+- Description: Any facility serving food must obtain health department permit
+- Approving body: San Francisco Department of Public Health
+- Jurisdiction: San Francisco
+- Application/approval required: Food service permit required
+- Requirement applies: Yes - serving food to 18 children
+- Form requirements: Food service permit application
+- Submission methods:
+  1. Online application via SF Health portal
+  2. In-person at 101 Grove Street
+- Application fees: $478-1,436 based on facility risk level
+- Processing time: 2-4 weeks after inspection
+- Mandatory fields: Facility information, menu details, food safety plan
+- Prerequisites: Food handler certification for all food service staff
+[https://www.sfdph.org/dph/EH/Food/default.asp; Food Service Permits]
+
+Food Handler Certification:
+- Description: All staff handling food must complete food safety training
+- Approving body: San Francisco Department of Public Health
+- Jurisdiction: San Francisco
+- Application/approval required: Individual certification required
+- Requirement applies: Yes - all staff involved in food service
+- Form requirements: Food safety training completion certificate
+- Application fees: $10 per person for SF Food Handler Card
+- Processing time: Same day online, 1 week for card mailing
+[https://www.sfdph.org/dph/EH/Food/FoodHandlerCard.asp; Food Handler Requirements]
+
+B.5 FIRE SAFETY REQUIREMENTS
+----------------------------
+
+San Francisco Fire Department Permit:
+- Description: Educational facilities must obtain fire department operational permit
+- Approving body: San Francisco Fire Department
+- Jurisdiction: San Francisco
+- Application/approval required: Fire department permit required
+- Requirement applies: Yes - educational facility serving children
+- Form requirements: Fire department permit application with safety plan
+- Application fees: $200-500 based on facility type
+- Processing time: 2-3 weeks after inspection
+- Prerequisites: Building permit approval, fire safety plan
+[https://sf-fire.org/fire-prevention-services; Fire Department Permits]
+
+Emergency Evacuation Plan:
+- Description: Must develop and file emergency evacuation procedures
+- Approving body: San Francisco Fire Department
+- Jurisdiction: San Francisco
+- Application/approval required: Plan filing required
+- Requirement applies: Yes - outdoor facility with 18 children ages 4-16
+- Form requirements: Written evacuation plan with site-specific procedures
+[https://sf-fire.org/emergency-preparedness; Emergency Planning Requirements]
+
+B.6 OTHER LOCAL REQUIREMENTS
+----------------------------
+
+Seasonal Volunteer Background Check Requirements:
+- Description: Adults regularly present around children may require background checks
+- Approving body: California Department of Justice
+- Jurisdiction: California
+- Application/approval required: Background check clearance may be required
+- Requirement applies: Yes - seasonal parent volunteers working with children
+- Form requirements: Live Scan fingerprinting (if required by school policy)
+- Application fees: $49 for DOJ background check plus fingerprinting fees
+- Processing time: 2-3 weeks for clearance
+[https://oag.ca.gov/fingerprints/locations; Background Check Requirements]
+
+Outdoor Education Special Considerations:
+- Description: Outdoor educational programs may have additional safety requirements
+- Approving body: San Francisco Recreation and Parks Department (if on park land)
+- Jurisdiction: San Francisco
+- Application/approval required: Special use permit if using public lands
+- Requirement applies: Depends on location of outdoor classroom
+- Form requirements: Special use permit application
+- Application fees: Varies based on use type and duration
+- Processing time: 4-8 weeks
+[https://sfrecpark.org/permits-reservations/; Special Use Permits]
+
+SECTION C: SOURCES AND CITATIONS
+================================
+
+1. California Department of Education - Private School Requirements [https://www.cde.ca.gov/sp/ps/rq/psprivateschools.asp]
+2. California Education Code Section 47612 [https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=47612]
+3. California Department of Industrial Relations - Workers' Compensation [https://www.dir.ca.gov/dwc/WCLaws.html]
+4. California Employment Development Department [https://edd.ca.gov/en/payroll_taxes/reporting_wages_and_paying_payroll_taxes]
+5. San Francisco County Clerk - Fictitious Business Names [https://sfgov.org/countyclerk/fictitious-business-names]
+6. California Secretary of State - Business Entities [https://www.sos.ca.gov/business-programs/business-entities]
+7. Internal Revenue Service - EIN Requirements [https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers]
+8. California Department of Tax and Fee Administration [https://www.cdtfa.ca.gov/industry/selling-in-california.htm]
+9. California Department of General Services - Building Code [https://www.dgs.ca.gov/BSC/Codes]
+10. San Francisco Fire Department [https://sf-fire.org/fire-prevention-services]
+11. California Department of Public Health - Retail Food Code [https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/RetailFoodSafety/RetailFoodCode.aspx]
+12. San Francisco Planning Department [https://sfplanning.org/conditional-use-authorization]
+13. San Francisco Department of Building Inspection [https://sfdbi.org/building-permits]
+14. San Francisco Treasurer & Tax Collector [https://sftreasurer.org/business-registration]
+15. San Francisco Department of Public Health - Food Service [https://www.sfdph.org/dph/EH/Food/default.asp]
+16. California Department of Justice - Background Checks [https://oag.ca.gov/fingerprints/locations]
+17. San Francisco Recreation and Parks Department [https://sfrecpark.org/permits-reservations/]
